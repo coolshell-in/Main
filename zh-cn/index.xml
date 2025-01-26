@@ -453,19 +453,19 @@ or elsewhere? Link to your examples here.&lt;/p></description></item><item><titl
 &lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
 &lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p></description></item><item><title>Contribution Guidelines</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/contribution-guidelines/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/contribution-guidelines/</guid><description>&lt;div class="pageinfo pageinfo-primary">
 &lt;p>These basic sample guidelines assume that your Docsy site is deployed using Netlify and your files are stored in GitHub. You can use the guidelines &amp;ldquo;as is&amp;rdquo; or adapt them with your own instructions: for example, other deployment options, information about your doc project&amp;rsquo;s file structure, project-specific review guidelines, versioning guidelines, or any other information your users might find useful when updating your site. &lt;a href="https://github.com/kubeflow/website/blob/master/README.md">Kubeflow&lt;/a> has a great example.&lt;/p>
-&lt;p>Don&amp;rsquo;t forget to link to your own doc repo rather than our example site! Also make sure users can find these guidelines from your doc repo README: either add them there and link to them from this page, add them here and link to them from the README, or include them in both locations.&lt;/p></description></item><item><title>Hugo - Docsy</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/study/hugo/hugo-theme-docsy-configuration/</link><pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/study/hugo/hugo-theme-docsy-configuration/</guid><description>&lt;p>本项目采纳主题&lt;a href="https://www.docsy.dev/">Hugo - Docsy&lt;/a>&lt;/p>
+&lt;p>Don&amp;rsquo;t forget to link to your own doc repo rather than our example site! Also make sure users can find these guidelines from your doc repo README: either add them there and link to them from this page, add them here and link to them from the README, or include them in both locations.&lt;/p></description></item><item><title>Hugo - Docsy</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/study/hugo/hugo-theme-docsy-configuration/</link><pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/study/hugo/hugo-theme-docsy-configuration/</guid><description>&lt;p>本项目采纳主题&lt;a href="https://www.docsy.dev/">Hugo-Docsy&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://scp3125.github.io/hugo-docsy/zh-cn/">测试网页&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://github.com/scp3125/hugo-docsy">测试库&lt;/a>&lt;/p>
 &lt;h1 id="安装方式">安装方式&lt;a class="td-heading-self-link" href="#%e5%ae%89%e8%a3%85%e6%96%b9%e5%bc%8f" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>目前本主题的安装方式是怎样的？例如远程主题、gem-based，或还有其他方式。为何在本站根目录中没有发现hugo建站相关的程序文件和theme 目录？&lt;/p>
-&lt;p>我们寻找Hugo的配置文件的位置，为了查找静态页面保存的文件目录（ publishDir）的配置，可能有几个文件与该配置相关：&lt;/p>
+&lt;p>我们寻找Hugo的配置文件的位置，为了查找静态页面所保存的文件目录&lt;code>publishDir=public&lt;/code>的配置，可能有几个文件与该配置相关：&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>config/_default/config.toml
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/_default/config.yaml
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/_default/config.json
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/production/config.toml
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/production/config.yaml
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/production/config.json
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如果不采用docker方法安装，需要删除它们吧。&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如果不采用docker方法安装，需要删除docker相关文件吧，包括哪些文件清单？&lt;/p>
 &lt;h1 id="整站页面配置">整站页面配置&lt;a class="td-heading-self-link" href="#%e6%95%b4%e7%ab%99%e9%a1%b5%e9%9d%a2%e9%85%8d%e7%bd%ae" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>这个页面./community/ 的内容在哪里修改？前端页面有内容，但是打开这个文件，却看不到正文内容，搜索“Goldydocs community”，没找到文件。&lt;/p>
 &lt;p>A：逻辑和搜索框一样，在i18n文件夹下zh-cn.toml 配置覆盖，所有的语言配置在https://github.com/google/docsy/tree/main/i18n&lt;/p>
@@ -489,7 +489,12 @@ menu:
 main:
 - name: 博客
 weight: 50
-url: &amp;ldquo;&lt;a href="https://blog.coolshell.in">https://blog.coolshell.in&lt;/a>&amp;rdquo;&lt;/p></description></item><item><title>Easy documentation with Docsy</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/courses/news/first-post/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/courses/news/first-post/</guid><description>&lt;p>&lt;strong>This is a typical blog post that includes images.&lt;/strong>&lt;/p>
+url: &amp;ldquo;&lt;a href="https://blog.coolshell.in">https://blog.coolshell.in&lt;/a>&amp;rdquo;&lt;/p>
+&lt;h1 id="文件目录和内容类型">文件目录和内容类型&lt;a class="td-heading-self-link" href="#%e6%96%87%e4%bb%b6%e7%9b%ae%e5%bd%95%e5%92%8c%e5%86%85%e5%ae%b9%e7%b1%bb%e5%9e%8b" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;ul>
+&lt;li>将原blog 目录./content/zh-cn/blog/ 改为courses 后，其中的文章消失不见了；&lt;/li>
+&lt;/ul>
+&lt;p>A：加一个type: blog 就好了，因为如果文件夹是blog, 默认就是blog类型的，如果是其他类型的，需要加上type: blog&lt;/p></description></item><item><title>Easy documentation with Docsy</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/courses/news/first-post/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/courses/news/first-post/</guid><description>&lt;p>&lt;strong>This is a typical blog post that includes images.&lt;/strong>&lt;/p>
 &lt;p>The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.&lt;/p>
 &lt;h2 id="including-images">Including images&lt;a class="td-heading-self-link" href="#including-images" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>Here&amp;rsquo;s an image (&lt;code>featured-sunset-get.png&lt;/code>) that includes a byline and a caption.&lt;/p>
@@ -535,7 +540,7 @@ Fetch and scale an image in the upcoming Hugo 0.43.
  
  &lt;div class="pt-3 lead">
  
- &lt;p class="mt-5">💡 欢迎进入Coolshell博客和社媒群组、ARTS学习打卡、MegaEase 云服务，希望耗友们参与续写Coolshell朋友圈的故事。&lt;/p>
+ &lt;p class="mt-5">💡 欢迎进入Coolshell博客和社媒群组、ARTS学习打卡、MegaEase 云服务，大家共同参与续写Coolshell朋友圈的故事。&lt;/p>
 
  
  &lt;/div>
@@ -550,26 +555,20 @@ Fetch and scale an image in the upcoming Hugo 0.43.
 &lt;div class="col-12">
 &lt;div class="container text-center td-arrow-down">
 &lt;div class="h4 mb-0">
-&lt;p>左耳朵耗子，通过他的酷壳博客&lt;a href="https://github.com/google/docsy">Docsy&lt;/a>，分享技术和人生，“耗子“的名声广为人知。他的朋友，简称耗友，程序员为主，包括其他各种相关专业人士，常在社交媒体上分享互动。耗子勤奋且高产，有很多优秀作品例如：&lt;/p>
+&lt;p>左耳朵耗子（陈皓），通过他的&lt;a href="https://coolshell.cn/">酷壳博客coolshell&lt;/a>，分享技术和人生，“耗子“的名声广为人知。&lt;/p>
+&lt;p>他的朋友，简称耗友，程序员为主，包括其他各种相关专业人士，常在社交媒体上分享互动。&lt;/p>
+&lt;p>耗子勤奋且高产，有很多用户众多的作品例如：&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;/section>
-&lt;ul>
-&lt;li>酷壳博客 &lt;a href="https://coolshell.cn/">coolshell.cn&lt;/a>&lt;/li>
-&lt;li>云计算公司 &lt;a href="https://megaease.com/">megaease.com&lt;/a>&lt;/li>
-&lt;li>程序员课程- &lt;a href="https://time.geekbang.org/column/intro/100002201">Geek time-ARTS打卡&lt;/a>&lt;/li>
-&lt;/ul>
 &lt;div>&lt;a id="td-block-2" class="td-offset-anchor">&lt;/a>&lt;/div>
 &lt;section class="row td-box td-box--2 td-box--height-auto">
 &lt;div class="col">
 &lt;div class="container">
-&lt;h1 id="什么是酷壳众创">什么是酷壳众创？&lt;a class="td-heading-self-link" href="#%e4%bb%80%e4%b9%88%e6%98%af%e9%85%b7%e5%a3%b3%e4%bc%97%e5%88%9b" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>2023年5月13日，耗子离世，耗友纷纷发文纪念，听说很多人自发地想为他做点什么，力量微弱、感动人心。耗友Atom和他有过合作的约定，虽不可预料的世事变故，不能就此放弃初衷吧，于是Atom用coolshell 域名做“酷壳众创”博客，主要内容：&lt;/p>
-&lt;p>耗子过去几年和我们的交流话题，以及我们筹备的海外版 MegaEase Cloud 和其他创业计划；&lt;/p>
-&lt;p>网友们提供的与Coolshell、ARTS学习打卡、MegaEase和开源软件、左耳朵耗子相关话题的内容；&lt;/p>
-&lt;p>众创寓意：通过开源的方式，集合众人碎片的力量，创造有利于社会和公共利益的事物。&lt;/p>
-&lt;p>不同于耗子原创的酷壳博客，本“众创”版的内容可能来源广泛，因作者背景和专业多样化，也不专注于计算机行业，更多可能谈论代码和技术之外的人生经历和三观，但是这些故事都与互联网时代背景有关。&lt;/p>
+&lt;h2 id="酷壳博客-coolshellcnhttpscoolshellcn">酷壳博客 &lt;a href="https://coolshell.cn/">coolshell.cn&lt;/a>&lt;a class="td-heading-self-link" href="#%e9%85%b7%e5%a3%b3%e5%8d%9a%e5%ae%a2-coolshellcnhttpscoolshellcn" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h2 id="云计算公司-megaeasecomhttpsmegaeasecom">云计算公司 &lt;a href="https://megaease.com/">megaease.com&lt;/a>&lt;a class="td-heading-self-link" href="#%e4%ba%91%e8%ae%a1%e7%ae%97%e5%85%ac%e5%8f%b8-megaeasecomhttpsmegaeasecom" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h2 id="程序员课程--geek-time-artshttpstimegeekbangorgcolumnintro100002201">程序员课程- &lt;a href="https://time.geekbang.org/column/intro/100002201">Geek time-ARTS&lt;/a>&lt;a class="td-heading-self-link" href="#%e7%a8%8b%e5%ba%8f%e5%91%98%e8%af%be%e7%a8%8b--geek-time-artshttpstimegeekbangorgcolumnintro100002201" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;/div>
 &lt;/div>
 &lt;/section>
@@ -577,6 +576,11 @@ Fetch and scale an image in the upcoming Hugo 0.43.
 &lt;section class="row td-box td-box--3 td-box--height-auto">
 &lt;div class="col">
 &lt;div class="container">
-&lt;h1 id="我们能做什么">我们能做什么？&lt;a class="td-heading-self-link" href="#%e6%88%91%e4%bb%ac%e8%83%bd%e5%81%9a%e4%bb%80%e4%b9%88" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>帮耗子实现愿望，几乎都是可以远程在键盘上码字的事，例如：维护酷壳博客、社交媒体、网络群组，推广他的创业公司MegaEase云服和开源软件等等。&lt;/p></description></item><item><title>搜索</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/search/</guid><description>&lt;p>&lt;br>&lt;br>&lt;br>
+&lt;h1 id="什么是酷壳众创">什么是酷壳众创？&lt;a class="td-heading-self-link" href="#%e4%bb%80%e4%b9%88%e6%98%af%e9%85%b7%e5%a3%b3%e4%bc%97%e5%88%9b" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>2023年5月13日，耗子离世，&lt;a href="https://rip.coolshell.in/">耗友纷纷发文纪念&lt;/a>，听说很多人自发地想为他做点什么，力量微弱、感动人心。&lt;/p>
+&lt;p>耗友&lt;a href="https://atomx.cc/">Atom&lt;/a>和他有过合作的约定，虽不可预料的世事变故，不能就此放弃初衷吧，于是Atom创建了这个简单的网页。&lt;/p>
+&lt;p>为了纪念和约定，继续以他酷壳之名做各种事，从写Coolshell.in博客开始，主要内容：&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>耗子过去几年和我们的交流话题，以及我们筹备的海外版 MegaEase Cloud 和其他创业计划；&lt;/p></description></item><item><title>搜索</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/search/</guid><description>&lt;p>&lt;br>&lt;br>&lt;br>
     &lt;/p></description></item></channel></rss>
