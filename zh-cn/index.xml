@@ -164,7 +164,7 @@
 &lt;p>认识真相后，我们发现，其实诸多经济要素中，资本是最着急的，要求高效率或超长工作时间的人群，首先是金融圈的那些看起来衣冠楚楚的高级白领，其实他们的命运凄惨程度与996的程序员差不多，不过时常走在台前外表光鲜一些，而程序员在幕后工作，即使身家千万，普遍形象都比较邋遢屌丝。&lt;/p>
 &lt;p>让资本急着找我们，前提是有足够好的项目，如果没有足够亮眼和吸引力，至少也不能低于市场平均水平，这能守住生存基本线，否则就另寻出路吧。&lt;/p>
 &lt;p>土地所有者和农场主是最不着急的，看看生活状态和日常作息就知道，所以当资本+农业时，会出现一些很奇妙的碰撞，有很激烈的冲突矛盾，当然也有很好融合的辉煌成就，在全球富豪榜上，任何一个国家排在前面的财主们，都是与土地和农业资源有关系的，即使科技互联网精英，也会在土地上投入，在很多极端经济情况下，不需要太多额外投入，土地也能保住财富不缩水。&lt;/p>
-&lt;p>所以，我们不会主动找资本，打磨好一个项目，资本会主动来找我们，将犹如嗅觉灵敏的狼群一般围过来，驯服资本，把狼变成狗，否则它们会把你吃掉，这就是生存法则，让狼来统治和主宰的社区，就只剩下残酷，把它们变成狗，建立共生关系，人类和自然就和谐了。&lt;/p>
+&lt;p>所以，我们不会主动找资本，打磨好一个项目，资本会主动来找我们，将犹如嗅觉灵敏的狼群一般围过来，驯服资本，把狼变成宠物犬，否则它们会把你吃掉，这就是生存法则，让狼来统治和主宰的社区，就只剩下残酷，把它们变成宠物，建立共生关系，人类和自然的关系就和谐了。&lt;/p>
 &lt;h1 id="技术">技术&lt;a class="td-heading-self-link" href="#%e6%8a%80%e6%9c%af" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>一般的技术或具备技术经验的工人是不缺的，犹如AI技术涌现之后，当然有庞大的技术人力资源的市场需求，但我们觉得程序员过剩到泛滥成灾了，所以我们通常不会谈论普通的技术，除非是新发明创造。&lt;/p>
 &lt;p>不过有一样技术是永远都欠缺的，也就是综合型的经营管理，很多具备各种优质条件（资本、市场、技术、产品）的项目，最终做不下去的原因，就是在于经营管理不善而破产，本质上还是由于核心团队不行 - 人的问题。&lt;/p>
@@ -492,28 +492,25 @@ or elsewhere? Link to your examples here.&lt;/p></description></item><item><titl
 &lt;h1 id="静态页面文件同步方案">静态页面文件同步方案&lt;a class="td-heading-self-link" href="#%e9%9d%99%e6%80%81%e9%a1%b5%e9%9d%a2%e6%96%87%e4%bb%b6%e5%90%8c%e6%ad%a5%e6%96%b9%e6%a1%88" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>每次更新content文章，public目录中生成了新的静态页面，需要将新的静态页面文件同步到gh-pages分支。&lt;/p>
 &lt;p>通过bash脚本同步？还是别的什么方案？&lt;/p>
+&lt;p>A：提交代码就自动同步了，有github action执行生成静态页面的操作，然后部署&lt;/p>
 &lt;h1 id="i18n">[i18n]&lt;a class="td-heading-self-link" href="#i18n" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>在每篇文档或博客文章的下方，都有这样的尾巴，请问如何将其去除？是否有保留的必要？&lt;/p>
 &lt;p>[i18n] feedback_title&lt;/p>
 &lt;p>[i18n] feedback_question&lt;/p>
+&lt;p>A:这个显示错误，需要在i18n文件夹下的zh-cn.toml文件中修改
+想去除的话，将hugo.yaml中的值改成false就行
+feedback:
+enable: false
+我个人觉得倒是没什么必要保留&lt;/p>
 &lt;h1 id="community-模板">community 模板&lt;a class="td-heading-self-link" href="#community-%e6%a8%a1%e6%9d%bf" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>这个模板改造成联系方式，如何将 /zh-cn/community/ 页面的内容也翻译成各自的语言版本？&lt;/p>
 &lt;p>这些内容在 hugo.yaml 文件中，但是该文件只有一份英文版，例如：&lt;/p>
 &lt;pre tabindex="0">&lt;code>- Email: Discussion and help from your fellow users
 - Twitter: Follow us on Twitter to get the latest news!
 - Stack Overflow: Practical questions and curated answers
-&lt;/code>&lt;/pre>&lt;h1 id="landing-page-模板">landing page 模板&lt;a class="td-heading-self-link" href="#landing-page-%e6%a8%a1%e6%9d%bf" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>是否在源库或其他渠道找到一些docsy主题的landing page模板可用？我想复制一些不同的模板，因为一些项目需要制作一个比较概括项目的介绍页面，供用户搜索和点击首次进入。&lt;/p>
-&lt;h1 id="安装方式">安装方式&lt;a class="td-heading-self-link" href="#%e5%ae%89%e8%a3%85%e6%96%b9%e5%bc%8f" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>目前本主题的安装方式是怎样的？例如远程主题、gem-based，或还有其他方式。为何在本站根目录中没有发现hugo建站相关的程序文件和theme 目录？&lt;/p>
-&lt;p>我们寻找Hugo的配置文件的位置，为了查找静态页面所保存的文件目录&lt;code>publishDir=public&lt;/code>的配置，可能有几个文件与该配置相关：&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>config/_default/config.toml
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/_default/config.yaml
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/_default/config.json
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/production/config.toml
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/production/config.yaml
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/production/config.json
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如果不采用docker方法安装，需要删除docker相关文件吧，包括哪些文件清单？&lt;/p></description></item><item><title>Easy documentation with Docsy</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/agri/first-post/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/agri/first-post/</guid><description>&lt;p>&lt;strong>This is a typical blog post that includes images.&lt;/strong>&lt;/p>
+&lt;/code>&lt;/pre>&lt;p>A:这个确实没看到官方提供多语言翻译的方式&lt;/p>
+&lt;h1 id="landing-page-模板">landing page 模板&lt;a class="td-heading-self-link" href="#landing-page-%e6%a8%a1%e6%9d%bf" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>是否在源库或其他渠道找到一些docsy主题的landing page模板可用？我想复制一些不同的模板，因为一些项目需要制作一个比较概括项目的介绍页面，供用户搜索和点击首次进入。&lt;/p></description></item><item><title>Easy documentation with Docsy</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/agri/first-post/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/agri/first-post/</guid><description>&lt;p>&lt;strong>This is a typical blog post that includes images.&lt;/strong>&lt;/p>
 &lt;p>The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.&lt;/p>
 &lt;h2 id="including-images">Including images&lt;a class="td-heading-self-link" href="#including-images" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>Here&amp;rsquo;s an image (&lt;code>featured-sunset-get.png&lt;/code>) that includes a byline and a caption.&lt;/p>
