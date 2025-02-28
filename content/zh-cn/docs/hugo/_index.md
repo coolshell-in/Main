@@ -2,6 +2,9 @@
 title: Hugo 教程
 description: 
 weight: 12
+
+cascade:
+  github_repo: https://github.com/scp3125/hugo-docsy
 ---
 
 {{% pageinfo %}}

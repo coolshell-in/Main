@@ -71,9 +71,7 @@ config/production/config.json
 
 如果不采用docker方法安装，需要删除docker相关文件吧，包括哪些文件清单？
 
-A:是通过Hugo Modules的方式安装的
-  配置文件就是hugo.yaml，没必要去改静态页面所保存的文件目录,部署是自动的，不需要手动操作
-  docker文件可以删除，不影响使用，docker-compose.yaml和Dockerfile
+A:是通过Hugo Modules的方式安装的，配置文件就是hugo.yaml，没必要去改静态页面所保存的文件目录,部署是自动的，不需要手动操作，docker文件可以删除，不影响使用。
 
 
 # 整站页面配置
@@ -200,6 +198,7 @@ A：修改配置，参考Docxy文档：[库链接和页面其他信息](https://
 
 ## 全局、文档类、和单个文件的配置
 修改cascade中的配置，可以应用于单个文件的修改，如果要批量增加到某一个类的文档中，可以在该类的_index.md中添加配置。
+
 我们不想打开全局配置，不给所有的文档都加上github库链接相关信息，仅仅应用于部分单个文档，或某一类文档，如何修改hugo.yaml中的配置？
 
 A:这个做不到，hugo.yaml中的配置是全局的
@@ -217,31 +216,18 @@ A:这个做不到，hugo.yaml中的配置是全局的
 
 我搜遍了整个库的文件，没有找到被翻译的文本存放的位置，在i18n/zh-cn.toml 中也没找到。
 
-A:https://github.com/google/docsy/blob/main/i18n/zh-cn.toml,可以到官方仓库下去找，这个是官方提供的多语言配置文件
+A: 可以到官方仓库下去找，多语言配置文件，https://github.com/google/docsy/blob/main/i18n/zh-cn.toml
 
-比如下面的
-[post_byline_by]
-other = "借由"
-[post_created]
-other = "创建"
-[post_last_mod]
-other = "最后修改"
-[post_edit_this]
-other = "编辑此页"
-[post_view_this]
-other = "查看页面源码"
-[post_create_child_page]
-other = "添加子页面"
-[post_create_issue]
-other = "提交文档问题"
-[post_create_project_issue]
-other = "提交项目问题"
-[post_posts_in]
-other = "撰写于"
-[post_reading_time]
-other = "分钟阅读"
-[post_less_than_a_minute_read]
-other = "少于1分钟"
+全局配置import了docsy的主题库，其实本地是有文本的，但不在项目库文件里，因为用了Go的module机制，在磁盘的一个全局缓存中，隐藏起来了。
+
+```yaml
+module:
+  hugoVersion:
+    extended: true
+    min: 0.110.0
+  imports:
+    - path: github.com/google/docsy
+```
 
 
 ## 变量名
@@ -265,8 +251,7 @@ github_project_repo: https://github.com/scp3125/hugo-docsy
 
 ```
 github_repo: https://github.com/scp3125/hugo-docsy
-这一个就够,其他都是可选的,可选项作用具体可以看文档
-https://www.docsy.dev/docs/adding-content/repository-links/
+这一个就够,其他都是可选的,可选项作用具体可以看文档。
 
 
 # 增加blog 或docs页面中的文章分类

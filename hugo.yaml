@@ -49,6 +49,7 @@ languages:
     title: Coolshell Crowd source
     params:
       description: Coolshell next one generation
+
   zh-Cn:
     languageName: 中文简体
     contentDir: content/zh-cn
@@ -61,13 +62,13 @@ languages:
           weight: 50
           url:  "https://blog.coolshell.in"
   ru:
-      languageName: Русский
-      contentDir: content/ru
-      title: Coolshell
-      params:
-        description: Источник информации Coolshell
-        time_format_default: 02.01.2006
-        time_format_blog: 02.01.2006
+    languageName: Русский
+    contentDir: content/ru
+    title: Coolshell
+    params:
+      description: Источник информации Coolshell
+      time_format_default: 02.01.2006
+      time_format_blog: 02.01.2006
 markup:
   tableOfContents:
     endLevel: 3
@@ -128,7 +129,7 @@ params:
   url_latest_version: https://coolshell.in
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo: https://github.com/scp3125/hugo-docsy
+  # github_repo: https://github.com/scp3125/hugo-docsy
 
   # # An optional link to a related project repo. For example, the sibling repository where your product code lives.
   # github_project_repo: https://github.com/scp3125/hugo-docsy

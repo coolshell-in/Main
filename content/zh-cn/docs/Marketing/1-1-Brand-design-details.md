@@ -1,28 +1,19 @@
 ---
-title: 1.1 商业框架:品牌设计- 企业形象识别（详解）
+title: "1.1 商业框架：品牌设计- 企业形象识别（详解）"
 date: 2020-06-08
-description: 企业形象的最佳实践，四个关键品牌要求对于成功的案例至关重要。
-categories: [市场营销]
-tags: [品牌, 企业形象识别]
-weight: 2
+description:
+categories:
+  - 商业
+tags:
+  - 品牌
+  - 传媒
+  - 营销
 ---
 
+市场营销中的企业形象的最佳实践，四个关键品牌要求对于成功的案例至关重要。
 
+[Wiki：CI企业形象识别](https://en.wikipedia.org/wiki/Corporate_identity)
 
-[维基百科：CI企业形象识别](https://en.wikipedia.org/wiki/Corporate_identity)
-
-## **CI 4 实施原则**
-
-市场营销最佳实践，四个要素是成功的关键。
-
-- Differentiation. 差异是否有竞争者？与他们的差别？或填补了一个市场空白。
-- Relevance. 关联成为网络基础设施，像水、电、道路一样重要。与不同行业之间是否有关联？让尽可能多的人成为利益相关者 Industry(Environment, Aircraft, Ship, Agriculture, Biology, Food, etc.)
-- Coherence.一致创建可信度，品牌必须言行一致，以及企业形象识别保持一致性。
-- Esteem. 尊重，名誉来自企业社会责任Corporate Social Responsiblity
-
-如果企业没有专业的**品牌－传媒－营销 Brand-Media-Marketing(BMM)**部门，也没有委托代理去设计和实施，在初步阶段，依据 **BMM**基本概念的体系框架，创始人团队需要积**BMM** 素材，至少应能回复以下原则性的四类核心题目的问卷。
-
-完整问卷：品牌营销实施原则，完整问卷超过100个题目，以下为不分行业的通用的需求分析，帮助我们在正式开始设计工作之前更好地了解客户的需求。
 
 # **业务和目标**
 
@@ -32,7 +23,7 @@ weight: 2
 
 品牌由故事驱动，假设你是好莱坞导演，翻拍一部经典电影，你需要先熟悉原著，然后才能进行改编创作。
 
-你为什么要创办该公司/组织？ 
+你为什么要创办该公司/组织？
 
 请描述有趣的历史，你的心路历程。
 
@@ -48,7 +39,7 @@ weight: 2
 
 [天图资本冯卫东的定位之道.pdf](https://quip.com/-/blob/PFAAAAwaiyU/CeP_Du4XYgjr8Dz5o8fwiA?name=%E5%A4%A9%E5%9B%BE%E8%B5%84%E6%9C%AC%E5%86%AF%E5%8D%AB%E4%B8%9C%E7%9A%84%E5%AE%9A%E4%BD%8D%E4%B9%8B%E9%81%93.pdf&s=moyKAbIoWarI)
 
-顾客价值=产品价值(内在价值+外在价值)+品牌价值(保障价值+彰显价值)
+顾客价值 = 产品价值(内在价值+外在价值) + 品牌价值(保障价值+彰显价值)
 
 **定位声明**
 
@@ -58,24 +49,17 @@ weight: 2
 
 - 用一两句话概括你的公司是做什么的，类似公司使命声明，只是对产品更加具体，这是沃尔玛的例子。
 
-> "帮助世界各地的人们生活得更好，随时随地在线下实体店和线上网购中省钱。"
+> "Walmart帮助世界各地的人们生活得更好，随时随地在线下实体店和线上网购中省钱。"
 
 
 **产品/服务的好处**
 - 如何帮助你的目标受众？
-  
 - 是什么让你的公司与众不同？
-  
 - 你的主要吸引力是什么？
-
 - 它能为你的客户省钱吗？
-
 - 它能帮助客户提高投资回报率或工作效率吗？
-
 - 你如何解决客户的问题？
-
 - 客户为什么要购买你的产品或服务？
-
 - 为什么客户要选择你而不是你的竞争对手？
 
 ## 文化
@@ -116,10 +100,10 @@ weight: 2
 - 是否有你目前没有接触到的受众，而你想用你的品牌来接触他们？
 
 - 你的理想客户的最大痛点是什么？他们想要什么？
-  
+
 受众档案/用户画像：年龄、性别、地点、生活方式、职业、兴趣、收入等。
 
-# **品牌**个性/**属性**
+# 品牌**个性/**属性
 
 **品牌是一个组织的个性，需要在其所有营销活动中体现出来。我们必须对品牌有更深入的了解，才能最好地表现它。**
 
@@ -129,6 +113,8 @@ weight: 2
 - 字体
 - 图像
 - 设计风格指南
+
+[为成功而设计：企业形象包的 4 个要素](https://www.templafy.com/blog/designing-for-success-4-elements-of-corporate-identity/)
 
 **主要元素：**
 
@@ -174,7 +160,7 @@ weight: 2
 
 历史遗址：典故，甲骨文，物质和非物质文化遗产
 
-eg. 
+eg.
 
 生物科技，××× 博泰 ××× biotech
 
@@ -188,9 +174,9 @@ eg.
 
 eg. 商业标语案例
 
-Nike: Just Dolt！ 
+Nike: Just Dolt！
 
-Mac Donald: I'mlovin' it. 
+Mac Donald: I'mlovin' it.
 
 KFC: finger licken’good
 
@@ -214,7 +200,7 @@ Apple: Think Different
 
 [Pantone 主要用于实物印刷品上的标准色工具](https://www.pantone.com/color-of-the-year-2022)
 
-请注明颜色属性 eg. 
+请注明颜色属性 eg.
 
 标号：
 
@@ -224,9 +210,9 @@ Apple: Think Different
 
 描述：
 
-## **标识**
+## **标识logo**
 
-- 你认为什么格式和风格的标志最能代表你的品牌？ 
+- 你认为什么格式和风格的标志最能代表你的品牌？
 
 - 你有什么喜欢的标志可以分享吗？请列出一些好的例子。
 
@@ -234,9 +220,9 @@ Apple: Think Different
 
 参考：
 
-[https://www.pinterest.com/pin/279223245634813432/](https://www.pinterest.com/pin/279223245634813432/)
+[Guna Studio](https://www.pinterest.com/pin/279223245634813432/)
 
-[https://www.flaticon.com/free-icon/biotech_3844](https://www.flaticon.com/free-icon/biotech_3844)
+[Biotech free icon](https://www.flaticon.com/free-icon/biotech_3844)
 
 
 元素：
@@ -251,13 +237,11 @@ Apple: Think Different
 
 包括名称、字形、字号、重量、宽度、是否粗体、斜体等，在不同的应用场景里可能均有所差异。
 
-[https://en.wikipedia.org/wiki/Typeface](https://en.wikipedia.org/wiki/Typeface)
-
-
+[Wiki/Typeface](https://en.wikipedia.org/wiki/Typeface)
 
 [字体库](https://typefaceapp.com/)
 
-[https://www.fonts.com/content/learning/fontology/level-1/type-families/about-typeface-families](https://www.fonts.com/content/learning/fontology/level-1/type-families/about-typeface-families)
+[Typeface families](https://www.fonts.com/content/learning/fontology/level-1/type-families/about-typeface-families)
 
 **eg. 字体格式样式:**
 
@@ -283,39 +267,50 @@ Apple: Think Different
 
 ## 设计风格指南
 
+[平面设计问卷：30 个问题](https://contentsnare.com/graphic-design-questionnaire/)
+
 1. 为了确保品牌的一致性，你是否有任何设计风格指南可以分享？(字体、标识、颜色代码或其他设计元素)
 
 2. 哪些是设计中必须具备的元素？在这个项目中，你有没有想尝试的新元素？
 
 3. 对于具体视觉案例，是否有任何你非常喜欢和不喜欢的设计风格？请提供一个例子的URL。
 
+- 3.1 喜欢:
+- 3.2 不喜欢:
+
 4. 喜欢或不喜欢你的竞争对手的品牌设计的哪些方面什么？ 为什么？请提供一个例子的URL。
+
+- 4.1 喜欢:
+- 4.2 不喜欢:
 
 5. 是否有一个你仰慕的品牌，想以其为参考基准？为获得灵感/创意方向，请提供一些样本URL。
 
 ## 相关问题
 
-1. 喜欢和/或不喜欢用什么词来描述你的品牌形象？
+- 喜欢和/或不喜欢用什么词来描述你的品牌形象？
+
 用一些词描述客户想要的品牌形象，可以帮助建立一些核心的想法，并将文字表达为抽象概念，进而转化为美学设计。
 
-2. 客户目前对你们有什么看法？
-  - 2.1 希望你的受众如何看待你们？
-  - 2.2 希望他们在与你的品牌接触时有哪些想法或感受？
-3. 喜欢和不喜欢你们目前的品牌形象的哪些方面，为什么？
-4. 喜欢和不喜欢你的品牌有哪些情感和特征？
+- 客户目前对你们有什么看法？
+1. 希望你的受众如何看待你们？
+2. 希望他们在与你的品牌接触时有哪些想法或感受？
 
-5. 你的品牌形象是如何介于这些对立的特征之间的？
+- 喜欢和不喜欢你们目前的品牌形象的哪些方面，为什么？
+- 喜欢和不喜欢你的品牌有哪些情感和特征？
+
+- 你的品牌形象是如何介于这些对立的特征之间的？
+
 简单/复杂，有趣/严肃，保守/奢侈，平易近人/权威，专业/休闲，现代/经典，运动/优雅，极端/安全。
 
-6. 畅想你的品牌在10年后会怎样？这个问题将有助于了解客户的长期愿望，并感受到他们想要的业务发展方向。
-7. 你的品牌会是什么类型的汽车？
-8. 什么动物/植物能代表你的品牌？
+- 畅想你的品牌在10年后会怎样？这个问题将有助于了解客户的长期愿望，并感受到他们想要的业务发展方向。
+- 你的品牌会是什么类型的汽车？
+- 什么动物/植物能代表你的品牌？
 
-9. **人物**
-- 9.1 哪位演员最适合代言你的品牌？为什么？
-- 9.2 你尊重和喜欢哪些人物？为什么？
+- **人物**
+1. 哪位演员最适合代言你的品牌？为什么？
+2. 你尊重和喜欢哪些人物？为什么？
 
-10. **图书、音乐和视频**
+- **图书、音乐和视频**
 - 你喜欢和推荐哪些作家、文章、经典语录、书籍？
 - 你喜欢和推荐什么音乐、声音、歌词？
 - 你喜欢和推荐什么视频、纪录片、电影、短视频？
@@ -326,6 +321,7 @@ Apple: Think Different
 **让新品牌获得客户团队的认可，您对客户将如何审核和批准该项目必需有充分了解，以便确认特定因素在流程中被卡顿的定位。**
 
 1. 本设计项目的目标或预期成果是什么？
+
 有些客户一开始甚至不完全了解他们需要从CI和品牌设计中得到什么，因此尽早讨论并确认您将提供的服务和产品清单达成一致。如何避免客户对项目交付成果想法的没有边界范围地蔓延，请查看电子书 [Scope Creep Is Killing Your Bottom Line: Here's How to Prevent It](https://blog.hubspot.com/marketing/scope-creep-bottom-line?hubs_post=blog.hubspot.com%2Fmarketing%2Fquestions-brand-redesign-project&hubs_post-cta=check%20out%20this%20free%20ebook.)
 
 2. 你将如何定义这个项目的成功？
@@ -333,6 +329,7 @@ Apple: Think Different
 3. 是否有任何其他的规格或细节你想列出？(时间表、项目进度、其他)
 
 4. 确认预期时间表？
+
 营销推广可能是一项艰巨的任务，从一开始就与客户设定切合实际的时间表至关重要。如果时间紧迫，可能需要重新评估乙方能够提供的工作范围。最好立即知道时间限制，而不是稍后当您无法在他们期望的窗口中交付时让客户感到不安。
 
 5. 你打算在哪里使用最终的项目成果？(印刷品、在线、其他)
@@ -384,4 +381,4 @@ Apple: Think Different
 
 [Tailor Brands 标识设计](https://www.tailorbrands.com/logo-maker)
 
-在线几步注册美国有限责任公司
+也只需几个简单的步骤即可在线设立美国有限责任公司。

@@ -1,14 +1,15 @@
 ---
-title: 1.3 商业框架：营销活动 - 市场和销售
+title: "1.3 商业框架：营销活动 - 市场和销售"
 date: 2020-06-08
-description: 营销可以告知并吸引潜在客户关注您的公司及产品或服务。
-categories: [市场营销]
-tags: [品牌, 企业形象识别]
-weight: 3
+description:
+categories:
+  - 商业
+tags:
+  - 品牌
+  - 传媒
+  - 营销
 ---
 
-
-# 营销
 
 ## **定义**
 
@@ -20,7 +21,15 @@ weight: 3
 
 共同目标：吸引潜在客户并将其转化为客户，最终产生收入。
 
-## **差异：市场 vs. 销售**
+销售和营销有什么区别？简单易懂的入门指南
+
+[Hubspot 销售和营销](https://blog.hubspot.com/sales/sales-and-marketing)
+
+销售和营销有什么区别以及为什么你需要知道
+
+[销售与营销](https://www.uschamber.com/co/grow/sales/sales-vs-marketing)
+
+## 差异：市场 vs. 销售
 
 | **项目** | **市场** | **销售** | **备注** |
 | --- | --- | --- | --- |
@@ -29,24 +38,8 @@ weight: 3
 | **收入** | 只花钱，不能直接产生收入 | 赚钱，能产生收入 |  |
 | **过程** | 市场4P：产品、价格、地点和促销 | 销售流程、团队结构、目标市场和目标的详细信 |  |
 | **目标** | 长期（跨度数月）：放眼全局，推广公司、产品或服务以及品牌 | 短期（月度内）：重点是达到配额，定义目标，销售管理，团队和个人销量与实现总体目标的一致性。 | 长期-全局 vs. 短期-局部 |
-| **策略方法** | 网络营销
-印刷品营销
-博客营销
-搜索引擎优化
-社交媒体营销
-视频营销 | SPIN销售
-解决方案销售
-N.E.A.T 销售
-概念销售
-SNAP销售
-以客户为中心的销售
-入站/集客销售
-MEDDIC销售
-挑战者销售
-Sandler 系统 |  |
-|  |  |  |  |
 
-# 工具
+# 工具和资源
 
 ## **市场工具**
 
@@ -57,37 +50,6 @@ Sandler 系统 |  |
 - 内容创作
 - 更多 ……
 
-**营销规划模板**
-
-[https://offers.hubspot.com/marketing-plan-template?hubs_post-cta=author&hubs_post=blog.hubspot.com/sales/sales-and-marketing](https://offers.hubspot.com/marketing-plan-template?hubs_post-cta=author&hubs_post=blog.hubspot.com/sales/sales-and-marketing)
-
-**SLA 服务水平协议**
-用于更好服务客户的协议，也用于营销（市场和销售）部门的内部合作关系协议
-
-[https://blog-hubspot-com.translate.goog/blog/tabid/6307/bid/34212/how-to-create-a-service-level-agreement-sla-for-better-sales-marketing-alignment.aspx?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=wapp](https://blog-hubspot-com.translate.goog/blog/tabid/6307/bid/34212/how-to-create-a-service-level-agreement-sla-for-better-sales-marketing-alignment.aspx?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=wapp)
-
-**ZOHO**
-
-[https://www.nutshell.com/blog/best-sales-and-marketing-software-platforms#nutshell](https://www.nutshell.com/blog/best-sales-and-marketing-software-platforms#nutshell)
-
-**Hubspot**
-
-[https://www.hubspot.com/products/marketing](https://www.hubspot.com/products/marketing)
-
-HubSpot Salesforce 营销集成软件
-
-[https://www.hubspot.com/products/salesforce?hubs_content=www.hubspot.com%2Fproducts%2Fmarketing&hubs_content-cta=product-tabs__content-features-single-title](https://www.hubspot.com/products/salesforce?hubs_content=www.hubspot.com%2Fproducts%2Fmarketing&hubs_content-cta=product-tabs__content-features-single-title)
-
-**Salesforce** 
-
-[https://www.salesforce.com/](https://www.salesforce.com/)
-
-[https://en.wikipedia.org/wiki/Salesforce](https://en.wikipedia.org/wiki/Salesforce)
-
-**ABM**  键客户营销
-
-[https://en.wikipedia.org/wiki/Account-based_marketing](https://en.wikipedia.org/wiki/Account-based_marketing)
-
 ## **销售工具**
 
 - 会议应用
@@ -96,6 +58,33 @@ HubSpot Salesforce 营销集成软件
 - 电子邮件管理
 - 库存和订单管理
 - 更多 ……
+
+**日历**
+
+时间轴（年、季、月、二十四节气、周、日、节假日）
+
+# 策略
+
+## 营销策略
+
+- 互联网营销
+- 印刷品营销
+- 博客营销
+- 搜索引擎优化
+- 社交媒体营销
+- 视频营销
+
+## 销售方法
+- SPIN 销售
+- 解决方案销售
+- N.E.A.T. 销售
+- 概念销售
+- SNAP 销售
+- 以客户为中心的销售
+- 入站销售
+- MEDDIC
+- 挑战者销售
+- Sandler 系统
 
 # 营销的主要任务
 
@@ -127,26 +116,43 @@ HubSpot Salesforce 营销集成软件
 
 ## **相关技能**
 
-营销自动化
+- 营销自动化
+- ABM
+- 博客
+- 启动画面和登陆页面
+- 视觉和用户体验设计
+- 聊天机器人
+- 数据可视化和分析
+- 电子邮件营销
+- A/B 测试
+- SEO
+- CRM
+- 用户画像
 
-关键客户营销
 
-博客
+**Hubspot**
 
-启动屏和登陆页
+[Hubspot 营销软件](https://www.hubspot.com/products/marketing)
 
-视觉和交互设计
+[HubSpot Salesforce 营销集成软件](https://www.hubspot.com/products/salesforce?hubs_content=www.hubspot.com%2Fproducts%2Fmarketing&hubs_content-cta=product-tabs__content-features-single-title)
 
-聊天机器人
+[Salesforce](https://www.salesforce.com/)
 
-数据可视化和分析
+[Wiki/Salesforce](https://en.wikipedia.org/wiki/Salesforce)
 
-邮件营销
+**营销规划模板**
 
-A/B 测试
+[Hubspot 销售和市场](https://offers.hubspot.com/marketing-plan-template?hubs_post-cta=author&hubs_post=blog.hubspot.com/sales/sales-and-marketing)
 
-搜索优化
+[SLA 服务水平协议 (SLA)](https://blog.hubspot.com/blog/tabid/6307/bid/34212/how-to-create-a-service-level-agreement-sla-for-better-sales-marketing-alignment.aspx)用于更好服务客户的协议，也用于营销（市场和销售）部门的内部合作关系协议
 
-客户关系管理
+一份合同，确定一方同意向另一方提供的一系列可交付成果。这是营销和销售建立合作关系的最佳方式之一。
 
-用户画像
+[服务水平协议：撰写有效协议的 7 个步骤（+ 示例）](https://blog-hubspot-com.translate.goog/blog/tabid/6307/bid/34212/how-to-create-a-service-level-agreement-sla-for-better-sales-marketing-alignment.aspx?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=wapp)
+
+
+**ZOHO**
+
+[适合统一增长团队的 8 个最佳销售和营销软件平台](https://www.nutshell.com/blog/best-sales-and-marketing-software-platforms)
+
+[Wiki: 关键键客户营销(ABM)](https://en.wikipedia.org/wiki/Account-based_marketing)
