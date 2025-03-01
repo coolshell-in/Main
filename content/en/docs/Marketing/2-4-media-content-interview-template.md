@@ -1,5 +1,5 @@
 ---
-title: "2.3 Business Framework: Media Content - Interview Outline"
+title: "2.4 Business Framework: Media Content - Interview Outline"
 date: 2020-06-10
 description: 
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "2.3 商业框架：媒体内容- 人物访谈提纲"
+title: "2.4 商业框架：媒体内容- 人物访谈提纲"
 date: 2020-06-10
 description:
 categories:
