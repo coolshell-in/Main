@@ -8,6 +8,7 @@ tags:
     - Branding
     - Marketing
     - Media
+weight: 13
 ---
 
 **Definition**
@@ -153,4 +154,4 @@ Develop a calendar of marketing activities throughout the year, use tools to man
 
 [The 8 Best Sales and Marketing Software Platforms for Unified Growth Teams](https://www.nutshell.com/blog/best-sales-and-marketing-software-platforms)
 
-[Wiki: Account based marketing(ABM)](https://en.wikipedia.org/wiki/Account-based_marketing)
+[Wiki: Account based marketing(ABM)](https://en.wikipedia.org/wiki/Account-based-marketing)

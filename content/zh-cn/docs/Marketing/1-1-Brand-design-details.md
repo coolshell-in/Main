@@ -8,6 +8,7 @@ tags:
   - 品牌
   - 传媒
   - 营销
+weight: 11
 ---
 
 市场营销中的企业形象的最佳实践，四个关键品牌要求对于成功的案例至关重要。
@@ -134,7 +135,7 @@ tags:
 3. 足够精简：品牌名字数 ＜5个汉字 /英文，属于稀缺资源，尽可能简短的品牌名将日益匮乏；
 4. 名称统一：品牌名包括，公司名，商标名，网店名，网名，网址域名，自媒体名，尽可能地统一；可以有多套品牌名，且与公司名称不一致。
 
-**取名攻略**
+### **取名攻略**
 
 从不同维度考虑名字，以农业为例。
 
@@ -174,11 +175,11 @@ eg.
 
 eg. 商业标语案例
 
-Nike: Just Dolt！
+Nike: Just Do lt！
 
-Mac Donald: I'mlovin' it.
+Mac Donald: I'm lovin' it.
 
-KFC: finger licken’good
+KFC: Finger licken’good
 
 Adidas: Nothing is Impossible
 
@@ -223,7 +224,6 @@ Apple: Think Different
 [Guna Studio](https://www.pinterest.com/pin/279223245634813432/)
 
 [Biotech free icon](https://www.flaticon.com/free-icon/biotech_3844)
-
 
 元素：
 

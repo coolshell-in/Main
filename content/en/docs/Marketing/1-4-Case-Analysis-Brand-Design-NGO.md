@@ -8,6 +8,7 @@ tags:
    - Branding
    - Marketing
    - Media
+weight: 14
 ---
 
 # Case Study
@@ -25,7 +26,7 @@ Through this framework, we discover the universal laws of brand structure across
 | | Product/Service | Non-profit Organization, Charitable Foundation |
 | | Partners | Gov、commercial and non-profits Org. |
 | | Competitors | Rockefeller、Kamehameha Schools、Novo Nordisk |
-| | Audience | People who suffer poverty、disease、inequity |
+| | Audience | People who suffer poverty, disease, inequity |
 | Culture | Vision | Linkedin: *seeing a world where every person has the opportunity to live a healthy, productive life.* |
 | | Mission | to create a world where every person has the opportunity to live a healthy, productive life. |
 | | Value | Optimism, Rigor, Innovation, Collaboration, Diversity, Inclusion, Responsibility and accountability, Community involvement. |

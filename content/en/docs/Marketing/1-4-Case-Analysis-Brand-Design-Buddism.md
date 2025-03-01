@@ -1,94 +1,96 @@
 ---
-title: "1.4 商业框架：案例解析 - 品牌设计- 佛教"
+title: "1.4 Business Framework: Case Study - Brand Design - Buddhism"
 date: 2020-06-08
 description:
 categories:
-  - 商业
+  - Business
 tags:
-  - 品牌
-  - 传媒
-  - 营销
+  - Brand
+  - Media
+  - Marketing
+weight: 14
 ---
 
 
-# 案例解析
+# Case Study
 
-通过该框架，发现不分行业的品牌结构的普遍规律，依此类推，可创建有影响力的品牌，包括宗教。
+Through this framework, we discover the universal laws of brand structure across industries, and by analogy, we can create influential brands, including religion.
 
-## 宗教：佛教
+## Religion: Buddhism
 
-|  | **品牌模型** | **宗教** |
+|  | **Brand Model** | **Religion** |
 | --- | --- | --- |
-| **业务目标** | 背景故事 | 古印度释迦族尊贵王子悉达多感到人世变幻无常，深思解脱人生苦难之道，29岁出家修行得道成佛 |
-|  | 创始人 | 释迦牟尼 |
-|  | 核心团队 | 十大弟子、众罗汉、菩萨、佛 |
-|  | 时间线节点、纪念日 | 佛历：BC623诞生、出家、成道、湼槃成道 |
-|  | 产品/ 服务 | 信仰、来生转世 |
-|  | 合作伙伴 | 众神仙 |
-|  | 竞争者 | 基督教、伊斯兰教、道教 …… |
-|  | 受众 | 苦难众生 |
-| **文化** | 愿景 | 解脱生死、結束輪迴、進入涅槃境界 |
-|  | 使命 | 開悟、普渡众生、斷盡煩惱 |
-|  | 价值观 | 看透宇宙生命实相，揭示因果规律，不持任何价值观（分别心、比较、取舍，则远离清净本性） |
-| **品牌属性** | 品牌名 | 佛教 |
-|  | 标识logo | 万字符 Swastika (卍)、转法轮、五色旗 |
-|  | 标语 | 南无阿弥陀佛、波若波罗蜜、偶妈咪妈咪哄、黄财神咒、莲师咒 |
-|  | 图像 | 双手合十慈眉善目金光闪闪佛像 |
-|  | 标准色 | 黄色、红色、金色、白色 |
-|  | 字体 | 传统经典造型（每位法师都善书法） |
-|  | 设计风格指南 | 体现古老和正宗文化 |
-| **相关问题** | 品牌形象心智定位 | 慈悲、救苦渡厄的佛菩萨 |
-|  | 品牌形象对立特征- 制造冲突 | 威严/和善、地狱/天堂、肃穆/欢喜 |
-|  | 持续经营时长 | 无量劫、多有千年不倒的寺庙，少有百年不倒的企业 |
-| **品牌代表** | 汽车类型（交通） | 五彩祥云 |
-|  | 动物类型 | 大象（强壮）、狮子/老虎（威猛）、毒蛇猛兽 |
-|  | 植物类型 | 菩提树（智慧）、莲花（清净）、 |
-|  | 代言人 | 创始人释迦摩尼、观世音、弥勒 |
-|  | 图书 | 浩繁经典大藏、8400法门、敦煌藏经洞、唐三藏西天取经 |
-|  | 理论体系 | 三法印、四聖諦、十二因缘、四念处、菩萨道 |
-|  | 音乐 | 佛乐（词、曲、乐队），唱颂梵呗时多用木鱼、铃、磬、钟鼓伴奏。日本僧人DJ电音 |
-|  | 多媒体 | 纪录片、卫星电视、广播 |
-|  | 行为仪式 | 跪拜、焚香、学习、皈依、静坐冥想 |
-|  | 道具 | 法器：念珠、锡杖、金刚杵、戒尺、灯烛、 |
-|  | 服装/造型 | 袈裟、剃光头 |
-| **项目细节** | 目标或预期成果 | 众生离苦得乐，往生极乐世界。 |
-|  | 预期时间表 | 来世、出世入世、永恒、无始无终 |
-|  | 品牌设计成果 | 渗透到一切线上线下传统和现代的媒介 |
-|  | 应用场景 | 红尘世俗之地、在热闹人口多、自然风景区、可盖庙的地方 |
-|  | 预算花多少钱 | 信徒发愿下半辈子舍家弃业投入终生，游玩香客随缘功德箱 |
+| **Business Goals** | Backstory | Siddhartha, the noble prince of the Sakya clan in ancient India, felt the impermanence of the world and pondered the way to liberate himself from the suffering of life. He left home at the age of 29 to practice and became a Buddha. |
+|  | Founder | Sakyamuni |
+|  | Core Team | Ten Great Disciples, Arhats, Bodhisattvas, Buddhas |
+|  | Timeline Nodes, Memorial Days | Buddhist Calendar: BC623 Birth, Leaving Home, Enlightenment, Nirvana |
+|  | Products/Services | Faith, Reincarnation |
+|  | Partners | Deities |
+|  | Competitors | Christianity, Islam, Taoism ... |
+|  | Audience | Suffering beings |
+| **Culture** | Vision | Liberation from life and death, ending reincarnation, entering Nirvana |
+|  | Mission | Enlightenment, universal salvation, elimination of afflictions |
+|  | Values | See through the true nature of the universe and life, reveal the law of cause and effect, do not hold any values (discrimination, comparison, choice, then away from the pure nature) |
+| **Brand Attributes** | Brand Name | Buddhism |
+|  | Logo | Swastika (卍), Dharma Wheel, Five-Color Flag |
+|  | Slogan | Namo Amitabha, Prajnaparamita, Om Mani Padme Hum, Yellow Jambhala Mantra, Guru Mantra |
+|  | Image | Buddha statue with hands clasped together, compassionate eyes, and golden light |
+|  | Standard Color | Yellow, Red, Gold, White |
+|  | Font | Traditional classic style (every master is good at calligraphy) |
+|  | Design Style Guide | Reflect ancient and authentic culture |
+| **Related Questions** | Brand Image Positioning | Compassionate, salvation Bodhisattva |
+|  | Brand Image Opposing Characteristics - Creating Conflict | Majesty/Kindness, Hell/Heaven, Solemnity/Joy |
+|  | Duration of Continuous Operation | Countless eons, many temples have stood for thousands of years, few companies have stood for hundreds of years |
+| **Brand Representatives** | Vehicle Type (Transportation) | Colorful auspicious clouds |
+|  | Animal Type | Elephant (strong), Lion/Tiger (powerful), Venomous Beasts |
+|  | Plant Type | Bodhi Tree (wisdom), Lotus (purity) |
+|  | Spokesperson | Founder Sakyamuni, Avalokiteshvara, Maitreya |
+|  | Books | Vast classic Tripitaka, 84,000 Dharma doors, Dunhuang manuscripts, Journey to the West |
+|  | Theoretical System | Three Dharma Seals, Four Noble Truths, Twelve Links of Dependent Origination, Four Foundations of Mindfulness, Bodhisattva Path |
+|  | Music | Buddhist music (lyrics, music, band), chanting often accompanied by wooden fish, bells, chimes, drums |
+|  | Multimedia | Documentaries, satellite TV, radio |
+|  | Behavioral Rituals | Bowing, burning incense, studying, taking refuge, meditation |
+|  | Props | Dharma instruments: prayer beads, tin staff, vajra, precept ruler, candles |
+|  | Clothing/Styling | Kasaya, shaved head |
+| **Project Details** | Goals or Expected Outcomes | All beings are free from suffering and attain happiness, and are reborn in the Land of Ultimate Bliss. |
+|  | Expected Timeline | Next life, entering and leaving the world, eternity, beginningless and endless |
+|  | Brand Design Results | Permeate all online and offline traditional and modern media |
+|  | Application Scenarios | The secular world, crowded places, natural scenic spots, places where temples can be built |
+|  | Budget | Believers vow to devote the rest of their lives, tourists make donations at their discretion |
 |  |  |  |
 
 
-参考：[Wiki/佛教](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%95%99)
+Reference: [Wiki/Buddhism](https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%95%99)
 
-## 简单分析
+## Simple Analysis
 
-品牌名：佛教
+Brand Name: Buddhism
 
-logo：万字符  Swastika (卍)
+Logo: Swastika (卍)
 
-图像：双手合十金光闪闪佛像
+Image: Golden Buddha statue with hands clasped together
 
-标准色：黄色、红色、金色
+Standard Color: Yellow, Red, Gold
 
-设计风格指南：参考佛典图像绘画
+Design Style Guide: Refer to Buddhist images and paintings
 
-Slogan：阿弥陀佛
+Slogan: Amitabha
 
-创始人：释迦牟尼
+Founder: Sakyamuni
 
-高管团队：众罗汉和神仙
+Executive Team: Arhats and Deities
 
-**仪式**
+**Rituals**
 
-音乐：佛乐（各大宗教均有其经典音乐）
+Music: Buddhist music (all major religions have their own classical music)
 
-行为：跪拜、焚香
+Behavior: Bowing, burning incense
 
-道具/服装/造型：剃光头、袈裟、木鱼、钟鼓
+Props/Clothing/Styling: Shaved head, Kasaya, wooden fish, bells and drums
 
-品牌：佛教
+Brand: Buddhism
 
-传媒：佛经、仪式
+Media: Buddhist scriptures
 
-营销：信仰、学习、皈依
+Marketing: Faith, learning, taking refuge
+

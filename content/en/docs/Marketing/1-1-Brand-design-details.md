@@ -8,6 +8,7 @@ tags:
     - Branding
     - Marketing
     - Media
+weight: 11
 ---
 
 Best practices for corporate identity in marketing, four key branding requirements are essential for successful cases.
@@ -126,11 +127,11 @@ The tagline or catchphrase is a sub-title of the brand name and can be designed 
 
 eg. Examples of commercial taglines
 
-Nike: Just Dolt!
+Nike: Just Do lt!
 
-Mac Donald: I'mlovin' it.
+Mac Donald: I'm lovin' it.
 
-KFC: finger licken'good
+KFC: Finger licken'good
 
 Adidas: Nothing is Impossible
 
@@ -313,3 +314,5 @@ Creative Cloud Express makes it easy to get started with thousands of beautiful 
 [Tailor Brands’ Logo Maker](https://www.tailorbrands.com/logo-maker)
 
 Set up an LLC of US in a Few Simple Steps online.
+
+

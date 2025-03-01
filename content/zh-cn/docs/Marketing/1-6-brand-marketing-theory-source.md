@@ -8,6 +8,7 @@ tags:
   - 品牌
   - 传媒
   - 营销
+weight: 16
 ---
 
 参考前文：[广告韭菜2: （FL）胡来的品牌农业首席顾问]
@@ -16,10 +17,10 @@ tags:
 
 # 创造产品内在价值的理论
 
-- [ ]  Innovation and Entrepreneurship《创新与企业家精神》，Peter Drucker 德鲁克;
+- [ ]  Innovation and Entrepreneurship《创新与企业家精神》，Peter Drucker 彼得.德鲁克;
 - [ ]  Blue Ocean Strategy《蓝海战略》，W. Chan Kim 钱.金;
-- [ ]  The Innovator's Solution: Creating and Sustaining Successful Growth《创新者的解答》，Clayton M. Christensen 克莱顿•克里斯坦森；
-- [ ]  The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail 《创新者的窘境》，Clayton M. Christensen 克莱顿•克里斯坦森；
+- [ ]  The Innovator's Solution: Creating and Sustaining Successful Growth《创新者的解答》，Clayton M. Christensen 克莱顿 M.克里斯坦森；
+- [ ]  The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail 《创新者的窘境》，Clayton M. Christensen 克莱顿 M.克里斯坦森；
 
 # 品牌价值成份和定位的理论
 
@@ -40,5 +41,7 @@ tags:
 
 # 文化的理论
 
-- [ ]  Cultural Strategy: Using Innovative Ideologies to Build Breakthrough Brands《文化战略》，Douglas B. Holt道格拉斯•霍尔特；
-- [ ]  How Brands Become Icons: The Principles of Cultural Branding《品牌何以成为标志》，Douglas B. Holt 道格拉斯•霍尔特；
+- [ ]  Cultural Strategy: Using Innovative Ideologies to Build Breakthrough Brands《文化战略》；
+- [ ]  How Brands Become Icons: The Principles of Cultural Branding《品牌何以成为标志》；
+
+以上书籍的作者均为Douglas B. Holt 道格拉斯 B. 霍尔特；

@@ -1,46 +1,49 @@
 ---
-title: "1.5 商业框架：精简问卷- 营销实施原则"
+title: "1.5 Business Framework: Simplified Questionnaire - Marketing Implementation Principles"
 date: 2020-06-08
 description:
 categories:
-  - 商业
+  - Business
 tags:
-  - 品牌
-  - 传媒
-  - 营销
+  - Brand
+  - Media
+  - Marketing
+weight: 15
 ---
 
-如果企业没有专业的**品牌－传媒－营销 Brand-Media-Marketing(BMM)**部门，也没有委托代理去设计和实施，在初步阶段，依据**BMM**体系框架的基本概念，创始人团队将需要自行积累**BMM** 素材，完整的问卷超过100个题目，至少应能回复本章的问卷 - 原则性的四类核心题目。
+If an enterprise does not have a professional **Brand-Media-Marketing (BMM)** department, nor has it commissioned an agency for design and implementation, in the initial stage, based on the basic concepts of the **BMM** system framework, the founding team will need to accumulate **BMM** materials on their own. The complete questionnaire has over 100 questions, but you should at least be able to answer the questions in this chapter - the four core principle-based questions.
 
-# 4个核心实施原则 Core Questionnaire of CI & Marketing Practice Principle
+# 4 Core Implementation Principles: Core Questionnaire of CI & Marketing Practice Principle
 
-## Differentiation 差异
+## Differentiation
 
-说明：在竞争激烈的市场中，品牌需要有明确的差异化或存在的理由。他们所代表的东西需要与其他人区别开来，才能引起注意，给人留下深刻印象，并最终成为首选。
+**Description:** In a competitive market, brands need to have a clear point of differentiation or reason for being. What they stand for needs to be distinct from others in order to attract attention, make a lasting impression, and ultimately become the preferred choice.
 
-问题：是否有竞争者？与竞争者的差别？是否填补了市场空白？提高效率？省钱？
+**Questions:** Are there competitors? What are the differences from competitors? Does it fill a gap in the market? Does it improve efficiency? Does it save money?
 
-## Relevance 关联
+## Relevance
 
-说明：品牌需要与人们关心的事物联系起来，为了建立需求，他们需要了解并满足目标受众的需求和愿望。
+**Description:** Brands need to connect with what people care about. In order to build demand, they need to understand and address the needs and desires of their target audience.
 
-问题：是否让尽可能多的人成为利益相关者？是否可与不同行业进行关联 Industry(Environment, Aircraft, Ship, Agriculture, Biology, Food, etc.)？是否像水、电、道路一样成为基础设施？
+**Questions:** Does it engage as many stakeholders as possible? Can it be associated with different industries (Environment, Aircraft, Ship, Agriculture, Biology, Food, etc.)? Can it become infrastructure like water, electricity, and roads?
 
-## Coherence 连贯
+## Coherence
 
-说明：为了确保在受众中的可信度，品牌必须言行一致。所有的信息、所有的营销传播、所有的品牌体验和所有的产品交付都需要结合在一起，保持有意义的(一致性）连贯。问题：如何创建可信度？如何在复杂的市场环境中保持言行一致？用户协议和条款是什么？
+**Description:** To ensure credibility with their audience, brands must practice what they preach. All messaging, all marketing communications, all brand experiences, and all product delivery need to tie together and be meaningfully coherent.
 
-## Esteem 尊重
+**Questions:** How to build credibility? How to stay true to your word in a complex market environment? What are the user agreements and terms?
 
-说明：差异、关联和连贯的品牌是其内部和外部受众都重视的品牌。尊重是品牌通过明确执行其承诺和交付的体验而赢得的声誉。
+## Esteem
 
-问题：如何获得名誉和尊重？企业社会责任Corporate Social Responsiblity是什么？
+**Description:** Brands that are differentiated, relevant, and coherent are brands that are esteemed by their internal and external audiences. Esteem is the reputation a brand earns by demonstrably delivering on its promises and experiences.
 
-**其他：**
+**Questions:** How to gain reputation and respect? What is the Corporate Social Responsibility?
 
-1. 是否已经建立企业形象识别CI体系？谁是最初的 CI 设计师？CI 文件在哪里？
-2. 为了注册媒体账号及其他服务，请提供公司域名邮箱，例如：[marketing@megaease.com](mailto:marketing@megaease.com)
+**Others:**
 
-# 通用问卷
+1. Has a corporate identity (CI) system been established? Who is the original CI designer? Where are the CI documents?
+2. In order to register for media accounts and other services, please provide a company domain email address, for example: [marketing@megaease.com](mailto:marketing@megaease.com)
 
-品牌营销实施原则，完整问卷超过100个题目，此位不分行业的通用的需求分析，帮助我们在正式开始设计工作之前更好地了解客户的需求。
+# General Questionnaire
+
+The complete questionnaire on brand marketing implementation principles has over 100 questions. This is a general needs analysis regardless of industry, helping us to better understand customer needs before we formally begin the design work. 

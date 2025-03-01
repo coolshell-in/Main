@@ -1,69 +1,70 @@
 ---
 title: "1.4 商业框架：案例解析 - 品牌设计- 盖茨基金会"
 date: 2020-06-08
-description:
+description: 
 categories:
   - 商业
 tags:
   - 品牌
   - 传媒
   - 营销
+weight: 14
 ---
 
 # 案例解析
 
-通过该框架，发现不分行业的品牌结构的普遍规律，依此类推，同样的道理，也可以用于分析公益基金和政党的品牌营销原理的框架。
+通过该框架，发现不分行业的营销结构的普遍规律，依此类推，同样的道理，也可以用于分析公益基金和政党的品牌原理的框架。
 
 
 ## 公益基金会
 
-| | **Brand Model** | **NGOs** |
-| --- | --- | --- |
-| Business Target | Background story | [Founders story](https://www.gatesfoundation.org/about/our-story) |
-| | Founders | Bill & Melinda Gates |
-| | Core team | Board members |
-| | Timeline | AD2000 founded, Memorial Days |
-| | Product/Service | Non-profit Organization, Charitable Foundation |
-| | Partners | Gov、commercial and non-profits Org. |
-| | Competitors | Rockefeller、Kamehameha Schools、Novo Nordisk |
-| | Audience | People who suffer poverty、disease、inequity |
-| Culture | Vision | Linkedin: *seeing a world where every person has the opportunity to live a healthy, productive life.* |
-| | Mission | to create a world where every person has the opportunity to live a healthy, productive life. |
-| | Value | Optimism, Rigor, Innovation, Collaboration, Diversity, Inclusion, Responsibility and accountability, Community involvement. |
-| Brand Attributes | Brand name | **Bill & Melinda Gates Foundation** |
-| | Logo | “ ” |
-| | Slogan | We are a nonprofit fighting poverty, disease, and inequity around the world. |
-| | Imagery | on Web App |
-| | Colour | Black & White |
-| | Typeface | “ ” |
-| | Design Style Guidelines | “ ” |
-| **Other Questions** | Brand Image Mental Positioning | The richest man in the world, charity, Climate change, Environment, Poverty, Disease, Vaccine, Biology |
-| | Brand Image Opposing Features - Creating Conflict | Corporate Social Responsibility Report. Richest-Poorest, Happy-Sad, Healthy- Disease |
-| | Duration of continuous operation | Since AD 2000, to forever |
-| **Brand representative** | Car for Transportation | Private aeroplane, ship, luxury car collection |
-| | Animal | Animal Protection NGO’s image |
-| | Plant | Farm plants to fight hunger |
-| | Spokesperson | Bill Gates and board members |
-| | Book | *The Road Ahead,* How to Avoid a Climate Disaster |
-| | Theory system | Foundation law, Faith from Bible |
-| | Music | Music Video |
-| | Multi-Media | All |
-| | Behavior-ceremony | International summit, Speeches, Workshop, Training Event, etc. |
-| | Props | Data diagram on slide |
-| | Clothing/Styling | shirt, denim |
-| **Specific** | the goals or expected deliverables | The logo appears in every big events such as GoalKeepers, UN, the volume of the financial support |
-| | Expected timetable | On Schedule |
-| | Brand results | listed on 2nd of wealthiest charitable foundations by Wikipedia. |
-| | Application scenarios | 134+ countries. |
-| **Budget** | Cost | in 2020, 5.822 Billion US$ totally |
-| | | |
+|  | **商业模型** | **非政府组织** |
+|---|---|---|
+| 商业目标 | 背景故事 | [创始人故事](https://www.gatesfoundation.org/about/our-story) |
+|  | 创始人 | 比尔和梅琳达·盖茨 |
+|  | 核心团队 | 董事会成员 |
+|  | 时间线 | 公元2000年成立，阵亡将士纪念日 |
+|  | 产品/服务 | 非营利组织，慈善基金会 |
+|  | 合作伙伴 | 政府、商业和非营利组织 |
+|  | 竞争对手 | 洛克菲勒基金会、卡美哈美哈学校、诺和诺德 |
+|  | 受众 | 遭受贫困、疾病、不平等的人们 |
+| 文化 | 愿景 | 领英：*看到一个每个人都有机会过上健康、富有成效的生活的世界。* |
+|  | 使命 | 创造一个每个人都有机会过上健康、富有成效的生活的世界。 |
+|  | 价值观 | 乐观、严谨、创新、协作、多样性、包容性、责任与担当、社区参与。 |
+| 品牌属性 | 品牌名称 | **比尔及梅琳达·盖茨基金会** |
+|  |  Logo | “ ” |
+|  | 口号 | 我们是一个致力于在世界各地消除贫困、疾病和不平等的非营利组织。 |
+|  |  图像 | 在网络应用程序上 |
+|  |  颜色 | 黑色和白色 |
+|  |  字体 | “ ” |
+|  |  设计风格指南 | “ ” |
+| **其他问题** | 品牌形象心理定位 | 世界首富，慈善，气候变化，环境，贫困，疾病，疫苗，生物学 |
+|  |  品牌形象对立特征 - 制造冲突 | 企业社会责任报告。最富有的-最贫穷的，快乐的-悲伤的，健康的-疾病的 |
+|  |  持续经营时间 | 自公元2000年起，直到永远 |
+| **品牌代表** | 交通工具 | 私人飞机，游艇，豪华汽车收藏 |
+|  |  动物 | 动物保护非政府组织的形象 |
+|  |  植物 | 为战胜饥饿而种植的农作物 |
+|  |  代言人 | 比尔·盖茨和董事会成员 |
+|  |  书籍 | *未来之路*，如何避免气候灾难 |
+|  |  理论体系 | 基金会法，来自圣经的信仰 |
+|  |  音乐 | 音乐视频 |
+|  |  多媒体 | 所有 |
+|  |  行为-仪式 | 国际峰会，演讲，研讨会，培训活动等 |
+|  |  道具 | 幻灯片上的数据图表 |
+|  |  服装/造型 | 衬衫，牛仔裤 |
+| **具体** | 目标或预期成果 |  Logo出现在每一个大型活动中，如全球目标守护者大会、联合国大会，以及提供的资金支持规模 |
+|  |  预期时间表 | 按计划进行 |
+|  |  品牌成果 | 维基百科上排名第二的富豪慈善基金会。 |
+|  |  应用场景 | 134多个国家。 |
+| **预算** | 成本 | 2020年，共计58.22亿美元 |
+|  |  |  |
 
 ## [盖茨基金会](https://www.gatesfoundation.org/)
 
-[Bill and Melinda Gates Foundation Vision statement](https://mission-statement.com/bill-melinda-gates-foundation/#Bill_and_Melinda_Gates_Foundation_Vision_statement)
+[比尔及梅琳达·盖茨基金会愿景声明](https://mission-statement.com/bill-melinda-gates-foundation/#Bill_and_Melinda_Gates_Foundation_Vision_statement)
 
-[Gates Foundation: Brand and Asset Use – Grantees and Vendors](https://docs.gatesfoundation.org/Documents/GATES_Brand_Guidelines-Grantees_and_Vendors.pdf)
+[盖茨基金会：品牌和资产使用 – 受赠者和供应商](https://docs.gatesfoundation.org/Documents/GATES_Brand_Guidelines-Grantees_and_Vendors.pdf)
 
-listed on 2nd of wealthiest charitable foundations by Wikipedia.
+维基百科上排名第二的富豪慈善基金会。
 
-[Wiki/ List of wealthiest charitable foundations](https://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations)
+[维基/ 最富豪慈善基金会名单](https://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations)

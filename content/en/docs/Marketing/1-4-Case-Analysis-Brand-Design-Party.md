@@ -3,11 +3,12 @@ title: "1.4 Business Framework: Case Study - Brand Design - Communist Party"
 date: 2020-06-08
 description:
 categories:
-- Business
+    - Business
 tags:
-- Branding
-- Marketing
-- Media
+  - Branding
+  - Marketing
+  - Media
+weight: 14
 ---
 
 # Case Study
@@ -22,7 +23,7 @@ Through this framework, we can find the universal rules of brand structure regar
 | | Founders | Chen Duxiu, Li Dazhao, A dozen delegates. |
 | | Core team | Politburo, Standing Committee |
 | | Timeline | 1921.7.1 founded, Memorial Days |
-| | Product/Service | State power, violence, and domination |
+| | Product/Service | State power, Efficient social governance |
 | | Partners | leads eight other legally permitted subordinate minor parties together as the United Front . |
 | | Competitors | Republic, democratic party of UK, US, JP, etc. |
 | | Audience | Chinese people, 90+ million membership |
@@ -62,3 +63,5 @@ Through this framework, we can find the universal rules of brand structure regar
 ## [Wiki: Chinese Communist Party](https://en.wikipedia.org/wiki/Chinese_Communist_Party)
 
 [The CPC Its Mission and Contributions](http://www.news.cn/english/2021-08/26/c_1310148193.htm)
+
+

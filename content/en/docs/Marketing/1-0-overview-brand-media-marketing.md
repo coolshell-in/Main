@@ -8,6 +8,7 @@ tags:
     - Branding
     - Marketing
     - Media
+weight: 10
 ---
 
 > “LOGIC WILL GET YOU FROM A TO B. IMAGINATION WILL TAKE YOU EVERYWHERE.” – ALBERT EINSTEIN
@@ -42,11 +43,11 @@ Tip: This activity should be carried out when you are free, feel relaxed and hap
 
 **Brand, Advertising, Media, Communication, Public Relations, Publicity, Culture, Market, Sales, Marketing**
 
-There are too many concepts related to above, which are often confused by practitioners of the industry. In order to get more illegal profits, it is easier to defraud laymen and the innocent or ignorant public.
+There are many concepts related to the above, which are often confused by practitioners in the industry. This confusion makes it easier to deceive laymen and the innocent or ignorant public for illegal profits.
 
-In order to clear the source, we searched for reliable information from modern Western business subjects to clarify its definition, connotation, and extension, As well as the structure and framework.
+To clarify, we searched for reliable information from modern Western business subjects to define the connotation, denotation, structure, and framework of these concepts.
 
-Since then, ordinary people can start from 0 and quickly enter into regular marketing and sales. All related activities are collectively referred to as marketing as a concept here.
+From this point forward, ordinary people can start from scratch and quickly engage in regular marketing and sales. All related activities are collectively referred to as "marketing" as a concept here.
 
 
 ## Brand
@@ -74,29 +75,29 @@ What position the brand will occupy in the minds of consumers, and what the key 
 
 ## Means of communication
 
-**信息传播**过程中，从传播者到接受者之间的信息载体，及存储和传递信息或数据的一切通信渠道和工具。
+The information carrier between the communicator and the receiver in the process of **information dissemination**, and all communication channels and tools for storing and transmitting information or data.
 
 [Wiki: Media(communication)](https://en.wikipedia.org/wiki/Means_of_communication)
 
-品牌的更具象化的**文化宣传内容和材料**，通过线上和线下实现延伸，居于中间衔接上游品牌和下游营销。
+The more concrete **cultural publicity content and materials** of the brand are extended online and offline, connecting the upstream brand and downstream marketing.
 
-大多数人用媒体Media（名词）来取代传媒 Media of communication（动词+名词）概念，我们会严格区分两者的职责范围和性质的不同，这里媒体（内容）仅仅是传媒的一个子集，为了方便读者理解，可能很多地方依然用媒体指代传媒的概念。
+Most people use Media (noun) to replace the concept of Media of communication (verb + noun). We will strictly distinguish the differences in the scope of responsibility and nature of the two. Here, media (content) is only a subset of media of communication. For the convenience of readers' understanding, media may still be used in many places to refer to the concept of media of communication.
 
 
-### 媒体（内容）
+### Media (Content)
 
-这里定义的媒体，不包括传播的动作，仅仅指代的是媒体内容，在以上的传媒中有详细的分类解释。
+The media defined here does not include the act of dissemination, but only refers to the media content, which is explained in detail in the above media of communication.
 
-[互联网媒体类型](https://en.wikipedia.org/wiki/Media_type)
+[Internet media type](https://en.wikipedia.org/wiki/Media_type)
 
-从文件格式和维度可以分为：
-- 一维：文本（文章）
-- 二维：图片、音频、视频（多媒体）
-- 三维：影音、动画、游戏等
+From the perspective of file format and dimension, it can be divided into:
+- One-dimensional: text (article)
+- Two-dimensional: pictures, audio, video (multimedia)
+- Three-dimensional: audio-visual, animation, games, etc.
 
-官方媒体：图书、报刊、杂志、电视、电影
+Official media: books, newspapers, magazines, television, movies
 
-自媒体：个人的网络社交媒体
+Self-media: personal social media
 
 
 
@@ -106,9 +107,9 @@ Advertising is a marketing communication that employs an openly sponsored, non-p
 
 [Wiki: Advertising](https://en.wikipedia.org/wiki/Advertising)
 
-广告就是付费的媒体宣传（Paid Media），提高知名度的宣传机会，广告是品牌策划简单的视觉体现，广告的目的是对特定消费群体进行品牌宣传；
+Advertising is paid media publicity (Paid Media), a publicity opportunity to increase visibility. Advertising is a simple visual embodiment of brand planning. The purpose of advertising is to promote the brand to specific consumer groups.
 
-广告宣传针对你所提供的内容，市场宣传则针对客户需要的内容，两者的区别是关注的重点不同；
+Advertising focuses on the content you provide, while marketing focuses on the content customers need. The difference between the two is the focus.
 
 
 ### Communication
@@ -122,65 +123,65 @@ Communication (from Latin communicare , meaning "to share" or "to be in relation
 
 ### PR- Public Relationship
 
-是管理和传播来自个人或组织（例如企业、政府机构或非营利组织）的信息以影响公众认知，通过运用各种资讯传播方式与其内外公众进行双向沟通，在组织与公众之间建立相互了解和依赖的关系，以树立良好组织形象的活动。
+It is the management and dissemination of information from individuals or organizations (such as businesses, government agencies, or non-profit organizations) to influence public perception. It uses various information dissemination methods to conduct two-way communication with its internal and external publics, establish mutual understanding and dependence between the organization and the public, and build a good organizational image.
 
 [Wiki: Public_relations](https://en.wikipedia.org/wiki/Public_relations)
 
-公关是一种**Earned Media exposure**，公关的主要职能之一是通过媒体沟通进行品牌传播，以获取公众对于企业、产品或服务的关注与认知；
+Public relations is a kind of **Earned Media exposure**. One of the main functions of public relations is to spread the brand through media communication to gain public attention and awareness of the company, products or services.
 
-公关是具有创造力和战略性的宣传活动，目的是支持产品、服务或消费群体的品牌传播。
+Public relations is a creative and strategic publicity activity aimed at supporting the brand communication of products, services or consumer groups.
 
-公关主要是面向媒体关系，主要目标是向媒体宣传自己的产品，再经由大量的媒体渠道让消费者产生认知，这个过程为B2B2C。
+Public relations mainly faces media relations. Its main goal is to promote its products to the media, and then let consumers generate awareness through a large number of media channels. This process is B2B2C.
 
 
 ## Marketing
 
 
-常见媒体将市场营销四个字连成一体概念，这里为了更清晰和精准定义，我们将营销作为统称，市场是其下属子集之一。
+Common media combines the four words of marketing into one concept. Here, for a clearer and more precise definition, we will use marketing as a general term, and the market is one of its subsets.
 
 Marketing is the process of exploring, creating, and delivering value to meet the needs of a target market in terms of goods and services.
 
 [Wiki: Marketing](https://en.wikipedia.org/wiki/Marketing)
 
-一切与**市场和销售**相关的经济活动统称为营销，主要关于商品和服务推广，市场是关于如何规划扩大品牌的计划。
+All economic activities related to **market and sales** are collectively referred to as marketing, mainly about the promotion of goods and services. The market is about how to plan to expand the brand.
 
 <aside>
-✍🏼 提示：在写营销框架的时候，我发现一个特别现象，几乎用不上问卷来提问，大量的自动化工具、AI出现，人工越来越少，从词性上分析，动词更多，而品牌和传媒更多名词，也就是表面在市场销售阶段的工作就是执行精准的动作。
+✍🏼 Note: When writing the marketing framework, I found a special phenomenon that questionnaires are hardly used to ask questions. A large number of automated tools and AI have emerged, and there are fewer and fewer manual operations. From the perspective of part of speech, there are more verbs, while brands and media have more nouns. In other words, the work in the market sales stage is to execute precise actions.
 </aside>
 
-营销是一种过程和策略，关于如何解决客户需求，并且通过各种渠道传递客户的需求。
+Marketing is a process and strategy about how to solve customer needs and deliver customer needs through various channels.
 
-营销的目标是影响消费者采取行动，可能会影响消费者去购买商品，改变购买意图或改变生活方式。
+The goal of marketing is to influence consumers to take action, which may influence consumers to buy goods, change purchase intentions, or change lifestyles.
 
-营销中包括传媒的功能，还包含其他的方面，比如公关、广告、事件、赞助、展会、产品促销、搜索引擎营销或者搜索引擎优化等等。
+Marketing includes the functions of media, as well as other aspects, such as public relations, advertising, events, sponsorship, exhibitions, product promotion, search engine marketing or search engine optimization, etc.
 
 ### Operation
 
 [Wiki: Operation](https://en.wikipedia.org/wiki/Operation)
 
-也叫營運（台湾版），属于动词，执行连接全部相关营销活动的具体日常业务的经营管理等行为和动作。
+Also called operation (Taiwan version), it belongs to verbs, and refers to the specific daily business management and other behaviors and actions that connect all related marketing activities.
 
 
-### 市场
+### Market
 
-我们这里的定义指代狭义的市场(经济概念)，仅限于交易和消费的场所或场景。
+The definition here refers to the market in a narrow sense (economic concept), which is limited to the place or scene of trading and consumption.
 
-[市场(广义概念)](https://en.wikipedia.org/wiki/Market)
+[Market (broad concept)](https://en.wikipedia.org/wiki/Market)
 
-[市场(经济概念)](https://en.wikipedia.org/wiki/Market_(economics))
+[Market (economic concept)](https://en.wikipedia.org/wiki/Market_(economics))
 
-可能很多人或公司将市场和营销的概念混淆，实际所有的公司的“市场部门”应该改名为“营销部门”。
+Many people or companies may confuse the concepts of market and marketing. In fact, the "market department" of all companies should be renamed "marketing department".
 
-### 销售
+### Sales
 
-导致销售商品和服务的所有活动。直接与潜在客户合作，加强公司的解决方案的价值，为将潜在客户转化为直接客户。
+All activities that lead to the sale of goods and services. Work directly with potential customers to reinforce the value of the company's solutions and convert potential customers into direct customers.
 
-[wiki: 销售](https://en.wikipedia.org/wiki/sales)
+[wiki: Sales](https://en.wikipedia.org/wiki/sales)
 
 
 # The relationship among Branding, Media of communication and Marketing
 
-品牌、传媒、营销的功能有差异，必须由相关的专业人员来执行操作，协调一致并联合利用才能达到总体目标。
+Branding, media of communication, and marketing have different functions and must be implemented by relevant professionals, coordinated and used jointly to achieve the overall goal.
 
 |  |  | Part of Speech | Scope | Target Audience | Metaphor | Cycle |  | Main Tasks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -188,68 +189,71 @@ Marketing is the process of exploring, creating, and delivering value to meet th
 | Midstream (Middle Layer) | **Media of communication** | Noun-Verb | Media, Advertising, Public Relations | Customers, potential audience | Process, skills, flesh and blood, body, physical hardware | Continuous operation | Concrete physical medium | Execute strategies, gain public attention and awareness |
 | Downstream (Periphery) | **Marketing** | Verb | Market, Sales | Customers | Strategy, tactics, makeup, behavior, application software | Fast-changing, temporary and short-term, short-term operation, quick to take effect | Behavioral activities | Implement strategies, promote goods and services, expand brand |
 
-## 比喻解释
+## Metaphorical explanation
 
-**策略**通过**实力**达成**目标**
-
-
-### 以战争比喻
-
-- 品牌是**目标**
+**Strategy** achieves **goals** through **strength**
 
 
-- 传媒是**实力**，是武力，其中具体包括传播和媒体
+### Analogy with war
 
-传播是**行动**，是具体的军事动作和行为；
-
-媒体是**武器**，是传播触发的内容（物质、硬炮弹、火力），和更高级的（精神思想、软炮弹）
+- Brand is the **goal**
 
 
-- 营销是**策略**，是宏观的战略，其中具体包括广告和公关
+- Media of communication is **strength**, which is military force, specifically including dissemination and media
 
-广告和公关属于**技巧**，是具体的战术
+Dissemination is **action**, which is a specific military action and behavior;
+
+Media is the **weapon**, which is the content (material, hard shell, firepower) and more advanced (spiritual thought, soft shell) triggered by the dissemination
 
 
-### 以人体比喻
+- Marketing is the **strategy**, which is the macro strategy, specifically including advertising and public relations
 
-品牌是骨架，传媒是血肉，营销是妆容 skeleton, flesh, makeup
+Advertising and public relations belong to **skills**, which are specific tactics
 
-品牌是精神，传媒是身体，营销是行为 Spirit, Body, Behaviour
 
-### 以计算机比喻
+### Analogy with the human body
 
-品牌是操作系统，传媒是物理硬件，营销是应用软件
+Brand is the skeleton, media of communication is the flesh, and marketing is the makeup
 
-### 其他比喻
+Brand is the spirit, media of communication is the body, and marketing is the behavior
 
-品牌是长线投资，营销是短线操作，品牌是营销的基础
 
-Marketing can be a great way to get a customer’s attention, but branding is a great way to keep their attention 营销得到客户的关注，品牌维持客户的关注
+### Analogy with computer
 
-营销推动销售，品牌推动认知和忠诚度
+Brand is the operating system, media of communication is the physical hardware, and marketing is the application software
 
-品牌第一，营销第二
 
-品牌是永恒长效的，营销策略短效，变化很快
+### Other metaphors
 
-品牌是马拉松，营销是短跑冲刺
+Brand is a long-term investment, marketing is a short-term operation, and brand is the basis of marketing
 
-## **受众对象不同**
+Marketing can be a great way to get a customer’s attention, but branding is a great way to keep their attention.
 
-品牌塑造对您的团队的影响与对您的客户的影响一样大（品牌渗透影响所有人，但是传媒和营销只能影响客户）
+Marketing drives sales, branding drives awareness and loyalty
 
-品牌：面向所有人（员工、客户、潜在受众）；
+Brand first, marketing second
 
-传媒：面向客户、潜在受众；
+Brand is eternal and long-lasting, marketing strategy is short-acting and changes rapidly
 
-营销：面向客户；
+Brand is a marathon, marketing is a sprint
 
-- 品牌塑造是战略性地塑造公众对您的业务以及您所销售的任何产品的看法的过程。
-- 营销是通过市场调查了解目标客户、了解他们的问题并向他们展示您的产品如何帮助他们解决其中一个或多个问题的过程。
-- 广告是一种营销策略，需要您付费给第三方，以便在一定时间内为您的企业展示广告。
-- 如果您刚刚开始建立业务，请从品牌开始。您的品牌是您作为企业所做的一切的核心。它将直接影响您营销和做广告的方式和原因。
 
-[品牌和营销是什么关系？](https://www.zhihu.com/question/480630310/answer/2077471563)
+## **Different target audiences**
+
+Branding has as much impact on your team as it does on your customers (brand penetration affects everyone, but media and marketing can only affect customers)
+
+Brand: For everyone (employees, customers, potential audience);
+
+Media of communication: For customers, potential audience;
+
+Marketing: For customers;
+
+- Branding is the process of strategically shaping the public's perception of your business and any products you sell.
+- Marketing is the process of understanding your target customers through market research, understanding their problems, and showing them how your products can help them solve one or more of them.
+- Advertising is a marketing strategy that requires you to pay a third party to display ads for your business for a period of time.
+- If you're just starting to build a business, start with branding. Your brand is at the heart of everything you do as a business. It will directly affect how and why you market and advertise.
+
+[What is the relationship between brand and marketing?](https://www.zhihu.com/question/480630310/answer/2077471563)
 
 [Marketing vs. branding: what’s the difference?](https://99designs.com/blog/marketing-advertising/marketing-vs-branding/)
 
@@ -359,4 +363,6 @@ to open doors for themselves.
 [What are CPM, CPC, CPA, CTR](https://www.publift.com/adteach/what-are-cpm-cpc-cpa-ctr)
 
 [earned media, owned media, paid media](https://www.forrester.com/blogs/09-12-16-defining_earned_owned_and_paid_media/)
+
+
 

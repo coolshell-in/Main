@@ -1,5 +1,5 @@
 ---
-title: 商业
+title: 营销
 weight: 20
 ---
 
@@ -7,4 +7,4 @@ weight: 20
 <br><br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-这是商业和营销研究的文档。
+这是与商业和营销相关的文档。

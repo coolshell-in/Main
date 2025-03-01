@@ -1,197 +1,197 @@
 ---
-title: "2.2 商业框架：媒体内容（模板）- ×××品牌名"
+title: "2.2 Business Framework: Media Content (Template) - ×××Brand Name"
 date: 2020-06-10
 description:
 categories:
-  - 商业
+  - Business
 tags:
-  - 品牌
-  - 传媒
-  - 营销
+  - Brand
+  - Media
+  - Marketing
+weight: 22
 ---
 
 
-本框架使用方法的详解，参考前文[2.1 商业框架：媒体内容（详解）]
+For detailed usage of this framework, please refer to the previous article [2.1 Business Framework: Media Content (Detailed Explanation)]
 
-媒体内容框架主要描述其类型和结构
+The media content framework mainly describes its type and structure
 
-# 媒体文件
+# Media Files
 
-## 名片
+## Business Card
 
-- 单位名
-- 标识
-- 个人姓名
-- 头像
-- 头衔
-- 联系方式：手机，座机，email，
-- 社交账号
-- 地址
-- 业务简介
+- Company Name
+- Logo
+- Personal Name
+- Profile Picture
+- Title
+- Contact Information: Mobile, Landline, Email
+- Social Media Accounts
+- Address
+- Business Introduction
 
-印刷材料：要求尽可能环保，或含有本公司产品的成分
+Printed Materials: Should be as environmentally friendly as possible, or contain components of our company's products
 
-## **海报**
+## **Poster**
 
-根据使用场景不同，分为以下系列多套
+Divided into the following series according to different usage scenarios
 
-- 线下：
+- Offline:
 
-展会论坛
+Exhibition Forum
 
-- 线上：
+- Online:
 
-社交媒体
+Social Media
 
-电商店铺
+E-commerce Store
 
-## **宣传册**
+## **Brochure**
 
-用户手册PDF
+User Manual PDF
 
-## **演讲稿**
+## **Presentation**
 
-- 专家学者
-- 普通客户
-- 投资人
+- Experts and Scholars
+- General Customers
+- Investors
 
-### 多媒体
+### Multimedia
 
-- 图片：静态、动态Gif
-- 音频：纯声音、音乐配字幕
-- 视频：相机拍摄
-- 动画：卡通、GC
-- 游戏：互动娱乐
+- Image: Static, Dynamic Gif
+- Audio: Pure Sound, Music with Subtitles
+- Video: Camera Shooting
+- Animation: Cartoon, GC
+- Game: Interactive Entertainment
 
-## **CI 衍生品**
+## **CI Derivatives**
 
-在物理上的视觉设计呈现
+Visual design presentation in the physical world
 
-- 文具
-- 图书
-- 广告牌
-- 包装、标签
-- 服装、背包
-- 车辆广告
-
-
-## 传统媒体
-
-- 报纸/ 杂志
-- 广播电台
-- 电视台
+- Stationery
+- Books
+- Billboards
+- Packaging, Labels
+- Clothing, Backpacks
+- Vehicle Advertising
 
 
-# 文案
+## Traditional Media
 
-根据内容长度分类
+- Newspaper/Magazine
+- Radio Station
+- TV Station
 
-1-2篇文章/周 × 50周/全年 = 专栏作家 = 出版图书
 
-- 长篇≤ 3000汉字，文章，阅读时长6-10分钟（300-500字/分钟）
-- 中篇≤ 1500汉字，详情
-- 短篇≤ 150汉字，简介
-- 短句≤ 15汉字，标语口号slogan
-- 名称≤ 5汉字，品牌名
+# Copywriting
+
+Categorized by content length
+
+1-2 articles/week × 50 weeks/year = Columnist = Book Publication
+
+- Long Form ≤ 3000 Chinese characters, article, reading time 6-10 minutes (300-500 characters/minute)
+- Medium Length ≤ 1500 Chinese characters, details
+- Short Form ≤ 150 Chinese characters, brief introduction
+- Short Sentence ≤ 15 Chinese characters, slogan
+- Name ≤ 5 Chinese characters, brand name
 
 ## **7WH**
 
-请通过最简洁的文字和图表描述项目，参考以下描述结构。
+Please describe the project with the most concise text and charts, referring to the following description structure.
 
-- What 主题，定义，是什么
-- When 时间，周期，历史
-- Where 地点
-- Who 人- 组织者，团队，主体，
-- Whom 人- 参与者，受众，客体，对象
-- Why 为什么
-- Which 具体要素，有什么
-- How 怎么样
+- What: Theme, definition, what is it
+- When: Time, cycle, history
+- Where: Location
+- Who: People - Organizer, team, subject
+- Whom: People - Participants, audience, object
+- Why: Why
+- Which: Specific elements, what are there
+- How: How
 
+## Introduction
 
-## 简介
+Including organization and individual introduction
 
-包括组织、个人简介
+Requirements: ≤ 150 words, the length of Twitter or Weibo, briefly explaining the theme, characteristics, value, significance, related pictures ≤ 9
 
-要求：≤  150字，twitter或微博的篇幅，简要阐明主题，特性，价值，意义，相关配图≤  9张
+### Organization Introduction
 
-### 组织**简介**
+Requirements: At least 1 picture with the main entrance logo;
 
-要求：至少大门logo配图1张；
+### Personal Introduction
 
-### 个人简介
+Requirements: At least 1 picture with a recent photo of the individual;
 
-要求：至少个人近照配图1张；
+## **Article**
 
-## **文章**
+Requirements: ≤ 1500 - 3000 Chinese characters, the length of a news report, forming a series of in-depth content, related pictures ≤ 9
 
-要求：≤ 1500 - 3000汉字，新闻报道的篇幅，形成系列深度内容，相关配图≤  9张
+**Essential Structural Elements of Articles on the Web**
 
-**网页上文章的必备结构元素**
+Add the following content to each article:
 
-给每篇文章添加以下内容：
+- Tags: Keywords (3-5)
+- Author: Original author/contributor
+- Editor: Website graphic and text editor
+- Description: Abstract, summary (within 50-150 words)
 
-- 标签: 关键词（3-5个）
-- 作者: 原文作者/撰稿人
-- 编辑: 网站图文编辑人员
-- 描述: 摘要，概述（50-150字以内）
+**Content Types**
 
-**内容类型**
+- News and Events
+- Product Introduction
+- Character Interview
+- Popular Science Compilation
 
-- 新闻动态
-- 产品介绍
-- 人物采访
-- 科普编译
+**News and Events**
 
-**新闻动态**
+Company news
 
-本公司新闻
+Industry news
 
-行业的动态
+**Product Introduction**
 
-**产品介绍**
+Company products
 
-本公司产品
+Products outside the company
 
-公司外产品
+**Character Interview**
 
-**人物采访**
+Can be internal, external, professionals, customers, employees
 
-可以对内部，外部，专业人士，客户，员工
+Reference [2.3 Business Framework: Media Content - Character Interview]()
 
-参考 [2.3 商业框架：媒体内容- 人物访谈]()
+**Popular Science Compilation**
 
-**科普编译**
+Subtitle group compilation, directly moving high-quality content materials from abroad, paying attention to copyright issues
 
-字幕组编译，直接搬砖国外的优质内容材料，需要注意版权问题
+## **Frequently Asked Questions FAQ**
 
-## **常见问答FAQ**
+It is the focus of the entire marketing department's CRM, a list of questions that netizens, the public, and customers are more concerned about, classified and sorted by question.
 
-是整个市场营销部门CRM的重点，对网友、公众、客户比较关心的问题汇集，按问题的分类和排序的清单。
+# Professional Documents
 
-# 专业文件
+The following are professional documents with strict format requirements, confidential or with limited scope of disclosure.
 
-以下是比较严格要求格式的专业文件，保密或限定范围的公开。
+## Certificate
 
-## 证书
+Patent right, copyright, award, voucher
 
-专利权，著作权，获奖，票据凭证
+## Paper
 
-## 论文
+Scientific and technological literature published in important professional journals, awarded or widely cited.
 
-在重要专业刊物上发布的科技文献，获奖或被广泛引用。
+## **Legal Documents**
 
-## **法律文件**
+Contracts with legal effect are very serious and formal content, used for internal signatures such as labor contracts for hiring employees, and external business cooperation purchase and sale contracts, etc., in accordance with general legal and financial norms.
 
-具备法律效力的合同是非常严肃正式的内容，用于内部签署例如聘用雇员的劳动合同，以及外部的商家合作的购销合同等，按照一般法律和财务规范操作。
+Internal: Partnership agreement, labor contract
 
-对内：合伙人协议，劳动合同
+External: Purchase and sale contract, business cooperation agreement
 
-对外：购销合同，商家合作协议
+## **BP Business Plan**
 
-## **BP商业计划书**
+Used to recruit investors, in accordance with general business practices.
 
-用于招募投资者，按照一般商业规范操作。
+## Rules and Regulations
 
-## 规章制度
-
-内部管理的规则
+Rules for internal management

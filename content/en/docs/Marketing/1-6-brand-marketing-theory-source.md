@@ -1,13 +1,14 @@
 ---
 title: "1.6 Business Framework: The Theoretical Source of Brand Marketing"
 date: 2020-06-08
-description:
+description: 
 categories:
   - Business
 tags:
   - Brand
   - Media
   - Marketing
+weight: 16
 ---
 
 Reference to the previous article: [Advertising Leek 2: (FL) Hu Lai's Chief Consultant of Brand Agriculture]
@@ -42,3 +43,4 @@ Author Richard Dawkins, an evolutionary scientist, explains that memes are the b
 
 - [ ]  Cultural Strategy: Using Innovative Ideologies to Build Breakthrough Brands, Douglas B. Holt;
 - [ ]  How Brands Become Icons: The Principles of Cultural Branding,Douglas B. Holt;
+

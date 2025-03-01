@@ -1,60 +1,61 @@
 ---
-title: "1.4 商业框架：案例解析 - 品牌设计- 可口可乐"
+title: "1.4 Business Framework: Case Study - Brand Design - Coca-Cola"
 date: 2020-06-08
 description:
 categories:
-  - 商业
+  - Business
 tags:
     - Branding
     - Marketing
     - Media
+weight: 14
 ---
 
-# 案例解析
+# Case Study
 
-通过该框架，发现不分行业的品牌结构的普遍规律，依此类推，可相对低成本自行创建有影响力的品牌。
+Through this framework, we can discover the universal laws of brand structure across industries, and by analogy, we can create influential brands ourselves at a relatively low cost.
 
-# 商业：可口可乐
+# Business: Coca-Cola
 
-|  | **品牌模型** | **商业** |
+|  | Brand Model | Business |
 | --- | --- | --- |
-| **业务目标** | 背景故事 | 一名美国藥師在其工作街区的药房，创造了一种风味糖浆与汽水混合的软饮料 |
-|  | 创始人 | 约翰·彭伯顿 |
-|  | 核心团队 | 历届董事会、总裁、高管团队 |
-|  | 时间线节点、纪念日 | 历史：AD1886 发明、1927首次进入中国、1979重返中国 |
-|  | 产品/ 服务 | 糖水、软饮料 |
-|  | 合作伙伴 | 上下游厂商（农场、糖厂、装瓶厂） |
-|  | 竞争者 | 百事可乐、非常可乐、农夫山泉 |
-|  | 受众 | 普通大众 |
-| **文化** | 愿景 | 喜爱的品牌，可持续发展，为了更好的共享未来。 |
-|  | 使命 | 让世界在思想、身体和精神上焕然一新，通过我们的品牌和行动激发乐观和幸福的时刻，创造价值并有所作为。 |
-|  | 价值观 | 领导力、协作、诚信、责任、激情、多样性和质量 |
-| **品牌属性** | 品牌名 | 可口可乐Cocacola |
-|  | 标识logo | 名称即专利标识，世界第一品牌 |
-|  | 标语 | 19世纪-美味怡神的饮料、20世纪-清爽到底、悦动味蕾、有可口可乐就有朋友 |
-|  | 图像 | 鲁特玻璃公司的亚历山大·萨米尔森设计专利经典弧形瓶 |
-|  | 标准色 | 1969年确定红、白主题 |
-|  | 字体 | 斯宾塞体，会计师弗兰克·罗宾逊命名和书写 |
-|  | 设计风格指南 | 世界级大师设计的完备CI体系 |
-| **相关问题** | 品牌形象心智定位 | 肥宅快乐水、欢喜、友谊、畅爽、怡神 |
-|  | 品牌形象对立特征- 制造冲突 | 凉爽/炎热，欢乐/哀伤（历年企业社会责任报告发布） |
-|  | 持续经营时长 | 始于1886年，永续经营 |
-| **品牌代表** | 汽车类型（交通） | 设计侧开门的厢式货车涂装冰箱冷饮广告 |
-|  | 动物类型 | 北极熊家族（1993年广告片“北极之光”） |
-|  | 植物类型 | 2009年推出植物基材料环保瓶 |
-|  | 代言人 | 圣诞老人经典红白版（1931年邀请Haddon Sundblom设计）、歌剧演员希尔达·克拉克、体育明星 |
-|  | 图书 | 1909年《 可 口 可 乐 装 瓶 商 》 杂 志 创 刊 发 行 |
-|  | 理论体系 | 幸福理论、ERG理论、组织行为模型 |
-|  | 音乐 | 1953年艾迪. 费舍主持音乐节目Coke Time，系列音乐片 |
-|  | 多媒体 | 全媒体 |
-|  | 行为仪式 | 广告片 |
-|  | 道具 | 可口可乐博物馆藏品 |
-|  | 服装/造型 | 跨界经营线上服饰店 |
-| **项目细节** | 目标或预期成果 | 提高市占率、营业利润、全球第一饮料、规模量 |
-|  | 预期时间表 | 可持续发展 |
-|  | 品牌设计成果 | 参考可乐瓶成功地设计了圣诞老人的形象 |
-|  | 应用场景 | 通过本地化的装瓶商扩展到全球大市场 |
-|  | 预算花多少钱 | 2021年广告和品牌营销投入28亿美金 |
+| Business Objectives | Background Story | An American pharmacist created a soft drink by mixing flavored syrup with soda water in a pharmacy in his working neighborhood. |
+|  | Founder | John Pemberton |
+|  | Core Team | Successive boards of directors, presidents, and senior management teams |
+|  | Timeline Nodes, Anniversaries | History: Invented in AD 1886, first entered China in 1927, returned to China in 1979 |
+|  | Products/Services | Sugar water, soft drinks |
+|  | Partners | Upstream and downstream manufacturers (farms, sugar factories, bottling plants) |
+|  | Competitors | Pepsi-Cola, Very Cola, Nongfu Spring |
+|  | Audience | General public |
+| Culture | Vision | A beloved brand, sustainable development, for a better shared future. |
+|  | Mission | To refresh the world in mind, body, and spirit, to inspire moments of optimism and happiness through our brands and actions, and to create value and make a difference. |
+|  | Values | Leadership, collaboration, integrity, accountability, passion, diversity, and quality |
+| Brand Attributes | Brand Name | Coca-Cola |
+|  | Logo | The name is the patented logo, the world's No. 1 brand |
+|  | Slogan | 19th century - Delicious and refreshing drink, 20th century - Refreshing to the end, refreshing taste buds, where there is Coca-Cola, there are friends |
+|  | Image | The classic curved bottle patented by Alexander Samuelson of the Root Glass Company |
+|  | Standard Color | Red and white theme established in 1969 |
+|  | Font | Spencerian script, named and written by accountant Frank Robinson |
+|  | Design Style Guide | A complete CI system designed by world-class masters |
+| Related Issues | Brand Image Mental Positioning | Happy Water for homebodies, joy, friendship, refreshment, exhilaration |
+|  | Brand Image Opposing Characteristics - Creating Conflict | Cool/hot, joy/sadness (released in annual corporate social responsibility reports) |
+|  | Duration of Continuous Operation | Founded in 1886, in perpetual operation |
+| Brand Representatives | Vehicle Type (Transportation) | Side-opening vans painted with refrigerator and beverage advertisements |
+|  | Animal Type | Polar bear family (1993 commercial "Northern Lights") |
+|  | Plant Type | Plant-based environmentally friendly bottles launched in 2009 |
+|  | Spokesperson | Classic red and white version of Santa Claus (designed by Haddon Sundblom in 1931), opera singer Hilda Clark, sports stars |
+|  | Books | The Coca-Cola Bottler magazine was launched in 1909 |
+|  | Theoretical System | Happiness theory, ERG theory, organizational behavior model |
+|  | Music | Coke Time, a music program hosted by Eddie Fisher in 1953, a series of music films |
+|  | Multimedia | All media |
+|  | Behavioral Rituals | Commercials |
+|  | Props | Coca-Cola Museum Collection |
+|  | Clothing/Styling | Cross-border operation of online clothing stores |
+| Project Details | Goals or Expected Outcomes | Increase market share, operating profit, become the world's No. 1 beverage, scale |
+|  | Expected Timeline | Sustainable development |
+|  | Brand Design Results | The image of Santa Claus was successfully designed with reference to the Coke bottle |
+|  | Application Scenarios | Expand to large global markets through localized bottlers |
+|  | Budget | $2.8 billion invested in advertising and brand marketing in 2021 |
 |  |  |  |
 
 
