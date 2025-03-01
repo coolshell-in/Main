@@ -1,164 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>商业 on 酷壳众创</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/</link><description>Recent content in 商业 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/index.xml" rel="self" type="application/rss+xml"/><item><title>2.1 商业框架：媒体内容（详解）</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-1-media-content-details/</link><pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-1-media-content-details/</guid><description>&lt;p>参考空白模板：[1.2 商业框架：品牌设计- 企业形象识别（模板）- ×××品牌名]&lt;/p>
-&lt;h1 id="为什么从媒体开始启动项目">&lt;strong>为什么从媒体开始启动项目？&lt;/strong>&lt;a class="td-heading-self-link" href="#%e4%b8%ba%e4%bb%80%e4%b9%88%e4%bb%8e%e5%aa%92%e4%bd%93%e5%bc%80%e5%a7%8b%e5%90%af%e5%8a%a8%e9%a1%b9%e7%9b%ae" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>大多数开放面向市场的项目，无论是否卖东西（做电商），都要从营销和传播开始，吸引流量和用户粉丝，当聚集一定量后，做什么都很轻松，因此创业先从媒体开始做起，当一切都没有的时候，就可以几乎0成本启动。&lt;/p>
-&lt;p>参考前文：[论写作的重要性]&lt;/p>
-&lt;p>&lt;strong>从0开始快速启动项目的方法：&lt;/strong>&lt;/p>
-&lt;p>先养一个垂直行业（例如农业、健康、教育等类别）的媒体号，通过自动化运营方法，花最少的时间和成本，在几个月之内高效率地吸纳几万用户，通过数据分析指导项目演进方向，同时流量变现分配给相应的有专业经验的参与者，制定若干种可能的具体产品形态，快速做迭代测试至形成稳定的产品和客户。&lt;/p>
-&lt;p>媒体属于市场部门的工作范围，是促成营销的必备工具，包括线上或线下各种用途的材料，请根据以下结构梳理内容，准备原始图文视频等素材，填入以下结构中。&lt;/p>
-&lt;p>&lt;strong>相关专业&lt;/strong>&lt;/p>
-&lt;p>全套CI/VI素材设计标准和规范需要多个专业协作，包括并不限于：市场研究、产品开发、品牌规划、客服、UX用户体验/UI交互/GUI美术设计等相关专业人员。&lt;/p>
-&lt;p>媒体内容框架主要描述的类型和结构包括：&lt;/p>
-&lt;p>品牌标识（logo、slogan等）、&lt;/p>
-&lt;p>品牌文化内容展示、&lt;/p>
-&lt;p>业务范围、&lt;/p>
-&lt;p>产品信息、&lt;/p>
-&lt;p>产品特色、&lt;/p>
-&lt;p>联系地址及方式、&lt;/p>
-&lt;p>公司人物简介、&lt;/p>
-&lt;p>发展方向；&lt;/p>
-&lt;p>由于互联网的发展日趋线上，而且由于环保的要求，不一定需要印刷材料。媒体类型非常多样化，按照从小到大的素材内容的结构和类型如下：&lt;/p>
-&lt;h2 id="品牌设计体系">品牌设计体系&lt;a class="td-heading-self-link" href="#%e5%93%81%e7%89%8c%e8%ae%be%e8%ae%a1%e4%bd%93%e7%b3%bb" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>品牌个性/属性的元素是构成品牌和媒体内容的基本素材和最小单位，可以将各种素材的结构组合，设计各种格式和类型的媒体文件，因此品牌设计体系是做媒体内容的先决条件，如此严谨按照科学规律循序渐进，小作坊可变成跨国巨头。&lt;/p>
-&lt;h1 id="媒体文件">媒体文件&lt;a class="td-heading-self-link" href="#%e5%aa%92%e4%bd%93%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>主要包括以下：&lt;/p>
-&lt;ul>
-&lt;li>名片&lt;/li>
-&lt;li>海报/传单&lt;/li>
-&lt;li>目录/手册&lt;/li>
-&lt;li>演示稿&lt;/li>
-&lt;li>多媒体（音视频）&lt;/li>
-&lt;li>文章&lt;/li>
-&lt;/ul>
-&lt;h3 id="名片">名片&lt;a class="td-heading-self-link" href="#%e5%90%8d%e7%89%87" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>用于快速社交的传播，中英文等多语种对照的主要素材结构：&lt;/p>
-&lt;ul>
-&lt;li>单位名&lt;/li>
-&lt;li>标识&lt;/li>
-&lt;li>个人姓名&lt;/li>
-&lt;li>头像&lt;/li>
-&lt;li>头衔&lt;/li>
-&lt;li>联系方式：手机，座机，email，&lt;/li>
-&lt;li>社交账号&lt;/li>
-&lt;li>地址&lt;/li>
-&lt;li>业务简介&lt;/li>
-&lt;/ul>
-&lt;p>印刷材料要求：尽可能环保，或含有本公司产品的成分&lt;/p>
-&lt;h3 id="海报">&lt;strong>海报&lt;/strong>&lt;a class="td-heading-self-link" href="#%e6%b5%b7%e6%8a%a5" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>根据使用场合不同，分为以下系列多套&lt;/p>
-&lt;p>可以是一次性活动使用，或作为长期稳定宣传。&lt;/p>
-&lt;ul>
-&lt;li>线下：&lt;/li>
-&lt;/ul>
-&lt;p>展会论坛&lt;/p>
-&lt;ul>
-&lt;li>线上：&lt;/li>
-&lt;/ul>
-&lt;p>社交媒体&lt;/p>
-&lt;p>电商店铺&lt;/p>
-&lt;h3 id="宣传册用户手册">&lt;strong>宣传册/用户手册&lt;/strong>&lt;a class="td-heading-self-link" href="#%e5%ae%a3%e4%bc%a0%e5%86%8c%e7%94%a8%e6%88%b7%e6%89%8b%e5%86%8c" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>比海报的内容更丰富的图文并茂的媒体形式，可以完全电子化而不必印刷，例如采用PDF格式，宣传册主要用于展会论坛，用户手册是内容更丰富的产品详细说明书。&lt;/p>
-&lt;h3 id="演讲稿">&lt;strong>演讲稿&lt;/strong>&lt;a class="td-heading-self-link" href="#%e6%bc%94%e8%ae%b2%e7%a8%bf" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>Demo演示稿、格式，根据使用场合与演讲对象的不同分为系列多套：&lt;/p></description></item><item><title>2.2 商业框架：媒体内容（模板）- ×××品牌名</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-2-media-content-template/</link><pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-2-media-content-template/</guid><description>&lt;p>本框架使用方法的详解，参考前文[2.1 商业框架：媒体内容（详解）]&lt;/p>
-&lt;p>媒体内容框架主要描述其类型和结构&lt;/p>
-&lt;h1 id="媒体文件">媒体文件&lt;a class="td-heading-self-link" href="#%e5%aa%92%e4%bd%93%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="名片">名片&lt;a class="td-heading-self-link" href="#%e5%90%8d%e7%89%87" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;ul>
-&lt;li>单位名&lt;/li>
-&lt;li>标识&lt;/li>
-&lt;li>个人姓名&lt;/li>
-&lt;li>头像&lt;/li>
-&lt;li>头衔&lt;/li>
-&lt;li>联系方式：手机，座机，email，&lt;/li>
-&lt;li>社交账号&lt;/li>
-&lt;li>地址&lt;/li>
-&lt;li>业务简介&lt;/li>
-&lt;/ul>
-&lt;p>印刷材料：要求尽可能环保，或含有本公司产品的成分&lt;/p>
-&lt;h2 id="海报">&lt;strong>海报&lt;/strong>&lt;a class="td-heading-self-link" href="#%e6%b5%b7%e6%8a%a5" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>根据使用场景不同，分为以下系列多套&lt;/p>
-&lt;ul>
-&lt;li>线下：&lt;/li>
-&lt;/ul>
-&lt;p>展会论坛&lt;/p>
-&lt;ul>
-&lt;li>线上：&lt;/li>
-&lt;/ul>
-&lt;p>社交媒体&lt;/p>
-&lt;p>电商店铺&lt;/p>
-&lt;h2 id="宣传册">&lt;strong>宣传册&lt;/strong>&lt;a class="td-heading-self-link" href="#%e5%ae%a3%e4%bc%a0%e5%86%8c" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>用户手册PDF&lt;/p>
-&lt;h2 id="演讲稿">&lt;strong>演讲稿&lt;/strong>&lt;a class="td-heading-self-link" href="#%e6%bc%94%e8%ae%b2%e7%a8%bf" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;ul>
-&lt;li>专家学者&lt;/li>
-&lt;li>普通客户&lt;/li>
-&lt;li>投资人&lt;/li>
-&lt;/ul>
-&lt;h3 id="多媒体">多媒体&lt;a class="td-heading-self-link" href="#%e5%a4%9a%e5%aa%92%e4%bd%93" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;ul>
-&lt;li>图片：静态、动态Gif&lt;/li>
-&lt;li>音频：纯声音、音乐配字幕&lt;/li>
-&lt;li>视频：相机拍摄&lt;/li>
-&lt;li>动画：卡通、GC&lt;/li>
-&lt;li>游戏：互动娱乐&lt;/li>
-&lt;/ul>
-&lt;h2 id="ci-衍生品">&lt;strong>CI 衍生品&lt;/strong>&lt;a class="td-heading-self-link" href="#ci-%e8%a1%8d%e7%94%9f%e5%93%81" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>在物理上的视觉设计呈现&lt;/p>
-&lt;ul>
-&lt;li>文具&lt;/li>
-&lt;li>图书&lt;/li>
-&lt;li>广告牌&lt;/li>
-&lt;li>包装、标签&lt;/li>
-&lt;li>服装、背包&lt;/li>
-&lt;li>车辆广告&lt;/li>
-&lt;/ul>
-&lt;h2 id="传统媒体">传统媒体&lt;a class="td-heading-self-link" href="#%e4%bc%a0%e7%bb%9f%e5%aa%92%e4%bd%93" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;ul>
-&lt;li>报纸/ 杂志&lt;/li>
-&lt;li>广播电台&lt;/li>
-&lt;li>电视台&lt;/li>
-&lt;/ul>
-&lt;h1 id="文案">文案&lt;a class="td-heading-self-link" href="#%e6%96%87%e6%a1%88" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>根据内容长度分类&lt;/p>
-&lt;p>1-2篇文章/周 × 50周/全年 = 专栏作家 = 出版图书&lt;/p></description></item><item><title>2.3 商业框架：媒体内容- 人物访谈</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-3-media-content-interview/</link><pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-3-media-content-interview/</guid><description>&lt;p>有一种相对固定格式的采访人物的结构模板，可以高效率获取媒体内容，减轻小编压力。&lt;/p>
-&lt;h2 id="参考案例">参考案例&lt;a class="td-heading-self-link" href="#%e5%8f%82%e8%80%83%e6%a1%88%e4%be%8b" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="http://www.linxi.cn/write.html">林曦水墨&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://mp.weixin.qq.com/s/Tlo4u6lfBXP_fUBYe8izkQ">写字的人 | “这快乐和天赋没有关系”&lt;/a>&lt;/p>
-&lt;h1 id="解析结构">解析结构&lt;a class="td-heading-self-link" href="#%e8%a7%a3%e6%9e%90%e7%bb%93%e6%9e%84" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="前言">前言&lt;a class="td-heading-self-link" href="#%e5%89%8d%e8%a8%80" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="简介">简介&lt;a class="td-heading-self-link" href="#%e7%ae%80%e4%bb%8b" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="主体">主体&lt;a class="td-heading-self-link" href="#%e4%b8%bb%e4%bd%93" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="结尾">结尾&lt;a class="td-heading-self-link" href="#%e7%bb%93%e5%b0%be" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>前言&lt;/p>
-&lt;p>&lt;em>| 关于“写字的人”： ≤140字&lt;/em>&lt;/p>
-&lt;p>简介&lt;/p>
-&lt;p>照片，真人：&lt;/p>
-&lt;p>&lt;em>像素比例规格要求&lt;/em>&lt;/p>
-&lt;p>名字，昵称：&lt;/p>
-&lt;p>&lt;em>一然&lt;/em>&lt;/p>
-&lt;p>职业，&lt;/p>
-&lt;p>&lt;em>她是：公司内部法律人士&lt;/em>&lt;/p>
-&lt;p>时间，&lt;/p>
-&lt;p>&lt;em>写字时间：四年&lt;/em>&lt;/p>
-&lt;p>导师，&lt;/p>
-&lt;p>&lt;em>她的老师：林曦&lt;/em>&lt;/p>
-&lt;p>所属机构，&lt;/p>
-&lt;p>&lt;em>她的学堂：暄桐教室&lt;/em>&lt;/p>
-&lt;p>主体&lt;/p>
-&lt;p>可以稍微俭省一点，用8-10个问题好了，也可以出不同版本，有长的，也有比较短的。&lt;/p>
-&lt;p>写字的人19问&lt;/p>
-&lt;p>&lt;em>01. 您的职业是什么？&lt;/em>&lt;/p>
-&lt;p>&lt;em>02. 那您的工作忙吗？&lt;/em>&lt;/p>
-&lt;p>&lt;em>03. 您是什么时候开始学写字的？&lt;/em>&lt;/p>
-&lt;p>&lt;em>……&lt;/em>&lt;/p>
-&lt;p>&lt;em>……&lt;/em>&lt;/p>
-&lt;p>&lt;em>19. 最后简单描述一下你的生活可以吗？&lt;/em>&lt;/p>
-&lt;p>结尾&lt;/p>
-&lt;p>机构简介&lt;/p>
-&lt;p>&lt;em>｜暄桐教室：&lt;/em>&lt;/p>
-&lt;p>导师简介&lt;/p>
-&lt;p>&lt;em>｜林曦老师：&lt;/em>&lt;/p>
-&lt;h1 id="使用方法">使用方法&lt;a class="td-heading-self-link" href="#%e4%bd%bf%e7%94%a8%e6%96%b9%e6%b3%95" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>将我方的内容和主题填入以上结构模板中，例如，我们经营素食餐厅，用“素食者“ 代替 ”写字的人“&lt;/p></description></item><item><title>1.0 商业框架：概述- 品牌、传媒、营销</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-0-overview-brand-media-marketing/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-0-overview-brand-media-marketing/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>营销 on 酷壳众创</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/</link><description>Recent content in 营销 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/index.xml" rel="self" type="application/rss+xml"/><item><title>1.0 商业框架：概述- 品牌、传媒、营销</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-0-overview-brand-media-marketing/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-0-overview-brand-media-marketing/</guid><description>&lt;blockquote>
 &lt;p>营销是一门艺术，应该像搭乐高积木一样欢乐和简单&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
@@ -650,416 +490,411 @@
  &lt;/tbody>
 &lt;/table>
 &lt;p>参考：&lt;a href="https://zh.wikipedia.org/wiki/%E4%BD%9B%E6%95%99">Wiki/佛教&lt;/a>&lt;/p></description></item><item><title>1.4 商业框架：案例解析 - 品牌设计- 盖茨基金会</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-4-case-analysis-brand-design-ngo/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-4-case-analysis-brand-design-ngo/</guid><description>&lt;h1 id="案例解析">案例解析&lt;a class="td-heading-self-link" href="#%e6%a1%88%e4%be%8b%e8%a7%a3%e6%9e%90" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>通过该框架，发现不分行业的品牌结构的普遍规律，依此类推，同样的道理，也可以用于分析公益基金和政党的品牌营销原理的框架。&lt;/p>
+&lt;p>通过该框架，发现不分行业的营销结构的普遍规律，依此类推，同样的道理，也可以用于分析公益基金和政党的品牌原理的框架。&lt;/p>
 &lt;h2 id="公益基金会">公益基金会&lt;a class="td-heading-self-link" href="#%e5%85%ac%e7%9b%8a%e5%9f%ba%e9%87%91%e4%bc%9a" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th> &lt;/th>
- &lt;th>&lt;strong>Brand Model&lt;/strong>&lt;/th>
- &lt;th>&lt;strong>NGOs&lt;/strong>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;strong>商业模型&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>非政府组织&lt;/strong>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td>Business Target&lt;/td>
- &lt;td>Background story&lt;/td>
- &lt;td>&lt;a href="https://www.gatesfoundation.org/about/our-story">Founders story&lt;/a>&lt;/td>
+ &lt;td>商业目标&lt;/td>
+ &lt;td>背景故事&lt;/td>
+ &lt;td>&lt;a href="https://www.gatesfoundation.org/about/our-story">创始人故事&lt;/a>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Founders&lt;/td>
- &lt;td>Bill &amp;amp; Melinda Gates&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>创始人&lt;/td>
+ &lt;td>比尔和梅琳达·盖茨&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Core team&lt;/td>
- &lt;td>Board members&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>核心团队&lt;/td>
+ &lt;td>董事会成员&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Timeline&lt;/td>
- &lt;td>AD2000 founded, Memorial Days&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>时间线&lt;/td>
+ &lt;td>公元2000年成立，阵亡将士纪念日&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Product/Service&lt;/td>
- &lt;td>Non-profit Organization, Charitable Foundation&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>产品/服务&lt;/td>
+ &lt;td>非营利组织，慈善基金会&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Partners&lt;/td>
- &lt;td>Gov、commercial and non-profits Org.&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>合作伙伴&lt;/td>
+ &lt;td>政府、商业和非营利组织&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Competitors&lt;/td>
- &lt;td>Rockefeller、Kamehameha Schools、Novo Nordisk&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>竞争对手&lt;/td>
+ &lt;td>洛克菲勒基金会、卡美哈美哈学校、诺和诺德&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Audience&lt;/td>
- &lt;td>People who suffer poverty、disease、inequity&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>受众&lt;/td>
+ &lt;td>遭受贫困、疾病、不平等的人们&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>Culture&lt;/td>
- &lt;td>Vision&lt;/td>
- &lt;td>Linkedin: &lt;em>seeing a world where every person has the opportunity to live a healthy, productive life.&lt;/em>&lt;/td>
+ &lt;td>文化&lt;/td>
+ &lt;td>愿景&lt;/td>
+ &lt;td>领英：&lt;em>看到一个每个人都有机会过上健康、富有成效的生活的世界。&lt;/em>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Mission&lt;/td>
- &lt;td>to create a world where every person has the opportunity to live a healthy, productive life.&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>使命&lt;/td>
+ &lt;td>创造一个每个人都有机会过上健康、富有成效的生活的世界。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Value&lt;/td>
- &lt;td>Optimism, Rigor, Innovation, Collaboration, Diversity, Inclusion, Responsibility and accountability, Community involvement.&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>价值观&lt;/td>
+ &lt;td>乐观、严谨、创新、协作、多样性、包容性、责任与担当、社区参与。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>Brand Attributes&lt;/td>
- &lt;td>Brand name&lt;/td>
- &lt;td>&lt;strong>Bill &amp;amp; Melinda Gates Foundation&lt;/strong>&lt;/td>
+ &lt;td>品牌属性&lt;/td>
+ &lt;td>品牌名称&lt;/td>
+ &lt;td>&lt;strong>比尔及梅琳达·盖茨基金会&lt;/strong>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
+ &lt;td>&lt;/td>
  &lt;td>Logo&lt;/td>
  &lt;td>“ ”&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Slogan&lt;/td>
- &lt;td>We are a nonprofit fighting poverty, disease, and inequity around the world.&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>口号&lt;/td>
+ &lt;td>我们是一个致力于在世界各地消除贫困、疾病和不平等的非营利组织。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Imagery&lt;/td>
- &lt;td>on Web App &lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>图像&lt;/td>
+ &lt;td>在网络应用程序上&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Colour&lt;/td>
- &lt;td>Black &amp;amp; White&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>颜色&lt;/td>
+ &lt;td>黑色和白色&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Typeface&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>字体&lt;/td>
  &lt;td>“ ”&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Design Style Guidelines&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>设计风格指南&lt;/td>
  &lt;td>“ ”&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>&lt;strong>Other Questions&lt;/strong>&lt;/td>
- &lt;td>Brand Image Mental Positioning&lt;/td>
- &lt;td>The richest man in the world, charity, Climate change, Environment, Poverty, Disease, Vaccine, Biology&lt;/td>
+ &lt;td>&lt;strong>其他问题&lt;/strong>&lt;/td>
+ &lt;td>品牌形象心理定位&lt;/td>
+ &lt;td>世界首富，慈善，气候变化，环境，贫困，疾病，疫苗，生物学&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Brand Image Opposing Features - Creating Conflict&lt;/td>
- &lt;td>Corporate Social Responsibility Report. Richest-Poorest, Happy-Sad, Healthy- Disease&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>品牌形象对立特征 - 制造冲突&lt;/td>
+ &lt;td>企业社会责任报告。最富有的-最贫穷的，快乐的-悲伤的，健康的-疾病的&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Duration of continuous operation&lt;/td>
- &lt;td>Since AD 2000, to forever&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>持续经营时间&lt;/td>
+ &lt;td>自公元2000年起，直到永远&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>&lt;strong>Brand representative&lt;/strong>&lt;/td>
- &lt;td>Car for Transportation&lt;/td>
- &lt;td>Private aeroplane, ship, luxury car collection&lt;/td>
+ &lt;td>&lt;strong>品牌代表&lt;/strong>&lt;/td>
+ &lt;td>交通工具&lt;/td>
+ &lt;td>私人飞机，游艇，豪华汽车收藏&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Animal&lt;/td>
- &lt;td>Animal Protection NGO’s image&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>动物&lt;/td>
+ &lt;td>动物保护非政府组织的形象&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Plant&lt;/td>
- &lt;td>Farm plants to fight hunger&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>植物&lt;/td>
+ &lt;td>为战胜饥饿而种植的农作物&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Spokesperson&lt;/td>
- &lt;td>Bill Gates and board members&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>代言人&lt;/td>
+ &lt;td>比尔·盖茨和董事会成员&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Book&lt;/td>
- &lt;td>&lt;em>The Road Ahead,&lt;/em> How to Avoid a Climate Disaster&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>书籍&lt;/td>
+ &lt;td>&lt;em>未来之路&lt;/em>，如何避免气候灾难&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Theory system&lt;/td>
- &lt;td>Foundation law, Faith from Bible&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>理论体系&lt;/td>
+ &lt;td>基金会法，来自圣经的信仰&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Music&lt;/td>
- &lt;td>Music Video&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>音乐&lt;/td>
+ &lt;td>音乐视频&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Multi-Media&lt;/td>
- &lt;td>All &lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>多媒体&lt;/td>
+ &lt;td>所有&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Behavior-ceremony&lt;/td>
- &lt;td>International summit, Speeches, Workshop, Training Event, etc.&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>行为-仪式&lt;/td>
+ &lt;td>国际峰会，演讲，研讨会，培训活动等&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Props&lt;/td>
- &lt;td>Data diagram on slide&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>道具&lt;/td>
+ &lt;td>幻灯片上的数据图表&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Clothing/Styling&lt;/td>
- &lt;td>shirt, denim&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>服装/造型&lt;/td>
+ &lt;td>衬衫，牛仔裤&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>&lt;strong>Specific&lt;/strong>&lt;/td>
- &lt;td>the goals or expected deliverables&lt;/td>
- &lt;td>The logo appears in every big events such as GoalKeepers, UN, the volume of the financial support&lt;/td>
+ &lt;td>&lt;strong>具体&lt;/strong>&lt;/td>
+ &lt;td>目标或预期成果&lt;/td>
+ &lt;td>Logo出现在每一个大型活动中，如全球目标守护者大会、联合国大会，以及提供的资金支持规模&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Expected timetable&lt;/td>
- &lt;td>On Schedule&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>预期时间表&lt;/td>
+ &lt;td>按计划进行&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Brand results&lt;/td>
- &lt;td>listed on 2nd of wealthiest charitable foundations by Wikipedia.&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>品牌成果&lt;/td>
+ &lt;td>维基百科上排名第二的富豪慈善基金会。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Application scenarios&lt;/td>
- &lt;td>134+ countries.&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>应用场景&lt;/td>
+ &lt;td>134多个国家。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>&lt;strong>Budget&lt;/strong>&lt;/td>
- &lt;td>Cost&lt;/td>
- &lt;td>in 2020, 5.822 Billion US$ totally&lt;/td>
+ &lt;td>&lt;strong>预算&lt;/strong>&lt;/td>
+ &lt;td>成本&lt;/td>
+ &lt;td>2020年，共计58.22亿美元&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td> &lt;/td>
- &lt;td> &lt;/td>
- &lt;td> &lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
 &lt;h2 id="盖茨基金会httpswwwgatesfoundationorg">&lt;a href="https://www.gatesfoundation.org/">盖茨基金会&lt;/a>&lt;a class="td-heading-self-link" href="#%e7%9b%96%e8%8c%a8%e5%9f%ba%e9%87%91%e4%bc%9ahttpswwwgatesfoundationorg" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="https://mission-statement.com/bill-melinda-gates-foundation/#Bill_and_Melinda_Gates_Foundation_Vision_statement">Bill and Melinda Gates Foundation Vision statement&lt;/a>&lt;/p></description></item><item><title>1.4 商业框架：案例解析 - 品牌设计- 共产党</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-4-case-analysis-brand-design-party/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-4-case-analysis-brand-design-party/</guid><description>&lt;h1 id="案例解析">案例解析&lt;a class="td-heading-self-link" href="#%e6%a1%88%e4%be%8b%e8%a7%a3%e6%9e%90" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>通过该框架，发现不分行业的品牌结构的普遍规律，依此类推，同样的道理，也可以用于分析公益基金和政党的品牌营销原理的框架。&lt;/p>
+&lt;p>&lt;a href="https://mission-statement.com/bill-melinda-gates-foundation/#Bill_and_Melinda_Gates_Foundation_Vision_statement">比尔及梅琳达·盖茨基金会愿景声明&lt;/a>&lt;/p></description></item><item><title>1.4 商业框架：案例解析 - 品牌设计- 共产党</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-4-case-analysis-brand-design-party/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-4-case-analysis-brand-design-party/</guid><description>&lt;h1 id="案例解析">案例解析&lt;a class="td-heading-self-link" href="#%e6%a1%88%e4%be%8b%e8%a7%a3%e6%9e%90" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>通过该框架，我们能发现不分行业的营销结构的普遍规律，依此类推，同样的道理，也可以用于分析公益基金和政党的品牌原理的框架。&lt;/p>
 &lt;h2 id="政党">政党&lt;a class="td-heading-self-link" href="#%e6%94%bf%e5%85%9a" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th> &lt;/th>
- &lt;th>&lt;strong>Brand Model&lt;/strong>&lt;/th>
- &lt;th>&lt;strong>Political parties&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>品牌模型&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>政党&lt;/strong>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td>Business Target&lt;/td>
- &lt;td>Background story&lt;/td>
- &lt;td>the first congress in a tourist boat on South Lake of Jiaxing&lt;/td>
+ &lt;td>商业目标&lt;/td>
+ &lt;td>背景故事&lt;/td>
+ &lt;td>在嘉兴南湖的一艘游船上召开了第一次代表大会&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Founders&lt;/td>
- &lt;td>Chen Duxiu, Li Dazhao, A dozen delegates.&lt;/td>
+ &lt;td>创始人&lt;/td>
+ &lt;td>陈独秀，李大钊，以及十几位代表&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Core team&lt;/td>
- &lt;td>Politburo, Standing Committee&lt;/td>
+ &lt;td>核心团队&lt;/td>
+ &lt;td>政治局，常务委员会&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Timeline&lt;/td>
- &lt;td>1921.7.1 founded, Memorial Days&lt;/td>
+ &lt;td>时间线&lt;/td>
+ &lt;td>1921.7.1 成立，纪念日&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Product/Service&lt;/td>
- &lt;td>State power, violence, and domination&lt;/td>
+ &lt;td>产品/服务&lt;/td>
+ &lt;td>国家权力、高效率社会治理&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Partners&lt;/td>
- &lt;td>leads eight other legally permitted subordinate minor parties together as the United Front .&lt;/td>
+ &lt;td>合作伙伴&lt;/td>
+ &lt;td>领导其他八个合法存在的次要政党，组成统一战线&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Competitors&lt;/td>
- &lt;td>Republic, democratic party of UK, US, JP, etc.&lt;/td>
+ &lt;td>竞争对手&lt;/td>
+ &lt;td>共和国，英国，美国，日本的民主党等&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Audience&lt;/td>
- &lt;td>Chinese people, 90+ million membership&lt;/td>
+ &lt;td>目标受众&lt;/td>
+ &lt;td>中国人民，9000多万党员&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>Culture&lt;/td>
- &lt;td>Vision&lt;/td>
- &lt;td>Communism&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td> &lt;/td>
- &lt;td>Mission&lt;/td>
- &lt;td>Realizing the Ideals of the Party, Robust Leadership and Strong Governance. Contributing to World Peace and Development&lt;/td>
+ &lt;td>文化&lt;/td>
+ &lt;td>愿景&lt;/td>
+ &lt;td>共产主义&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Value&lt;/td>
- &lt;td>Core Socialist Values&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Brand Attributes&lt;/td>
- &lt;td>Brand name&lt;/td>
- &lt;td>CPC - Communist Party of China&lt;/td>
+ &lt;td>使命&lt;/td>
+ &lt;td>实现党的理想，坚强领导和强大治理。 为世界和平与发展做出贡献&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Logo&lt;/td>
- &lt;td>The hammer and sickle&lt;/td>
+ &lt;td>价值观&lt;/td>
+ &lt;td>社会主义核心价值观&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>品牌属性&lt;/td>
+ &lt;td>品牌名称&lt;/td>
+ &lt;td>CPC - 中国共产党&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Slogan&lt;/td>
- &lt;td>Serve the People&lt;/td>
+ &lt;td>logo&lt;/td>
+ &lt;td>锤子和镰刀&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Imagery&lt;/td>
- &lt;td>Portraits of Chinese and Soviet leaders&lt;/td>
+ &lt;td>口号&lt;/td>
+ &lt;td>为人民服务&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Colour&lt;/td>
- &lt;td>Gold, Red, the blood of sacrifices &lt;/td>
+ &lt;td>形象&lt;/td>
+ &lt;td>中共和苏联领导人的肖像&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Typeface&lt;/td>
- &lt;td>Mao zedong&lt;/td>
+ &lt;td>颜色&lt;/td>
+ &lt;td>金色，红色，牺牲的鲜血&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Design Style Guidelines&lt;/td>
- &lt;td>Chapter 11 of the Constitution of the Communist Party of China&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Other Questions&lt;/strong>&lt;/td>
- &lt;td>Brand Image Mental Positioning&lt;/td>
- &lt;td>the Three Represents&lt;/td>
+ &lt;td>字体&lt;/td>
+ &lt;td>毛泽东字体&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Brand Image Opposing Features - Creating Conflict&lt;/td>
- &lt;td>The disparity between ideal declarations and reality in every aspect of the whole society.&lt;/td>
+ &lt;td>设计风格指南&lt;/td>
+ &lt;td>《中国共产党章程》第十一条&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>其他问题&lt;/strong>&lt;/td>
+ &lt;td>品牌形象心理定位&lt;/td>
+ &lt;td>“三个代表”&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Duration of continuous operation&lt;/td>
- &lt;td>Since AD 1921&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Brand representative&lt;/strong>&lt;/td>
- &lt;td>Car for Transportation&lt;/td>
- &lt;td>Domestic Red flag, dedicated to leaders&amp;rsquo; military parade&lt;/td>
+ &lt;td>品牌形象对立特征 - 制造冲突&lt;/td>
+ &lt;td>整个社会各个方面理想宣言与现实之间的差距&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Animal&lt;/td>
- &lt;td>The Chinese dragon, forbidden city&lt;/td>
+ &lt;td>持续经营时间&lt;/td>
+ &lt;td>自公元1921年起&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>品牌代表&lt;/strong>&lt;/td>
+ &lt;td>交通工具&lt;/td>
+ &lt;td>国产红旗，专供领导人阅兵&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Plant&lt;/td>
- &lt;td>Chinese locust, Arborvitae&lt;/td>
+ &lt;td>动物&lt;/td>
+ &lt;td>中国龙，故宫&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Spokesperson&lt;/td>
- &lt;td>Chairman of CPC&lt;/td>
+ &lt;td>植物&lt;/td>
+ &lt;td>国槐，侧柏&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Book&lt;/td>
- &lt;td>Marxism–Leninism, Mao Zedong Thought, socialism with Chinese characteristics, Deng Xiaoping Theory. &lt;/td>
+ &lt;td>代言人&lt;/td>
+ &lt;td>中共中央总书记&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Theory system&lt;/td>
- &lt;td>Socialism with Chinese characteristics, Socialist patriotism, Chinese nationalism&lt;/td>
+ &lt;td>书籍&lt;/td>
+ &lt;td>马克思列宁主义，毛泽东思想，中国特色社会主义，邓小平理论&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Music&lt;/td>
- &lt;td>The Internationale, Red song&lt;/td>
+ &lt;td>理论体系&lt;/td>
+ &lt;td>中国特色社会主义，社会主义爱国主义，中华民族主义&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Multi-Media&lt;/td>
- &lt;td>All, CCTV &lt;/td>
+ &lt;td>音乐&lt;/td>
+ &lt;td>《国际歌》，红歌&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Behavior-ceremony&lt;/td>
- &lt;td>the National Congress, &lt;/td>
+ &lt;td>多媒体&lt;/td>
+ &lt;td>所有，中央电视台&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Props&lt;/td>
- &lt;td>Chairman Mao&amp;rsquo;s Red Book&lt;/td>
+ &lt;td>行为-仪式&lt;/td>
+ &lt;td>全国代表大会&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Clothing/Styling&lt;/td>
- &lt;td>Chinese tunic suit 中山装、green uniform 绿军装&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Specific&lt;/strong>&lt;/td>
- &lt;td>the goals or expected deliverables&lt;/td>
- &lt;td>Party emblems appear in every social movement and major event.&lt;/td>
+ &lt;td>道具&lt;/td>
+ &lt;td>毛主席语录&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Expected timetable&lt;/td>
- &lt;td>want to be Forever&lt;/td>
+ &lt;td>服装/造型&lt;/td>
+ &lt;td>中山装，绿军装&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>具体目标&lt;/strong>&lt;/td>
+ &lt;td>目标或预期成果&lt;/td>
+ &lt;td>党徽出现在每一次社会运动和重大事件中&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Brand results&lt;/td>
- &lt;td>leading to the establishment of the People&amp;rsquo;s Republic of China&lt;/td>
+ &lt;td>预计时间表&lt;/td>
+ &lt;td>永远&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td>Application scenarios&lt;/td>
- &lt;td>Whole China, one road one belt.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Budget&lt;/strong>&lt;/td>
- &lt;td>Cost&lt;/td>
- &lt;td>China GDP 14.72 trillion USD 2020&lt;/td>
+ &lt;td>品牌成果&lt;/td>
+ &lt;td>领导建立中华人民共和国&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td> &lt;/td>
- &lt;td> &lt;/td>
- &lt;td> &lt;/td>
+ &lt;td>应用场景&lt;/td>
+ &lt;td>全中国，一带一路&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>预算&lt;/strong>&lt;/td>
+ &lt;td>成本&lt;/td>
+ &lt;td>中国2020年GDP 14.72万亿美元&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;h2 id="wiki-共产党httpsenwikipediaorgwikichinese_communist_party">&lt;a href="https://en.wikipedia.org/wiki/Chinese_Communist_Party">Wiki 共产党&lt;/a>&lt;a class="td-heading-self-link" href="#wiki-%e5%85%b1%e4%ba%a7%e5%85%9ahttpsenwikipediaorgwikichinese_communist_party" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>&lt;a href="http://www.news.cn/english/2021-08/26/c_1310148193.htm">The CPC Its Mission and Contributions&lt;/a>&lt;/p></description></item><item><title>1.4 商业框架：案例解析 - 品牌设计- 可口可乐</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-4-case-analysis-brand-design-cola/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-4-case-analysis-brand-design-cola/</guid><description>&lt;h1 id="案例解析">案例解析&lt;a class="td-heading-self-link" href="#%e6%a1%88%e4%be%8b%e8%a7%a3%e6%9e%90" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="维基百科-共产党httpsenwikipediaorgwikichinese_communist_party">&lt;a href="https://en.wikipedia.org/wiki/Chinese_Communist_Party">维基百科 共产党&lt;/a>&lt;a class="td-heading-self-link" href="#%e7%bb%b4%e5%9f%ba%e7%99%be%e7%a7%91-%e5%85%b1%e4%ba%a7%e5%85%9ahttpsenwikipediaorgwikichinese_communist_party" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>&lt;a href="http://www.news.cn/english/2021-08/26/c_1310148193.htm">中国共产党：使命与贡献&lt;/a>&lt;/p></description></item><item><title>1.4 商业框架：案例解析 - 品牌设计- 可口可乐</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-4-case-analysis-brand-design-cola/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/1-4-case-analysis-brand-design-cola/</guid><description>&lt;h1 id="案例解析">案例解析&lt;a class="td-heading-self-link" href="#%e6%a1%88%e4%be%8b%e8%a7%a3%e6%9e%90" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>通过该开源框架，发现不分行业的品牌结构的普遍规律，依此类推，可相对低成本自行创建有影响力的品牌。&lt;/p>
 &lt;h2 id="商业可口可乐">商业：可口可乐&lt;a class="td-heading-self-link" href="#%e5%95%86%e4%b8%9a%e5%8f%af%e5%8f%a3%e5%8f%af%e4%b9%90" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;table>
@@ -1287,10 +1122,10 @@
 &lt;p>我们不能仅仅批判败坏的典型，更应该追寻美好事物的源头，来自广告营销和品牌设计圈大佬的理论和实践图书，现找到部分经典列举如下。&lt;/p>
 &lt;h1 id="创造产品内在价值的理论">创造产品内在价值的理论&lt;a class="td-heading-self-link" href="#%e5%88%9b%e9%80%a0%e4%ba%a7%e5%93%81%e5%86%85%e5%9c%a8%e4%bb%b7%e5%80%bc%e7%9a%84%e7%90%86%e8%ae%ba" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Innovation and Entrepreneurship《创新与企业家精神》，Peter Drucker 德鲁克;&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Innovation and Entrepreneurship《创新与企业家精神》，Peter Drucker 彼得.德鲁克;&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Blue Ocean Strategy《蓝海战略》，W. Chan Kim 钱.金;&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Innovator&amp;rsquo;s Solution: Creating and Sustaining Successful Growth《创新者的解答》，Clayton M. Christensen 克莱顿•克里斯坦森；&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Innovator&amp;rsquo;s Dilemma: When New Technologies Cause Great Firms to Fail 《创新者的窘境》，Clayton M. Christensen 克莱顿•克里斯坦森；&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Innovator&amp;rsquo;s Solution: Creating and Sustaining Successful Growth《创新者的解答》，Clayton M. Christensen 克莱顿 M.克里斯坦森；&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Innovator&amp;rsquo;s Dilemma: When New Technologies Cause Great Firms to Fail 《创新者的窘境》，Clayton M. Christensen 克莱顿 M.克里斯坦森；&lt;/li>
 &lt;/ul>
 &lt;h1 id="品牌价值成份和定位的理论">品牌价值成份和定位的理论&lt;a class="td-heading-self-link" href="#%e5%93%81%e7%89%8c%e4%bb%b7%e5%80%bc%e6%88%90%e4%bb%bd%e5%92%8c%e5%ae%9a%e4%bd%8d%e7%9a%84%e7%90%86%e8%ae%ba" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;ul>
@@ -1301,4 +1136,234 @@
 &lt;li>&lt;input disabled="" type="checkbox"> Differentiate Or Die: Survival in Our Era of Killer Competition《与众不同》；&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> REPOSITIONING: Marketing in an Era of Competition, Change and Crisis《重新定位》；&lt;/li>
 &lt;/ul>
-&lt;p>以上书籍的作者均为 Al Ries 艾·里斯 和 Jack Trout 杰克·特劳特&lt;/p></description></item></channel></rss>
+&lt;p>以上书籍的作者均为 Al Ries 艾·里斯 和 Jack Trout 杰克·特劳特&lt;/p></description></item><item><title>2.1 商业框架：媒体内容（详解）</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-1-media-content-details/</link><pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-1-media-content-details/</guid><description>&lt;p>参考空白模板：[1.2 商业框架：品牌设计- 企业形象识别（模板）- ×××品牌名]&lt;/p>
+&lt;h1 id="为什么从媒体开始启动项目">&lt;strong>为什么从媒体开始启动项目？&lt;/strong>&lt;a class="td-heading-self-link" href="#%e4%b8%ba%e4%bb%80%e4%b9%88%e4%bb%8e%e5%aa%92%e4%bd%93%e5%bc%80%e5%a7%8b%e5%90%af%e5%8a%a8%e9%a1%b9%e7%9b%ae" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>大多数开放面向市场的项目，无论是否卖东西（做电商），都要从营销和传播开始，吸引流量和用户粉丝，当聚集一定量后，做什么都很轻松，因此创业先从媒体开始做起，当一切都没有的时候，就可以几乎0成本启动。&lt;/p>
+&lt;p>参考前文：[论写作的重要性]&lt;/p>
+&lt;p>&lt;strong>从0开始快速启动项目的方法：&lt;/strong>&lt;/p>
+&lt;p>先养一个垂直行业（例如农业、健康、教育等类别）的媒体号，通过自动化运营方法，花最少的时间和成本，在几个月之内高效率地吸纳几万用户，通过数据分析指导项目演进方向，同时流量变现分配给相应的有专业经验的参与者，制定若干种可能的具体产品形态，快速做迭代测试至形成稳定的产品和客户。&lt;/p>
+&lt;p>媒体属于市场部门的工作范围，是促成营销的必备工具，包括线上或线下各种用途的材料，请根据以下结构梳理内容，准备原始图文视频等素材，填入以下结构中。&lt;/p>
+&lt;p>&lt;strong>相关专业&lt;/strong>&lt;/p>
+&lt;p>全套CI/VI素材设计标准和规范需要多个专业协作，包括并不限于：市场研究、产品开发、品牌规划、客服、UX用户体验/UI交互/GUI美术设计等相关专业人员。&lt;/p>
+&lt;p>媒体内容框架主要描述的类型和结构包括：&lt;/p>
+&lt;p>品牌标识（logo、slogan等）、&lt;/p>
+&lt;p>品牌文化内容展示、&lt;/p>
+&lt;p>业务范围、&lt;/p>
+&lt;p>产品信息、&lt;/p>
+&lt;p>产品特色、&lt;/p>
+&lt;p>联系地址及方式、&lt;/p>
+&lt;p>公司人物简介、&lt;/p>
+&lt;p>发展方向；&lt;/p>
+&lt;p>由于互联网的发展日趋线上，而且由于环保的要求，不一定需要印刷材料。媒体类型非常多样化，按照从小到大的素材内容的结构和类型如下：&lt;/p>
+&lt;h2 id="品牌设计体系">品牌设计体系&lt;a class="td-heading-self-link" href="#%e5%93%81%e7%89%8c%e8%ae%be%e8%ae%a1%e4%bd%93%e7%b3%bb" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>品牌个性/属性的元素是构成品牌和媒体内容的基本素材和最小单位，可以将各种素材的结构组合，设计各种格式和类型的媒体文件，因此品牌设计体系是做媒体内容的先决条件，如此严谨按照科学规律循序渐进，小作坊可变成跨国巨头。&lt;/p>
+&lt;h1 id="媒体文件">媒体文件&lt;a class="td-heading-self-link" href="#%e5%aa%92%e4%bd%93%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>主要包括以下：&lt;/p>
+&lt;ul>
+&lt;li>名片&lt;/li>
+&lt;li>海报/传单&lt;/li>
+&lt;li>目录/手册&lt;/li>
+&lt;li>演示稿&lt;/li>
+&lt;li>多媒体（音视频）&lt;/li>
+&lt;li>文章&lt;/li>
+&lt;/ul>
+&lt;h3 id="名片">名片&lt;a class="td-heading-self-link" href="#%e5%90%8d%e7%89%87" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>用于快速社交的传播，中英文等多语种对照的主要素材结构：&lt;/p>
+&lt;ul>
+&lt;li>单位名&lt;/li>
+&lt;li>标识&lt;/li>
+&lt;li>个人姓名&lt;/li>
+&lt;li>头像&lt;/li>
+&lt;li>头衔&lt;/li>
+&lt;li>联系方式：手机，座机，email，&lt;/li>
+&lt;li>社交账号&lt;/li>
+&lt;li>地址&lt;/li>
+&lt;li>业务简介&lt;/li>
+&lt;/ul>
+&lt;p>印刷材料要求：尽可能环保，或含有本公司产品的成分&lt;/p>
+&lt;h3 id="海报">&lt;strong>海报&lt;/strong>&lt;a class="td-heading-self-link" href="#%e6%b5%b7%e6%8a%a5" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>根据使用场合不同，分为以下系列多套&lt;/p>
+&lt;p>可以是一次性活动使用，或作为长期稳定宣传。&lt;/p>
+&lt;ul>
+&lt;li>线下：&lt;/li>
+&lt;/ul>
+&lt;p>展会论坛&lt;/p>
+&lt;ul>
+&lt;li>线上：&lt;/li>
+&lt;/ul>
+&lt;p>社交媒体&lt;/p>
+&lt;p>电商店铺&lt;/p>
+&lt;h3 id="宣传册用户手册">&lt;strong>宣传册/用户手册&lt;/strong>&lt;a class="td-heading-self-link" href="#%e5%ae%a3%e4%bc%a0%e5%86%8c%e7%94%a8%e6%88%b7%e6%89%8b%e5%86%8c" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>比海报的内容更丰富的图文并茂的媒体形式，可以完全电子化而不必印刷，例如采用PDF格式，宣传册主要用于展会论坛，用户手册是内容更丰富的产品详细说明书。&lt;/p>
+&lt;h3 id="演讲稿">&lt;strong>演讲稿&lt;/strong>&lt;a class="td-heading-self-link" href="#%e6%bc%94%e8%ae%b2%e7%a8%bf" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>Demo演示稿、格式，根据使用场合与演讲对象的不同分为系列多套：&lt;/p></description></item><item><title>2.2 商业框架：媒体内容（模板）- ×××品牌名</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-2-media-content-template/</link><pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-2-media-content-template/</guid><description>&lt;p>本框架使用方法的详解，参考前文[2.1 商业框架：媒体内容（详解）]&lt;/p>
+&lt;p>媒体内容框架主要描述其类型和结构&lt;/p>
+&lt;h1 id="媒体文件">媒体文件&lt;a class="td-heading-self-link" href="#%e5%aa%92%e4%bd%93%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="名片">名片&lt;a class="td-heading-self-link" href="#%e5%90%8d%e7%89%87" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>单位名&lt;/li>
+&lt;li>标识&lt;/li>
+&lt;li>个人姓名&lt;/li>
+&lt;li>头像&lt;/li>
+&lt;li>头衔&lt;/li>
+&lt;li>联系方式：手机，座机，email，&lt;/li>
+&lt;li>社交账号&lt;/li>
+&lt;li>地址&lt;/li>
+&lt;li>业务简介&lt;/li>
+&lt;/ul>
+&lt;p>印刷材料：要求尽可能环保，或含有本公司产品的成分&lt;/p>
+&lt;h2 id="海报">&lt;strong>海报&lt;/strong>&lt;a class="td-heading-self-link" href="#%e6%b5%b7%e6%8a%a5" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>根据使用场景不同，分为以下系列多套&lt;/p>
+&lt;ul>
+&lt;li>线下：&lt;/li>
+&lt;/ul>
+&lt;p>展会论坛&lt;/p>
+&lt;ul>
+&lt;li>线上：&lt;/li>
+&lt;/ul>
+&lt;p>社交媒体&lt;/p>
+&lt;p>电商店铺&lt;/p>
+&lt;h2 id="宣传册">&lt;strong>宣传册&lt;/strong>&lt;a class="td-heading-self-link" href="#%e5%ae%a3%e4%bc%a0%e5%86%8c" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>用户手册PDF&lt;/p>
+&lt;h2 id="演讲稿">&lt;strong>演讲稿&lt;/strong>&lt;a class="td-heading-self-link" href="#%e6%bc%94%e8%ae%b2%e7%a8%bf" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>专家学者&lt;/li>
+&lt;li>普通客户&lt;/li>
+&lt;li>投资人&lt;/li>
+&lt;/ul>
+&lt;h3 id="多媒体">多媒体&lt;a class="td-heading-self-link" href="#%e5%a4%9a%e5%aa%92%e4%bd%93" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>图片：静态、动态Gif&lt;/li>
+&lt;li>音频：纯声音、音乐配字幕&lt;/li>
+&lt;li>视频：相机拍摄&lt;/li>
+&lt;li>动画：卡通、GC&lt;/li>
+&lt;li>游戏：互动娱乐&lt;/li>
+&lt;/ul>
+&lt;h2 id="ci-衍生品">&lt;strong>CI 衍生品&lt;/strong>&lt;a class="td-heading-self-link" href="#ci-%e8%a1%8d%e7%94%9f%e5%93%81" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>在物理上的视觉设计呈现&lt;/p>
+&lt;ul>
+&lt;li>文具&lt;/li>
+&lt;li>图书&lt;/li>
+&lt;li>广告牌&lt;/li>
+&lt;li>包装、标签&lt;/li>
+&lt;li>服装、背包&lt;/li>
+&lt;li>车辆广告&lt;/li>
+&lt;/ul>
+&lt;h2 id="传统媒体">传统媒体&lt;a class="td-heading-self-link" href="#%e4%bc%a0%e7%bb%9f%e5%aa%92%e4%bd%93" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>报纸/ 杂志&lt;/li>
+&lt;li>广播电台&lt;/li>
+&lt;li>电视台&lt;/li>
+&lt;/ul>
+&lt;h1 id="文案">文案&lt;a class="td-heading-self-link" href="#%e6%96%87%e6%a1%88" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>根据内容长度分类&lt;/p>
+&lt;p>1-2篇文章/周 × 50周/全年 = 专栏作家 = 出版图书&lt;/p></description></item><item><title>2.3 商业框架：媒体内容- 人物访谈（详情）</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-3-media-content-interview-details/</link><pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-3-media-content-interview-details/</guid><description>&lt;p>有一种相对固定格式的采访人物的结构模板，可以高效率获取媒体内容，减轻小编压力。以[林曦水墨]为案例。&lt;/p>
+&lt;h2 id="参考案例">参考案例&lt;a class="td-heading-self-link" href="#%e5%8f%82%e8%80%83%e6%a1%88%e4%be%8b" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>&lt;a href="http://www.linxi.cn/write.html">林曦水墨&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://mp.weixin.qq.com/s/Tlo4u6lfBXP_fUBYe8izkQ">写字的人 | “这快乐和天赋没有关系”&lt;/a>&lt;/p>
+&lt;h1 id="解析结构">解析结构&lt;a class="td-heading-self-link" href="#%e8%a7%a3%e6%9e%90%e7%bb%93%e6%9e%84" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="前言">前言&lt;a class="td-heading-self-link" href="#%e5%89%8d%e8%a8%80" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>&lt;em>| 关于“某个人物”： ≤140字&lt;/em>&lt;/p>
+&lt;h2 id="简介">简介&lt;a class="td-heading-self-link" href="#%e7%ae%80%e4%bb%8b" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>照片，真人：&lt;/p>
+&lt;p>&lt;em>像素比例规格要求&lt;/em>&lt;/p>
+&lt;p>名字，昵称：&lt;/p>
+&lt;p>&lt;em>一然&lt;/em>&lt;/p>
+&lt;p>职业：&lt;/p>
+&lt;p>&lt;em>她是：公司内部法律人士&lt;/em>&lt;/p>
+&lt;p>时间：&lt;/p>
+&lt;p>&lt;em>写字时间：四年&lt;/em>&lt;/p>
+&lt;p>导师：&lt;/p>
+&lt;p>&lt;em>她的老师：林曦&lt;/em>&lt;/p>
+&lt;p>所属机构：&lt;/p>
+&lt;p>&lt;em>她的学堂：暄桐教室&lt;/em>&lt;/p>
+&lt;h2 id="主体">主体&lt;a class="td-heading-self-link" href="#%e4%b8%bb%e4%bd%93" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>可以稍微俭省一点，用8-10个问题好了，也可以出不同版本，有长的，也有比较短的。&lt;/p>
+&lt;p>写字的人19问&lt;/p>
+&lt;p>&lt;em>01. 您的职业是什么？&lt;/em>&lt;/p>
+&lt;p>&lt;em>02. 那您的工作忙吗？&lt;/em>&lt;/p>
+&lt;p>&lt;em>03. 您是什么时候开始学写字的？&lt;/em>&lt;/p>
+&lt;p>&lt;em>……&lt;/em>&lt;/p>
+&lt;p>&lt;em>……&lt;/em>&lt;/p>
+&lt;p>&lt;em>19. 最后简单描述一下你的生活可以吗？&lt;/em>&lt;/p>
+&lt;h2 id="结尾">结尾&lt;a class="td-heading-self-link" href="#%e7%bb%93%e5%b0%be" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>机构简介&lt;/p>
+&lt;p>&lt;em>｜暄桐教室：&lt;/em>&lt;/p>
+&lt;p>导师简介&lt;/p>
+&lt;p>&lt;em>｜林曦老师：&lt;/em>&lt;/p>
+&lt;h1 id="使用方法">使用方法&lt;a class="td-heading-self-link" href="#%e4%bd%bf%e7%94%a8%e6%96%b9%e6%b3%95" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>将我方的内容和主题填入以上结构模板中，例如，我们经营素食餐厅，用“素食者“ 代替 ”写字的人“&lt;/p></description></item><item><title>2.4 商业框架：媒体内容- 人物访谈提纲</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-4-media-content-interview-template/</link><pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/marketing/2-4-media-content-interview-template/</guid><description>&lt;p>有一种相对固定格式的采访人物的结构模板，可以高效率获取媒体内容，减轻小编压力。&lt;/p>
+&lt;h1 id="通用结构解析">通用结构解析&lt;a class="td-heading-self-link" href="#%e9%80%9a%e7%94%a8%e7%bb%93%e6%9e%84%e8%a7%a3%e6%9e%90" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="前言">前言&lt;a class="td-heading-self-link" href="#%e5%89%8d%e8%a8%80" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>&lt;em>| 关于“某个人物”： ≤14字&lt;/em>&lt;/p>
+&lt;h2 id="简介">简介&lt;a class="td-heading-self-link" href="#%e7%ae%80%e4%bb%8b" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>&lt;em>| 关于“某个人物”： ≤140字&lt;/em>&lt;/p>
+&lt;h2 id="主体">主体&lt;a class="td-heading-self-link" href="#%e4%b8%bb%e4%bd%93" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>&lt;em>| 关于“某个人物”： ≤1400字&lt;/em>&lt;/p>
+&lt;h2 id="结尾">结尾&lt;a class="td-heading-self-link" href="#%e7%bb%93%e5%b0%be" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>模板如下为例。&lt;/p>
+&lt;h1 id="人物访谈提纲">人物访谈提纲&lt;a class="td-heading-self-link" href="#%e4%ba%ba%e7%89%a9%e8%ae%bf%e8%b0%88%e6%8f%90%e7%ba%b2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;hr>
+&lt;h2 id="1-开场与背景介绍">&lt;strong>1. 开场与背景介绍&lt;/strong>&lt;a class="td-heading-self-link" href="#1-%e5%bc%80%e5%9c%ba%e4%b8%8e%e8%83%8c%e6%99%af%e4%bb%8b%e7%bb%8d" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>1.1 请简单介绍一下您的个人背景（如出生地、教育经历、家庭等）。&lt;/li>
+&lt;li>1.2 是什么促使您选择了当前的职业或事业方向？&lt;/li>
+&lt;li>1.3 在您的成长过程中，有哪些关键事件或人物对您产生了深远影响？&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="2-职业经历与成就">&lt;strong>2. 职业经历与成就&lt;/strong>&lt;a class="td-heading-self-link" href="#2-%e8%81%8c%e4%b8%9a%e7%bb%8f%e5%8e%86%e4%b8%8e%e6%88%90%e5%b0%b1" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>2.1 您能分享一下您的职业发展历程吗？有哪些重要的转折点？&lt;/li>
+&lt;li>2.2 在您的职业生涯中，最让您感到自豪的成就是什么？为什么？&lt;/li>
+&lt;li>2.3 您遇到过哪些重大挑战？是如何克服的？&lt;/li>
+&lt;li>2.4 您认为哪些技能或特质帮助您在行业中脱颖而出？&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="3-行业洞察与观点">&lt;strong>3. 行业洞察与观点&lt;/strong>&lt;a class="td-heading-self-link" href="#3-%e8%a1%8c%e4%b8%9a%e6%b4%9e%e5%af%9f%e4%b8%8e%e8%a7%82%e7%82%b9" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>3.1 您如何看待当前行业的发展趋势？有哪些机遇和挑战？&lt;/li>
+&lt;li>3.2 在全球化背景下，您认为行业面临的最大变化是什么？&lt;/li>
+&lt;li>3.3 您对未来的技术、经济或社会变革有何预测？&lt;/li>
+&lt;li>3.4 您认为您的行业如何为全球社会创造价值？&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="4-领导力与管理哲学">&lt;strong>4. 领导力与管理哲学&lt;/strong>&lt;a class="td-heading-self-link" href="#4-%e9%a2%86%e5%af%bc%e5%8a%9b%e4%b8%8e%e7%ae%a1%e7%90%86%e5%93%b2%e5%ad%a6" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>4.1 您如何定义成功的领导力？您的领导风格是什么？&lt;/li>
+&lt;li>4.2 在管理团队或组织时，您最看重哪些价值观或原则？&lt;/li>
+&lt;li>4.3 您如何激励团队成员并推动创新？&lt;/li>
+&lt;li>4.4 在全球化团队中，您如何处理文化差异和沟通障碍？&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="5-个人价值观与使命">&lt;strong>5. 个人价值观与使命&lt;/strong>&lt;a class="td-heading-self-link" href="#5-%e4%b8%aa%e4%ba%ba%e4%bb%b7%e5%80%bc%e8%a7%82%e4%b8%8e%e4%bd%bf%e5%91%bd" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>5.1 您的人生哲学或核心价值观是什么？&lt;/li>
+&lt;li>5.2 您认为您的职业或事业如何与这些价值观保持一致？&lt;/li>
+&lt;li>5.3 您希望通过您的工作为社会或世界带来哪些积极影响？&lt;/li>
+&lt;li>5.4 您如何平衡工作与个人生活？&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="6-未来展望">&lt;strong>6. 未来展望&lt;/strong>&lt;a class="td-heading-self-link" href="#6-%e6%9c%aa%e6%9d%a5%e5%b1%95%e6%9c%9b" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>6.1 您对未来的个人和职业发展有何规划？&lt;/li>
+&lt;li>6.2 您认为未来5-10年，您的行业会发生哪些重大变化？&lt;/li>
+&lt;li>6.3 您有哪些正在推进的新项目或计划？它们的目标是什么？&lt;/li>
+&lt;li>6.4 您对年轻一代的职业发展有何建议？&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="7-快问快答可选">&lt;strong>7. 快问快答（可选）&lt;/strong>&lt;a class="td-heading-self-link" href="#7-%e5%bf%ab%e9%97%ae%e5%bf%ab%e7%ad%94%e5%8f%af%e9%80%89" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>7.1 您最近在读的一本书是什么？&lt;/li>
+&lt;li>7.2 您最欣赏的领导者或榜样是谁？&lt;/li>
+&lt;li>7.3 如果您可以改变世界的一件事，那会是什么？&lt;/li>
+&lt;li>7.4 您如何定义“成功”？&lt;/li>
+&lt;li>7.5 您最喜欢的名言或座右铭是什么？&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="8-结束语">&lt;strong>8. 结束语&lt;/strong>&lt;a class="td-heading-self-link" href="#8-%e7%bb%93%e6%9d%9f%e8%af%ad" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>8.1 您还有什么想对全球观众分享的吗？&lt;/li>
+&lt;li>8.2 如何让更多人了解您的工作或理念？&lt;/li>
+&lt;li>8.3 感谢您的时间和分享！&lt;/li>
+&lt;/ul>
+&lt;hr></description></item></channel></rss>
