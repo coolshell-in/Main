@@ -6,8 +6,8 @@ categories:
     - Business
 tags:
     - Branding
-    - Marketing
     - Media
+    - Marketing
 weight: 11
 ---
 

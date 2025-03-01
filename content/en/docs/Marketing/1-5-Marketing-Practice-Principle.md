@@ -5,7 +5,7 @@ description:
 categories:
   - Business
 tags:
-  - Brand
+  - Branding
   - Media
   - Marketing
 weight: 15

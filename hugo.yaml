@@ -46,16 +46,16 @@ imaging:
 languages:
   en:
     languageName: English
-    title: Coolshell Crowd source
+    title: Coolshell
     params:
-      description: Coolshell next one generation
+      description: Crowd Source
 
   zh-Cn:
     languageName: 中文简体
-    contentDir: content/zh-cn
+    contentDir: content/zh-CN
     title: 酷壳众创
     params:
-      description: 左耳朵耗子的酷壳下一代众创版
+      description: 酷壳博客的下一代版本
     # menu:
       main:
         - name: 博客
@@ -188,32 +188,33 @@ params:
   links:
     # End user relevant links. These will show up on left side of footer and in the community page if you have one.
     user:
-      - name: 
-        url: hi@atomx.cc
+      - name: Email
+        title: Send an Email
+        url: "mailto:hi@atomx.cc"
         icon: fa fa-envelope
-        desc: Discussion and help from your fellow users
+        # desc: # Discussion and help from your fellow users
       - name: Twitter
         url: 
         icon: fab fa-twitter
-        desc: Follow us on Twitter to get the latest news!
+        desc: # Follow us on Twitter to get the latest news!
       - name: Stack Overflow
         url: 
         icon: fab fa-stack-overflow
-        desc: Practical questions and curated answers
+        desc: # Practical questions and curated answers
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: GitHub
         url: 
         icon: fab fa-github
-        desc: Development takes place here!
+        desc: # Development takes place here!
       - name: Slack
         url: 
         icon: fab fa-slack
-        desc: Chat with other project developers
-      - name: Developer mailing list
+        desc: # Chat with other project developers
+      - name: Email # Developer mailing list
         url: 
         icon: fa fa-envelope
-        desc: Discuss development issues around the project
+        desc: # Discuss development issues around the project
 
 module:
   # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:

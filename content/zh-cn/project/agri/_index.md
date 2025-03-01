@@ -1,4 +1,4 @@
 ---
-title: 园艺农庄
+title: 农庄/园艺
 weight: 20
 ---

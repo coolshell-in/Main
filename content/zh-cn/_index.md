@@ -1,25 +1,23 @@
 ---
 title:  酷壳众创
+
 ---
 
-{{< blocks/cover title="欢迎来到 Goldydocs：Docsy 示例项目！" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+{{< blocks/cover title="欢迎来访！" image_url="https://media.istockphoto.com/id/1092610838/de/foto/sie-liebt-fürsorge-für-die-hühner.jpg?s=2048x2048&w=is&k=20&c=s1fbpMqiVJCcRZkdA1ZRtNPNweJiUQ_TZD3CjoopQ6c=" image_anchor="top" height="full" >}}
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/zh-CN/about/">
 了解更多 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
 下载 <i class="fab fa-github ms-2 "></i>
 </a>
-<p class="lead mt-5">粥温度评估 &mdash;在云端！</p>
+<p class="lead mt-5">我们有很多 &mdash; 可能</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-Goldydocs 提供了一个单一的 Web UI，可以查看粥
-温度、椅子尺寸和床软度指标！你甚至可以找出谁
-吃了**你的**粥。
+生命不仅仅是学习并从事编程、计算机、互联网、AI工作
 
-（遗憾的是，Goldydocs 不是一个真正的项目，但你可以使用这个网站作为示例
-使用 [Docsy](https://docsy.dev) 创建自己的真实网站）
+而且紧密地与生活相结合，生命里还有大自然、清新的空气、阳光、动物和孩子
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}

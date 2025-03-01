@@ -73,6 +73,7 @@ config/production/config.json
 
 A:是通过Hugo Modules的方式安装的，配置文件就是hugo.yaml，没必要去改静态页面所保存的文件目录,部署是自动的，不需要手动操作，docker文件可以删除，不影响使用。
 
+从go.mod 和 hugo.yaml 文件可以看出来，通过 Hugo Modules 引入了 Docsy 主题（版本 v0.11.0）。由于主题文件并未直接放在项目目录中，而是通过模块系统加载，因此无法直接在项目目录中看到 themes/docsy 文件夹。
 
 # 整站页面配置
 

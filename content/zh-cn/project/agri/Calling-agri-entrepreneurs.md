@@ -4,10 +4,9 @@ date: 2020-06-08
 description:
 categories:
   - 农业
-  - 环境
+  - 自然环境
 tags:
-  - 自然
-  - 农场 & 园艺
+  - 农庄/园艺
   - 有机食品
   - 儿童
 weight: 2
