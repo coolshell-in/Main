@@ -101,19 +101,7 @@ date: 2017-01-05
 description: &amp;gt;
 En kort oppsummering av denne siden. Tekst kan &lt;strong>utheves&lt;/strong> sller skrives i &lt;em>kursiv&lt;/em> og kan ha flere avsnitt.&lt;a class="td-heading-self-link" href="#en-kort-oppsummering-av-denne-siden-tekst-kan-utheves-sller-skrives-i-_kursiv_-og-kan-ha-flere-avsnitt" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. Lorem markdownum tempus auras formasque ore vir crescere est! Malo quod, hunc, est dura; aut haec simillima nec per conantemque iusserat audax moriensque confessasque. Haec vulneret quam libratum homo pede arbore tu manus membrisque iuveni Clymeneia se cepi unda, iustae? Et genitor humanaeve undis &lt;strong>Dicta limina&lt;/strong> vinoque vestigia decorum nulla ars. Pectora sede: quoque magnum Persidaque in suos, adiciunt tenebor.&lt;/p></description></item><item><title>About Goldydocs</title><link>https://coolshell-in.github.io/hugo-docsy/ru/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/ru/about/</guid><description>&lt;link rel="preload" as="image" href="https://coolshell-in.github.io/hugo-docsy/hugo-docsy/ru/about/featured-background_hu4003775461251110261.jpg" media="(max-width: 1200px)">
-&lt;link rel="preload" as="image" href="https://coolshell-in.github.io/hugo-docsy/hugo-docsy/ru/about/featured-background_hu2312927490661001000.jpg" media="(min-width: 1200px)">
-&lt;style>
-#td-cover-block-0 {
- background-image: url(/hugo-docsy/ru/about/featured-background_hu4003775461251110261.jpg);
-}
-@media only screen and (min-width: 1200px) {
- #td-cover-block-0 {
- background-image: url(/hugo-docsy/ru/about/featured-background_hu2312927490661001000.jpg);
- }
-}
-&lt;/style>
-&lt;section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-auto js-td-cover td-overlay td-overlay--dark -bg-dark">
+&lt;p>There should be whitespace between paragraphs. Lorem markdownum tempus auras formasque ore vir crescere est! Malo quod, hunc, est dura; aut haec simillima nec per conantemque iusserat audax moriensque confessasque. Haec vulneret quam libratum homo pede arbore tu manus membrisque iuveni Clymeneia se cepi unda, iustae? Et genitor humanaeve undis &lt;strong>Dicta limina&lt;/strong> vinoque vestigia decorum nulla ars. Pectora sede: quoque magnum Persidaque in suos, adiciunt tenebor.&lt;/p></description></item><item><title>About Goldydocs</title><link>https://coolshell-in.github.io/hugo-docsy/ru/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/ru/about/</guid><description>&lt;section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-auto js-td-cover td-overlay td-overlay--dark -bg-dark">
  &lt;div class="col-12">
  &lt;div class="container td-overlay__inner">
  &lt;div class="text-center">
