@@ -50,9 +50,9 @@ languages:
     params:
       description: Crowd Source
 
-  zh-CN:
+  zh-cn:
     languageName: 中文简体
-    contentDir: content/zhs
+    contentDir: content/zh-cn
     title: 酷壳众创
     params:
       description: 酷壳博客的下一代版本
