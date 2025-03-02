@@ -52,7 +52,7 @@ languages:
 
   zh-CN:
     languageName: 中文简体
-    contentDir: content/zh-CN
+    contentDir: content/zhs
     title: 酷壳众创
     params:
       description: 酷壳博客的下一代版本
