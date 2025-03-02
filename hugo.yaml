@@ -50,7 +50,7 @@ languages:
     params:
       description: Crowd Source
 
-  zh-Cn:
+  zh-CN:
     languageName: 中文简体
     contentDir: content/zh-CN
     title: 酷壳众创

@@ -14,3 +14,8 @@
 - 博客导入
   blog.coolshell.in
 
+- 域名
+cloudflare，coolshell.in 绑定，正式推出发布
+
+
+
