@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on 酷壳众创</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/tags/ai/</link><description>Recent content in AI on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 02 Mar 2025 14:27:19 +0100</lastBuildDate><atom:link href="https://coolshell-in.github.io/hugo-docsy/zh-cn/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Github action workflow 错误报告</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/github-action-workflow-error-report/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/github-action-workflow-error-report/</guid><description>&lt;p>&lt;a href="https://coolshell-in.github.io/hugo-docsy/">github测试库&lt;/a>&lt;/p>
+&lt;p>在github pages页面中，设置“Build and deployment Source” 为“Github Actions”，然后运行workflow，发现失败，详细报告如下：&lt;/p>
+&lt;p>Annotations
+1 error&lt;/p>
+&lt;p>deploy&lt;/p>
+&lt;p>Action failed with &amp;ldquo;The process &amp;lsquo;/usr/bin/git&amp;rsquo; failed with exit code 128&amp;rdquo;&lt;/p>
+&lt;h1 id="deploy">Deploy&lt;a class="td-heading-self-link" href="#deploy" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Evaluating condition for step: &amp;#39;Deploy&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">2&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Evaluating: (success() &amp;amp;&amp;amp; (github.ref == &amp;#39;refs/heads/main&amp;#39;))&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">3&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Evaluating And:&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">4&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]..Evaluating success:&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">5&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]..=&amp;gt; true&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">6&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]..Evaluating Equal:&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">7&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]....Evaluating Index:&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">8&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]......Evaluating github:&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">9&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]......=&amp;gt; Object&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">10&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]......Evaluating String:&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">11&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]......=&amp;gt; &amp;#39;ref&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">12&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]....=&amp;gt; &amp;#39;refs/heads/main&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">13&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]....Evaluating String:&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">14&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]....=&amp;gt; &amp;#39;refs/heads/main&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">15&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]..=&amp;gt; true&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">16&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]=&amp;gt; true&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">17&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Expanded: (true &amp;amp;&amp;amp; (&amp;#39;refs/heads/main&amp;#39; == &amp;#39;refs/heads/main&amp;#39;))&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">18&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Result: true&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">19&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Starting: Deploy&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">20&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Loading inputs&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">21&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Evaluating: secrets.GITHUB_TOKEN&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">22&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Evaluating Index:&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">23&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]..Evaluating secrets:&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">24&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]..=&amp;gt; Object&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">25&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]..Evaluating String:&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">26&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]..=&amp;gt; &amp;#39;GITHUB_TOKEN&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">27&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]=&amp;gt; &amp;#39;***&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">28&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Result: &amp;#39;***&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">29&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Loading env&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">30&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Run peaceiris/actions-gh-pages@v4
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">44&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ce5c00;font-weight:bold">[&lt;/span>INFO&lt;span style="color:#ce5c00;font-weight:bold">]&lt;/span> Usage https://github.com/peaceiris/actions-gh-pages#readme
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">45&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>::group::Dump inputs
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">46&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Dump inputs
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">66&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>::group::Debug: dump context
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">67&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Debug: dump context
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">230&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>::group::Setup auth token
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">231&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Setup auth token
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">237&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>::group::Prepare publishing assets
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">238&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Prepare publishing assets
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">280&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>::group::Setup Git config
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">281&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Setup Git config
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">290&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>::group::Create a commit
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">291&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Create a commit
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">584&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>::group::Push the commit or tag
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">585&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Push the commit or tag
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>A:
+1、进入仓库中settings中的Actions下的General,将Workflow permissions修改为Read and write permissions&lt;/p></description></item><item><title>Hugo静态页面中图片配置</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/image-configuration-in-hugo/</link><pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/image-configuration-in-hugo/</guid><description>&lt;h1 id="图片尺寸和比例">图片尺寸和比例&lt;a class="td-heading-self-link" href="#%e5%9b%be%e7%89%87%e5%b0%ba%e5%af%b8%e5%92%8c%e6%af%94%e4%be%8b" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>尺寸 &amp;gt; 2048&lt;/p>
+&lt;p>比例 = 16:9（1.78:1）宽屏&lt;/p>
+&lt;p>1920 × 1080 像素（Full HD）。&lt;/p>
+&lt;p>3840 × 2160 像素（4K UHD）。&lt;/p>
+&lt;p>适合现代设备和多媒体内容。&lt;/p>
+&lt;h1 id="短代码">短代码&lt;a class="td-heading-self-link" href="#%e7%9f%ad%e4%bb%a3%e7%a0%81" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&lt;style>
+ #td-cover-block-0 {
+ background-image: url(https://media.istockphoto.com/id/1092610838/de/foto/sie-liebt-f%c3%bcrsorge-f%c3%bcr-die-h%c3%bchner.jpg?s=2048x2048&amp;w=is&amp;k=20&amp;c=s1fbpMqiVJCcRZkdA1ZRtNPNweJiUQ_TZD3CjoopQ6c=);
+ }
+ &lt;/style>
+&lt;section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-full js-td-cover td-overlay td-overlay--dark -bg-dark">
+ &lt;div class="col-12">
+ &lt;div class="container td-overlay__inner">
+ &lt;div class="text-center">
+ &lt;h1 class="display-1 mt-0 mt-md-5 pb-4">欢迎来访！&lt;/h1>
+ 
+ &lt;div class="pt-3 lead">
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ 
+&lt;/section>
+
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如何通过这一小段代码控制图片显示的尺寸或比例？&lt;/p>
+&lt;h1 id="图库">图库&lt;a class="td-heading-self-link" href="#%e5%9b%be%e5%ba%93" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>图片外链image_url 的来源&lt;/p>
+&lt;p>pintrest&lt;/p>
+&lt;p>google photo&lt;/p>
+&lt;p>unsplush&lt;/p></description></item><item><title>Hugo-Docsy主题配置</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/hugo-theme-docsy-configuration/</link><pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/hugo-theme-docsy-configuration/</guid><description>&lt;p>本项目采纳主题&lt;a href="https://www.docsy.dev/">Hugo-Docsy&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://scp3125.github.io/hugo-docsy/zh-cn/">测试网页&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://github.com/scp3125/hugo-docsy">测试库&lt;/a>&lt;/p>
+&lt;p>作为新手，如何配置或修改主题？如何排除错误，遇到的一些问题，列举如下，已经回复的答案前加了一个“&lt;strong>A:&lt;/strong>”。&lt;/p>
+&lt;h1 id="静态页面文件同步方案">静态页面文件同步方案&lt;a class="td-heading-self-link" href="#%e9%9d%99%e6%80%81%e9%a1%b5%e9%9d%a2%e6%96%87%e4%bb%b6%e5%90%8c%e6%ad%a5%e6%96%b9%e6%a1%88" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>每次更新content文章，public目录中生成了新的静态页面，需要将新的静态页面文件同步到gh-pages分支。&lt;/p>
+&lt;p>通过bash脚本同步？还是别的什么方案？&lt;/p>
+&lt;p>A：提交代码就自动同步了，有github action执行生成静态页面的操作，然后部署。&lt;/p>
+&lt;h1 id="i18n">[i18n]&lt;a class="td-heading-self-link" href="#i18n" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>在每篇文档或博客文章的下方，都有这样的尾巴，请问如何将其去除？是否有保留的必要？&lt;/p>
+&lt;p>[i18n] feedback_title&lt;/p>
+&lt;p>[i18n] feedback_question&lt;/p>
+&lt;p>A:这个显示错误，需要在i18n文件夹下的zh-cn.toml文件中修改
+想去除的话，没什么必要保留，将hugo.yaml中的值改成false就行
+feedback:
+enable: false&lt;/p>
+&lt;h1 id="community-模板">community 模板&lt;a class="td-heading-self-link" href="#community-%e6%a8%a1%e6%9d%bf" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>这个模板改造成联系方式，如何将 /zh-cn/community/ 页面的内容也翻译成各自的语言版本？&lt;/p>
+&lt;p>这些内容在 hugo.yaml 文件中，但是该文件只有一份英文版，例如：&lt;/p>
+&lt;pre tabindex="0">&lt;code>- Email: Discussion and help from your fellow users
+- Twitter: Follow us on Twitter to get the latest news!
+- Stack Overflow: Practical questions and curated answers
+&lt;/code>&lt;/pre>&lt;p>A:这个确实没看到官方提供多语言翻译的方式&lt;/p>
+&lt;h1 id="landing-page-模板">landing page 模板&lt;a class="td-heading-self-link" href="#landing-page-%e6%a8%a1%e6%9d%bf" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>是否在源库或其他渠道找到一些docsy主题的landing page模板可用？我想复制一些不同的模板，因为一些项目需要制作一个比较概括项目的介绍页面，供用户搜索和点击首次进入。&lt;/p>
+&lt;p>A：官方的源库是没提供，其他渠道只能去github上去搜索一下其他人的模板了，不一定有合适的，可能需要自己写一个&lt;/p></description></item></channel></rss>
