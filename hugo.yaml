@@ -4,7 +4,6 @@ title: Coolshell.in
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
-contentDir: content/en
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 # Useful when translating.
@@ -46,13 +45,14 @@ imaging:
 languages:
   en:
     languageName: English
+    contentDir: content/en
     title: Coolshell
     params:
       description: Crowd Source
 
   zh-CN:
     languageName: 中文简体
-    contentDir: content/zh-CN
+    contentDir: content/zh-cn
     title: 酷壳众创
     params:
       description: 酷壳博客的下一代版本
