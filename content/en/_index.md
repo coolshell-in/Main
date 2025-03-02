@@ -2,7 +2,7 @@
 title: Goldydocs
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_url="https://i.pinimg.com/1200x/1d/e7/7d/1de77d3cde567a354f80343369bc50dd.jpg" image_anchor="center" height="auto" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>

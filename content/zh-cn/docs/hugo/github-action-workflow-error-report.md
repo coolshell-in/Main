@@ -3,6 +3,12 @@ title: Github action workflow 错误报告
 description: >
   我们将源库中带有.github/目录的文件传到测试库中，发现部署错误。
 date: 2017-01-05
+categories:
+  - IT
+tags:
+  - 互联网
+  - 数学&计算机
+  - AI
 weight: 4
 ---
 

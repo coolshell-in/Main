@@ -4,6 +4,7 @@ title:  酷壳众创
 ---
 
 {{< blocks/cover title="欢迎来访！" image_url="https://media.istockphoto.com/id/1092610838/de/foto/sie-liebt-fürsorge-für-die-hühner.jpg?s=2048x2048&w=is&k=20&c=s1fbpMqiVJCcRZkdA1ZRtNPNweJiUQ_TZD3CjoopQ6c=" image_anchor="top" height="full" >}}
+
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/zh-CN/about/">
 了解更多 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>

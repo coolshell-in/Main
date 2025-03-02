@@ -1,8 +1,15 @@
 ---
-title: Hugo - Docsy
+title: Hugo-Docsy主题配置
 description: >
     如何做主题配置，并增加内容?
 date: 2025-01-24
+categories:
+  - IT
+tags:
+  - 互联网
+  - 数学&计算机
+  - AI
+weight: 19
 ---
 
 本项目采纳主题[Hugo-Docsy](https://www.docsy.dev/)
