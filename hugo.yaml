@@ -151,8 +151,8 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: Atom.X | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
-    from_year: 2024
+    authors: Coolshell.in | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+    from_year: 2022
 
   # User interface configuration
   ui:
@@ -196,17 +196,17 @@ params:
       - name: Twitter
         url: 
         icon: fab fa-twitter
-        desc: # Follow us on Twitter to get the latest news!
+        # desc: # Follow us on Twitter to get the latest news!
       - name: Stack Overflow
         url: 
         icon: fab fa-stack-overflow
-        desc: # Practical questions and curated answers
+        # desc: # Practical questions and curated answers
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: GitHub
         url: 
         icon: fab fa-github
-        desc: # Development takes place here!
+        # desc: # Development takes place here!
       - name: Slack
         url: 
         icon: fab fa-slack

@@ -1,5 +1,5 @@
 ---
-title: Hugo 教程
+title: Hugo 主题配置教程
 description: 
 weight: 12
 

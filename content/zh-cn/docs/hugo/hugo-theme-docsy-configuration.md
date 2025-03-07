@@ -21,7 +21,7 @@ weight: 19
 作为新手，如何配置或修改主题？如何排除错误，遇到的一些问题，列举如下，已经回复的答案前加了一个“**A:**”。
 
 
-# 静态页面文件同步方案
+# 静态页面文件同步
 
 每次更新content文章，public目录中生成了新的静态页面，需要将新的静态页面文件同步到gh-pages分支。
 
@@ -62,25 +62,6 @@ A:这个确实没看到官方提供多语言翻译的方式
 
 A：官方的源库是没提供，其他渠道只能去github上去搜索一下其他人的模板了，不一定有合适的，可能需要自己写一个
 
-# 安装方式
-目前本主题的安装方式是怎样的？例如远程主题、gem-based，或还有其他方式。为何在本站根目录中没有发现hugo建站相关的程序文件和theme 目录？
-
-我们寻找Hugo的配置文件的位置，为了查找静态页面所保存的文件目录```publishDir=public```的配置，可能有几个文件与该配置相关：
-
-```sh
-config/_default/config.toml
-config/_default/config.yaml
-config/_default/config.json
-config/production/config.toml
-config/production/config.yaml
-config/production/config.json
-```
-
-如果不采用docker方法安装，需要删除docker相关文件吧，包括哪些文件清单？
-
-A:是通过Hugo Modules的方式安装的，配置文件就是hugo.yaml，没必要去改静态页面所保存的文件目录,部署是自动的，不需要手动操作，docker文件可以删除，不影响使用。
-
-从go.mod 和 hugo.yaml 文件可以看出来，通过 Hugo Modules 引入了 Docsy 主题（版本 v0.11.0）。由于主题文件并未直接放在项目目录中，而是通过模块系统加载，因此无法直接在项目目录中看到 themes/docsy 文件夹。
 
 # 整站页面配置
 
