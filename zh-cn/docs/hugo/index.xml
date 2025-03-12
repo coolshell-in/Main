@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo 教程 on 酷壳众创</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/</link><description>Recent content in Hugo 教程 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Github action workflow 错误报告</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/github-action-workflow-error-report/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/github-action-workflow-error-report/</guid><description>&lt;p>&lt;a href="https://coolshell-in.github.io/hugo-docsy/">github测试库&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo 主题配置教程 on 酷壳众创</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/</link><description>Recent content in Hugo 主题配置教程 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Github action workflow 错误报告</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/github-action-workflow-error-report/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/github-action-workflow-error-report/</guid><description>&lt;p>&lt;a href="https://coolshell-in.github.io/hugo-docsy/">github测试库&lt;/a>&lt;/p>
 &lt;p>在github pages页面中，设置“Build and deployment Source” 为“Github Actions”，然后运行workflow，发现失败，详细报告如下：&lt;/p>
 &lt;p>Annotations
 1 error&lt;/p>
@@ -129,29 +129,76 @@
 &lt;p>图片外链image_url 的来源&lt;/p>
 &lt;p>pintrest&lt;/p>
 &lt;p>google photo&lt;/p>
-&lt;p>unsplush&lt;/p></description></item><item><title>Hugo-Docsy主题配置</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/hugo-theme-docsy-configuration/</link><pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/hugo-theme-docsy-configuration/</guid><description>&lt;p>本项目采纳主题&lt;a href="https://www.docsy.dev/">Hugo-Docsy&lt;/a>&lt;/p>
+&lt;p>unsplush&lt;/p></description></item><item><title>Hugo Modules 主题安装和管理：以 Docsy 为例</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/hugo-theme-management/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/hugo-theme-management/</guid><description>&lt;h1 id="hugo主题安装方式">Hugo主题安装方式&lt;a class="td-heading-self-link" href="#hugo%e4%b8%bb%e9%a2%98%e5%ae%89%e8%a3%85%e6%96%b9%e5%bc%8f" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>目前主题的安装方式是怎样的？例如远程主题、或类似Jekyll的gem-based，或还有其他方式。为何在本站根目录中没有发现hugo建站相关的程序文件和theme 主题目录？&lt;/p>
+&lt;p>我们寻找Hugo的配置文件的位置，为了查找静态页面所保存的文件目录&lt;code>publishDir=public&lt;/code>的配置，可能有几个文件与该配置相关：&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>config/_default/config.toml
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/_default/config.yaml
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/_default/config.json
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/production/config.toml
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/production/config.yaml
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/production/config.json
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如果不采用docker方法安装，需要删除docker相关文件吧，包括哪些文件清单？&lt;/p>
+&lt;p>&lt;strong>A&lt;/strong>: 通过Hugo Modules的方式安装的，配置文件就是hugo.yaml，没必要去改静态页面所保存的文件目录,部署是自动的，不需要手动操作，docker文件可以删除，不影响使用。&lt;/p>
+&lt;p>从go.mod 和 hugo.yaml 文件可以看出来，通过 Hugo Modules 引入了 Docsy 主题（版本 v0.11.0）。由于主题文件并未直接放在项目目录中，而是通过模块系统加载，因此无法直接在项目目录中看到 themes/docsy 文件夹。&lt;/p>
+&lt;h1 id="go-module-安装和管理">go module 安装和管理&lt;a class="td-heading-self-link" href="#go-module-%e5%ae%89%e8%a3%85%e5%92%8c%e7%ae%a1%e7%90%86" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>Hugo Modules 使用了 Go 的模块系统来管理主题依赖。从配置文件可以看到:&lt;/p>
+&lt;ol>
+&lt;li>hugo.yaml 中声明了主题模块:&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">module&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">imports&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>- &lt;span style="color:#204a87;font-weight:bold">path&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">github.com/google/docsy&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="2">
+&lt;li>go.mod 中指定了具体版本:&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000">require&lt;/span> &lt;span style="color:#000">github&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">com&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">/&lt;/span>&lt;span style="color:#000">google&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">/&lt;/span>&lt;span style="color:#000">docsy&lt;/span> &lt;span style="color:#000">v0&lt;/span>&lt;span style="color:#0000cf;font-weight:bold">.11.0&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>go.mod 是用于 Go 编程语言的模块依赖管理文件。它指定了模块的名称和依赖项的版本，确保在构建时使用正确的库版本。&lt;/p>
+&lt;p>请注意，在 Markdown 中的代码块标记里，你应该使用语言代码来高亮代码。对于 &lt;code>go.mod&lt;/code> 文件，使用 &lt;code>go&lt;/code> 作为代码块的标记是适当的。&lt;/p>
+&lt;h2 id="go-module-目录">go module 目录&lt;a class="td-heading-self-link" href="#go-module-%e7%9b%ae%e5%bd%95" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>通过以上方式安装的主题，我们可以找到主题实际被存储的缓存目录，显示 Hugo 存储其缓存（包括模块）的完整路径。&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>hugo-docsy % hugo config &lt;span style="color:#000;font-weight:bold">|&lt;/span> grep cacheDir
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">dir&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">=&lt;/span> &lt;span style="color:#4e9a06">&amp;#39;:cacheDir/:project&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">dir&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">=&lt;/span> &lt;span style="color:#4e9a06">&amp;#39;:cacheDir/:project&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">dir&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">=&lt;/span> &lt;span style="color:#4e9a06">&amp;#39;:cacheDir/:project&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">dir&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">=&lt;/span> &lt;span style="color:#4e9a06">&amp;#39;:cacheDir/:project&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">dir&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">=&lt;/span> &lt;span style="color:#4e9a06">&amp;#39;:cacheDir/modules&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>hugo-docsy % ls ~/Library/Caches/hugo_cache/
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>PaperMod	blog		hugo-paper	modules
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Hugo 从本地缓存目录加载主题，在 macOS 上，Hugo 的缓存通常位于：&lt;/p></description></item><item><title>Hugo-Docsy主题配置</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/hugo-theme-docsy-configuration/</link><pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/docs/hugo/hugo-theme-docsy-configuration/</guid><description>&lt;p>本项目采纳主题&lt;a href="https://www.docsy.dev/">Hugo-Docsy&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://scp3125.github.io/hugo-docsy/zh-cn/">测试网页&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://github.com/scp3125/hugo-docsy">测试库&lt;/a>&lt;/p>
 &lt;p>作为新手，如何配置或修改主题？如何排除错误，遇到的一些问题，列举如下，已经回复的答案前加了一个“&lt;strong>A:&lt;/strong>”。&lt;/p>
-&lt;h1 id="静态页面文件同步方案">静态页面文件同步方案&lt;a class="td-heading-self-link" href="#%e9%9d%99%e6%80%81%e9%a1%b5%e9%9d%a2%e6%96%87%e4%bb%b6%e5%90%8c%e6%ad%a5%e6%96%b9%e6%a1%88" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h1 id="tagcategory-翻译">tag，category 翻译&lt;a class="td-heading-self-link" href="#tagcategory-%e7%bf%bb%e8%af%91" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>./18n/中，将各种语言版本中的文件增加翻译，例如zh-cn.toml&lt;/p>
+&lt;p>[tags]
+other = &amp;ldquo;标签云&amp;rdquo;
+[categories]
+other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
+&lt;p>错误？具体键值应该是多少？在哪份文件中控制和定义它们？寻找taxonomy相关文件如下&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span> partials % find . -type f -name &lt;span style="color:#4e9a06">&amp;#39;*taxonomy*&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>./taxonomy_terms_article_wrapper.html
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>./taxonomy_terms_cloud.html
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>./taxonomy_terms_article.html
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>./taxonomy_terms_clouds.html
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>taxonomy_terms_clouds.html 展示了如何处理分类云的标题。它是从 hugo.yaml 中定义的 Site.Params.Taxonomy.taxonomyCloudTitle 参数中提取的：&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>params:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> taxonomy:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> taxonomyCloud: &lt;span style="color:#ce5c00;font-weight:bold">[&lt;/span>tags, categories&lt;span style="color:#ce5c00;font-weight:bold">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> taxonomyCloudTitle: &lt;span style="color:#ce5c00;font-weight:bold">[&lt;/span>Tag Cloud, Categories&lt;span style="color:#ce5c00;font-weight:bold">]&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>因此我们只需要增加其他语言版本的相应参数即可，例如&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>languages:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> zh-cn:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> params:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> taxonomy:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> taxonomyCloudTitle: &lt;span style="color:#ce5c00;font-weight:bold">[&lt;/span>标签, 分类&lt;span style="color:#ce5c00;font-weight:bold">]&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="静态页面文件同步">静态页面文件同步&lt;a class="td-heading-self-link" href="#%e9%9d%99%e6%80%81%e9%a1%b5%e9%9d%a2%e6%96%87%e4%bb%b6%e5%90%8c%e6%ad%a5" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>每次更新content文章，public目录中生成了新的静态页面，需要将新的静态页面文件同步到gh-pages分支。&lt;/p>
 &lt;p>通过bash脚本同步？还是别的什么方案？&lt;/p>
 &lt;p>A：提交代码就自动同步了，有github action执行生成静态页面的操作，然后部署。&lt;/p>
 &lt;h1 id="i18n">[i18n]&lt;a class="td-heading-self-link" href="#i18n" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>在每篇文档或博客文章的下方，都有这样的尾巴，请问如何将其去除？是否有保留的必要？&lt;/p>
-&lt;p>[i18n] feedback_title&lt;/p>
-&lt;p>[i18n] feedback_question&lt;/p>
-&lt;p>A:这个显示错误，需要在i18n文件夹下的zh-cn.toml文件中修改
-想去除的话，没什么必要保留，将hugo.yaml中的值改成false就行
-feedback:
-enable: false&lt;/p>
-&lt;h1 id="community-模板">community 模板&lt;a class="td-heading-self-link" href="#community-%e6%a8%a1%e6%9d%bf" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>这个模板改造成联系方式，如何将 /zh-cn/community/ 页面的内容也翻译成各自的语言版本？&lt;/p>
-&lt;p>这些内容在 hugo.yaml 文件中，但是该文件只有一份英文版，例如：&lt;/p>
-&lt;pre tabindex="0">&lt;code>- Email: Discussion and help from your fellow users
-- Twitter: Follow us on Twitter to get the latest news!
-- Stack Overflow: Practical questions and curated answers
-&lt;/code>&lt;/pre>&lt;p>A:这个确实没看到官方提供多语言翻译的方式&lt;/p>
-&lt;h1 id="landing-page-模板">landing page 模板&lt;a class="td-heading-self-link" href="#landing-page-%e6%a8%a1%e6%9d%bf" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>是否在源库或其他渠道找到一些docsy主题的landing page模板可用？我想复制一些不同的模板，因为一些项目需要制作一个比较概括项目的介绍页面，供用户搜索和点击首次进入。&lt;/p>
-&lt;p>A：官方的源库是没提供，其他渠道只能去github上去搜索一下其他人的模板了，不一定有合适的，可能需要自己写一个&lt;/p></description></item></channel></rss>
+&lt;p>[i18n] feedback_title&lt;/p></description></item></channel></rss>

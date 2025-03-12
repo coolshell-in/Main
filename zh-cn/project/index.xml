@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>项目 on 酷壳众创</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/</link><description>Recent content in 项目 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://coolshell-in.github.io/hugo-docsy/zh-cn/project/index.xml" rel="self" type="application/rss+xml"/><item><title>房屋管理</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/house/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/house/</guid><description/></item><item><title>重建家园</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/rebuild/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/rebuild/</guid><description/></item><item><title>海外游学</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/travel/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/travel/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>项目 on 酷壳众创</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/</link><description>Recent content in 项目 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://coolshell-in.github.io/hugo-docsy/zh-cn/project/index.xml" rel="self" type="application/rss+xml"/><item><title>数据分析</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/bi/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/bi/</guid><description>&lt;h1 id="商业智能">商业智能&lt;a class="td-heading-self-link" href="#%e5%95%86%e4%b8%9a%e6%99%ba%e8%83%bd" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>商业智能（Business Intelligence，BI）通过技术和策略收集、分析和展示业务数据，帮助做出更明智的决策。BI 工具通常用于数据可视化、报表生成和数据分析，以支持业务运营和战略规划。&lt;/p>
+&lt;p>当然这门科技不是仅仅用于商业，几乎可用于所有需要数据分析和可视化的领域，目前国际主流使用商业智能BI这个概念，我们也顺应潮流，日常我们用“数据分析”的概念更多。&lt;/p>
+&lt;h2 id="应用案例">应用案例&lt;a class="td-heading-self-link" href="#%e5%ba%94%e7%94%a8%e6%a1%88%e4%be%8b" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="中国肉食数据图谱">中国肉食数据图谱&lt;a class="td-heading-self-link" href="#%e4%b8%ad%e5%9b%bd%e8%82%89%e9%a3%9f%e6%95%b0%e6%8d%ae%e5%9b%be%e8%b0%b1" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>时间：2019&lt;/p>
+&lt;p>地点：北京、杭州&lt;/p>
+&lt;p>环保基金会的数据分析和可视化。&lt;/p>
+&lt;p>&lt;strong>项目概述：&lt;/strong>&lt;/p>
+&lt;p>项目采集数据源自联合国粮农组织FAO、中国国家统计局、欧盟和美国农业部等，我们从事原始数据挖掘、清洗、分析和可视化并撰写报告，研究中国对比世界范围的畜牧业和水产品的生产及肉食消费状况。&lt;/p>
+&lt;p>&lt;strong>合作机构：&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/China_Biodiversity_Conservation_and_Green_Development_Foundation">中国生物多样性保护与绿色发展基金会（绿发会）&lt;/a>，中国政府背景的大型环保基金；&lt;/li>
+&lt;li>&lt;a href="https://www.goodfoodchina.net/en">良食基金&lt;/a>，绿发会下属分支的项目主办机构；&lt;/li>
+&lt;li>&lt;a href="https://brightergreen.org/">Brighter Green’s consultants&lt;/a>，提供专家支持的美国智库；&lt;/li>
+&lt;/ul>
+&lt;h1 id="数据分析data-analysis">数据分析（Data Analysis）&lt;a class="td-heading-self-link" href="#%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90data-analysis" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>概念定义： 数据分析是指使用统计学、数学和计算工具来审查、清理和建模数据，以便从中提取有用的信息和结论。数据分析的目标是揭示数据中的模式、趋势和关系。&lt;/p>
+&lt;h2 id="应用">应用：&lt;a class="td-heading-self-link" href="#%e5%ba%94%e7%94%a8" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="商业">商业：&lt;a class="td-heading-self-link" href="#%e5%95%86%e4%b8%9a" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>数据分析帮助公司了解客户行为、优化运营流程和制定战略决策。例如，通过分析销售数据，公司可以确定哪些产品最受欢迎，并调整库存和营销策略。&lt;/p>
+&lt;h3 id="医学">医学：&lt;a class="td-heading-self-link" href="#%e5%8c%bb%e5%ad%a6" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>在医学研究中，数据分析用于发现疾病的风险因素、评估治疗效果和开发新的医疗技术。例如，通过分析患者数据，可以识别出特定疾病的高危人群。&lt;/p>
+&lt;h3 id="科学研究">科学研究：&lt;a class="td-heading-self-link" href="#%e7%a7%91%e5%ad%a6%e7%a0%94%e7%a9%b6" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>数据分析在各类科学研究中广泛应用，用于验证假设、进行实验分析和得出结论。例如，天文学家使用数据分析来研究恒星和行星的运动。&lt;/p>
+&lt;h1 id="数据可视化data-visualization">数据可视化（Data Visualization）&lt;a class="td-heading-self-link" href="#%e6%95%b0%e6%8d%ae%e5%8f%af%e8%a7%86%e5%8c%96data-visualization" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>概念定义： 数据可视化是指使用图形、图表和其他视觉工具来表示数据。数据可视化的目的是通过视觉手段使复杂的数据更易于理解和解释。&lt;/p>
+&lt;h2 id="应用-1">应用：&lt;a class="td-heading-self-link" href="#%e5%ba%94%e7%94%a8-1" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="商业报告">商业报告：&lt;a class="td-heading-self-link" href="#%e5%95%86%e4%b8%9a%e6%8a%a5%e5%91%8a" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>在商业报告中，数据可视化用于直观地展示关键绩效指标、市场趋势和财务状况。例如，使用折线图展示销售趋势，或使用饼图展示市场份额。&lt;/p>
+&lt;h3 id="研究成果展示">研究成果展示：&lt;a class="td-heading-self-link" href="#%e7%a0%94%e7%a9%b6%e6%88%90%e6%9e%9c%e5%b1%95%e7%a4%ba" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>研究人员使用数据可视化来展示研究成果，使其更易于理解和交流。例如，使用热力图展示基因表达数据，或使用柱状图展示实验结果。&lt;/p>
+&lt;h3 id="地理信息系统gis">地理信息系统（GIS）：&lt;a class="td-heading-self-link" href="#%e5%9c%b0%e7%90%86%e4%bf%a1%e6%81%af%e7%b3%bb%e7%bb%9fgis" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>在地理信息系统中，数据可视化用于展示地理数据和地理模式。例如，使用地图展示人口分布、交通流量或环境数据。&lt;/p>
+&lt;p>数据分析为数据可视化提供基础，而数据可视化则使数据分析的结果更易于理解和应用。&lt;/p></description></item><item><title>房屋管理</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/house/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/house/</guid><description/></item><item><title>重建家园</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/rebuild/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/rebuild/</guid><description/></item><item><title>海外游学</title><link>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/travel/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/hugo-docsy/zh-cn/project/travel/</guid><description/></item></channel></rss>
