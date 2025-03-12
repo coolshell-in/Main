@@ -61,6 +61,14 @@ languages:
         - name: 博客
           weight: 50
           url:  "https://blog.coolshell.in"
+      taxonomy:
+        taxonomyCloudTitle: [标签, 分类]
+        #taxonomyCloud: [标签, 分类]
+        #taxonomyPageHeader: [标签, 分类]
+      # taxonomies:
+      #   tags: "标签"
+      #   categories: "分类"
+
   ru:
     languageName: Русский
     contentDir: content/ru
@@ -69,6 +77,8 @@ languages:
       description: Источник информации Coolshell
       time_format_default: 02.01.2006
       time_format_blog: 02.01.2006
+      taxonomy:
+        taxonomyCloudTitle: [Теги, Категории]
 markup:
   tableOfContents:
     endLevel: 3
@@ -166,7 +176,7 @@ params:
     sidebar_menu_compact: true
     # Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
     sidebar_search_disable: false
-
+    showLightDarkModeMenu: true
     # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
     # This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
     # If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
@@ -183,7 +193,7 @@ params:
     # If you want this feature, but occasionally need to remove the Reading time from a single page,
     # add "hide_readingtime: true" to the page's front matter
     readingtime:
-      enable: false
+      enable: true
 
   links:
     # End user relevant links. These will show up on left side of footer and in the community page if you have one.

@@ -21,6 +21,44 @@ weight: 19
 作为新手，如何配置或修改主题？如何排除错误，遇到的一些问题，列举如下，已经回复的答案前加了一个“**A:**”。
 
 
+# tag，category 翻译
+./18n/中，将各种语言版本中的文件增加翻译，例如zh-cn.toml 
+
+[tags]
+other = "标签云"
+[categories] 
+other = "分类"
+
+错误？具体键值应该是多少？在哪份文件中控制和定义它们？寻找taxonomy相关文件如下
+
+```bash
+ partials % find . -type f -name '*taxonomy*'
+
+./taxonomy_terms_article_wrapper.html
+./taxonomy_terms_cloud.html
+./taxonomy_terms_article.html
+./taxonomy_terms_clouds.html
+```
+
+taxonomy_terms_clouds.html 展示了如何处理分类云的标题。它是从 hugo.yaml 中定义的 Site.Params.Taxonomy.taxonomyCloudTitle 参数中提取的：
+
+```bash
+params:
+  taxonomy:
+    taxonomyCloud: [tags, categories]
+    taxonomyCloudTitle: [Tag Cloud, Categories]
+```
+因此我们只需要增加其他语言版本的相应参数即可，例如
+
+```bash
+languages:
+  zh-cn:
+    params:
+      taxonomy:
+        taxonomyCloudTitle: [标签, 分类]
+```
+
+
 # 静态页面文件同步
 
 每次更新content文章，public目录中生成了新的静态页面，需要将新的静态页面文件同步到gh-pages分支。

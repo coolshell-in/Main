@@ -14,8 +14,6 @@ weight: 4
 
 # debug
 
-
-
 # 作业
 
 - contact
@@ -34,12 +32,16 @@ weight: 4
 
 仅仅作登陆页面，seo更友好，绑定三级域名投放市场，链接到主站coolshell.in。
 
-- 博客内容导入
-blog.coolshell.in
+- 内容导入
+blog.coolshell.in 博客
+
+land.coolshell.in 南德其中
+
+rip.coolshell.in，重新搭建，找适用于哀悼和灰黑色的hugo或jekyll主题。
+
+https://memorial.megaease.cn
 
 询问slack，将megaease系列产品文档，翻译成其他语言共享
-
-搭建rip.coolshell.in ，找适用于哀悼和灰黑色的hugo或jekyll主题。
 
 - 域名
 cloudflare，coolshell.in 绑定，正式推出发布

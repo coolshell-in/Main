@@ -1,9 +1,14 @@
-[taxonomy_cloud_title_tags]
+# taxonomy Cloud
+[Tag]
 other = "标签"
-
-[taxonomy_cloud_title_categories]
+[Category]
 other = "分类"
 
+[taxonomy_title_tags]
+other = "标签"
+
+[taxonomy_title_categories]  
+other = "分类"
 
 # UI strings. Buttons and similar.
 
