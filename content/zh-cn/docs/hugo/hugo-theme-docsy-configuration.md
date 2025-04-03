@@ -9,7 +9,7 @@ tags:
   - 互联网
   - 数学&计算机
   - AI
-weight: 19
+weight: 2
 ---
 
 本项目采纳主题[Hugo-Docsy](https://www.docsy.dev/)

@@ -64,6 +64,12 @@ Through this framework, we discover the universal laws of brand structure across
 
 [Gates Foundation: Brand and Asset Use – Grantees and Vendors](https://docs.gatesfoundation.org/Documents/GATES_Brand_Guidelines-Grantees_and_Vendors.pdf)
 
-listed on 2nd of wealthiest charitable foundations by Wikipedia.
+The Gates Foundation has consistently ranked among the top three globally.
 
 [Wiki/ List of wealthiest charitable foundations](https://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations)
+
+Based on the aforementioned list, as of January 2024, among the top 53 philanthropic foundations, the United States has the most, with over half of them located in the "land of beauty."(by Chinese language context, we call America as beauty)
+
+The European Union comes in second, followed by India with 2 foundations. The Tata Trust, led by the steel magnate, is ranked second in the world in terms of scale. Saudi Arabia has one foundation.
+
+While only one foundation from Hong Kong, the Li Ka-shing Foundation, is associated with China. There are no charitable foundations from mainland China, likely due to insufficient wealth and limited financial resources.

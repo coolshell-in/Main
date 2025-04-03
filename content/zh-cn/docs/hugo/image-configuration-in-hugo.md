@@ -43,3 +43,37 @@ google photo
 
 unsplush
 
+
+
+
+# 图标文件
+
+图标不是由单个文件定义的，而是通过以下方式引入：
+
+Docsy 主题引入：在 hugo.yaml 文件中，您通过模块导入了 Docsy 主题：
+```yaml
+module:
+  imports:
+    - path: github.com/google/docsy
+      disable: false
+```
+
+Font Awesome 库：Docsy 主题会自动引入 Font Awesome 图标库。
+
+## 查找可用图标
+
+官方文档：访问[Font Awesome](https://fontawesome.com/icons/)网站
+
+本地文件：如果您想查看本地文件，可以在以下位置查找：
+
+在您的项目根目录运行 hugo mod vendor 命令
+然后查看 _vendor/github.com/google/docsy/ 目录下的相关资源文件
+使用示例：您可以参考 content/zh-cn/_index.md 中的现有示例：
+
+```text
+icon="fa-people-group" title="共创社区" 
+icon="fab fa-github" title="贡献开源" 
+icon="fab fa-twitter" title="社交媒体" 
+```
+
+正确定义图标名称时，只需使用 Font Awesome 的标准名称，并确保使用正确的前缀（fa-、fab fa- 等）。

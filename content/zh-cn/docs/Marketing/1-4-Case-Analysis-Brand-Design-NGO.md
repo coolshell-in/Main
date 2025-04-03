@@ -65,6 +65,13 @@ weight: 14
 
 [盖茨基金会：品牌和资产使用 – 受赠者和供应商](https://docs.gatesfoundation.org/Documents/GATES_Brand_Guidelines-Grantees_and_Vendors.pdf)
 
-维基百科上排名第二的富豪慈善基金会。
+盖茨基金会长期全球排名前三。
 
 [维基/ 最富豪慈善基金会名单](https://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations)
+
+根据以上名单，截止2024年1月，排名前53位的公益基金中，美国最多，超过半数都属于美丽国（按照中文的语境，我们称美国为美丽）；
+
+其次是欧盟最多，印度2家，钢铁大王Tata信托基金规模，排名全球第二，沙特1家；
+
+与中国有关的仅仅香港李嘉诚基金1家，没有中国大陆的慈善基金，还是太穷的缘故，钱不够多。
+

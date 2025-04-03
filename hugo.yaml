@@ -21,6 +21,7 @@ enableGitInfo: true
 taxonomies:
   tag: tags
   category: categories
+  authors: Coolshell
 
 # Highlighting config
 pygmentsCodeFences: true
@@ -62,12 +63,13 @@ languages:
           weight: 50
           url:  "https://blog.coolshell.in"
       taxonomy:
-        taxonomyCloudTitle: [标签, 分类]
+        taxonomyCloudTitle: [标签, 分类, 作者]
         #taxonomyCloud: [标签, 分类]
-        #taxonomyPageHeader: [标签, 分类]
-      # taxonomies:
-      #   tags: "标签"
-      #   categories: "分类"
+        #taxonomyPageHeader: [标签, 分类, 作者]
+      taxonomies:
+        tags: "标签"
+        categories: "分类"
+        authors: "作者"
 
   ru:
     languageName: Русский
@@ -195,36 +197,36 @@ params:
     readingtime:
       enable: true
 
-  links:
-    # End user relevant links. These will show up on left side of footer and in the community page if you have one.
-    user:
-      - name: Email
-        title: Send an Email
-        url: "mailto:hi@atomx.cc"
-        icon: fa fa-envelope
-        # desc: # Discussion and help from your fellow users
-      - name: Twitter
-        url: 
-        icon: fab fa-twitter
-        # desc: # Follow us on Twitter to get the latest news!
-      - name: Stack Overflow
-        url: 
-        icon: fab fa-stack-overflow
-        # desc: # Practical questions and curated answers
-    # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-    developer:
-      - name: GitHub
-        url: 
-        icon: fab fa-github
-        # desc: # Development takes place here!
-      - name: Slack
-        url: 
-        icon: fab fa-slack
-        desc: # Chat with other project developers
-      - name: Email # Developer mailing list
-        url: 
-        icon: fa fa-envelope
-        desc: # Discuss development issues around the project
+  # links:
+  #   # End user relevant links. These will show up on left side of footer and in the community page if you have one.
+  #   user:
+  #     - name: Email
+  #       title: Send an Email
+  #       url: "mailto:hi@atomx.cc"
+  #       icon: fa fa-envelope
+  #       # desc: # Discussion and help from your fellow users
+  #     - name: Twitter
+  #       url: 
+  #       icon: fab fa-twitter
+  #       # desc: # Follow us on Twitter to get the latest news!
+  #     - name: Stack Overflow
+  #       url: 
+  #       icon: fab fa-stack-overflow
+  #       # desc: # Practical questions and curated answers
+  #   # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
+  #   developer:
+  #     - name: GitHub
+  #       url: 
+  #       icon: fab fa-github
+  #       # desc: # Development takes place here!
+  #     - name: Slack
+  #       url: 
+  #       icon: fab fa-slack
+  #       desc: # Chat with other project developers
+  #     - name: Email # Developer mailing list
+  #       url: 
+  #       icon: fa fa-envelope
+  #       desc: # Discuss development issues around the project
 
 module:
   # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:
