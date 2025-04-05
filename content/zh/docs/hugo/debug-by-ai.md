@@ -1,7 +1,18 @@
+---
+title: 如何借助AI帮我们debug ？
+description: 
+date: 2025-04-05
+categories:
+  - IT
+tags:
+  - 互联网
+  - 数学&计算机
+  - AI
+weight: 5
+---
 
-如何借助AI帮我们debug ？
 
-列举一个案例
+列举一个实际案例
 
 ## 网页部署
 
@@ -67,9 +78,37 @@ Claude很快不到一分钟，就告诉我们可能的几个原因，基本排�
 - hugo.yaml，用于静态页面生成的基本配置；
 - deploy-github-pages.yml，用于github pages自动部署 action workflow；
 
-然后Claude，确认了两个文件的baseURL不一致导致的资源路径问题，按照提示我们修改了。
+因为这两个文件中有baseURL 配置相关的内容，并决定了如何配置和部署页面，通常这类问题就集中在它们身上。
 
-似乎一切正常，但是访问https://coolshell.in/，依然如故。
+然后Claude，确认了两个文件的baseURL不一致导致的资源路径问题，按照提示我们修改了github work flow中的baseURL配置，重新部署，一切正常了。
+
+解决问题的效率非常高。
+
+
+
+## Debug 页面错误和资源路径问题
+
+总结一下关于 GitHub Pages 自定义域名和静态页面部署的关键点：
+
+1. 域名配置：
+   - 顶级域名（如 coolshell.in）需要配置 A 记录指向 GitHub Pages 的 IP
+   - baseURL 必须与实际访问域名保持一致
+   - CNAME 文件需要放在正确位置（static 目录）以确保部署后不丢失
+   - 如果不需要www子域名访问，则DNS中可以不必配置CNAME
+
+2. Hugo 构建配置：
+   - hugo.yaml 中的 baseURL 应该使用最终用户访问的 URL
+   - GitHub Actions 构建时不需要重复指定 baseURL 参数
+   - 资源路径会根据 baseURL 自动调整
+
+3. 常见问题处理：
+   - 页面变形通常是由资源路径不匹配导致
+   - 资源路径不匹配可能源于 baseURL 配置与实际访问域名不一致
+   - DNS 配置生效需要时间，要有耐心等待
+
+
+
+
 
 
 

@@ -1,46 +1,56 @@
+# Workflow name that appears in GitHub Actions UI
 name: Deployment to GitHub Pages
 
+# Define when this workflow will run
 on:
-  workflow_dispatch:
-  push:
+  workflow_dispatch:    # Allows manual trigger from GitHub UI
+  push:                # Triggers on push events
     branches:
-      - main  # <-- specify the branch you want to deploy from
-  pull_request:
+      - main          # Only runs when pushing to main branch
+  pull_request:       # Also runs on pull requests
 
+# Define environment variables available to all jobs
 env:
-  REPO_NAME: ${{ github.event.repository.name }}
-  REPO_OWNER: ${{ github.repository_owner }}
+  REPO_NAME: ${{ github.event.repository.name }}     # Gets current repository name
+  REPO_OWNER: ${{ github.repository_owner }}         # Gets repository owner name
 
 jobs:
   deploy:
+    # Specifies the runner environment
     runs-on: ubuntu-22.04
+    # Ensures only one deployment happens at a time
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
+      # Checkout the repository code
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0         # Fetch all history for .GitInfo and .Lastmod
+          fetch-depth: 0         # Fetches all history for Git information
 
+      # Sets up Hugo environment
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.141.0'
-          extended: true
+          hugo-version: '0.141.0'    # Specifies Hugo version
+          extended: true             # Uses Hugo extended version
 
+      # Sets up Node.js environment
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '23'
-          cache: 'npm'
+          node-version: '23'         # Specifies Node.js version
+          cache: 'npm'               # Enables npm dependency caching
           cache-dependency-path: '**/package-lock.json'
 
+      # Install npm dependencies
       - run: npm ci
-      - run: hugo --minify
-      # 原配置 - run: hugo --baseURL https://${REPO_OWNER}.github.io/${REPO_NAME} --minify
-    # 下面这段代码负责同步静态页面到 gh-pages 分支:
+      # Build Hugo site
+      - run: hugo --minify          # Builds and minifies the site
+      
+      # Deploy to GitHub Pages
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
-        if: ${{ github.ref == 'refs/heads/main' }} # <-- specify same branch as above here
+        if: ${{ github.ref == 'refs/heads/main' }}   # Only deploys when on main branch
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Uses GitHub token for authentication
 
