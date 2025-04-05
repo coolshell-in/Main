@@ -32,7 +32,72 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;p>A：提交代码就自动同步了，有github action执行生成静态页面的操作，然后部署。&lt;/p>
 &lt;h1 id="i18n">[i18n]&lt;a class="td-heading-self-link" href="#i18n" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>在每篇文档或博客文章的下方，都有这样的尾巴，请问如何将其去除？是否有保留的必要？&lt;/p>
-&lt;p>[i18n] feedback_title&lt;/p></description></item><item><title>Github action workflow 错误报告</title><link>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/github-action-workflow-error-report/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/github-action-workflow-error-report/</guid><description>&lt;p>&lt;a href="https://coolshell-in.github.io/hugo-docsy/">github测试库&lt;/a>&lt;/p>
+&lt;p>[i18n] feedback_title&lt;/p></description></item><item><title>Hugo-Docsy自定义页面</title><link>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/hugo-docsy-customize-page/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/hugo-docsy-customize-page/</guid><description>&lt;p>我们在本地测试，想修改lading page 例如：&lt;/p>
+&lt;ul>
+&lt;li>联系方式 http://localhost:1313/zh-cn/contact/&lt;/li>
+&lt;li>默认主页 http://localhost:1313/zh-cn/&lt;/li>
+&lt;li>简介 http://localhost:1313/zh-cn/about/&lt;/li>
+&lt;/ul>
+&lt;h1 id="基于docsy主题的自定义页面的方法">基于Docsy主题的自定义页面的方法&lt;a class="td-heading-self-link" href="#%e5%9f%ba%e4%ba%8edocsy%e4%b8%bb%e9%a2%98%e7%9a%84%e8%87%aa%e5%ae%9a%e4%b9%89%e9%a1%b5%e9%9d%a2%e7%9a%84%e6%96%b9%e6%b3%95" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>基于主题源文件包docsy@v0.11.0，你可以完全自定义基于Docsy 主题的外观和功能，以下是重点需要修改的关键文件：&lt;/p>
+&lt;h2 id="布局自定义文件">布局自定义文件&lt;a class="td-heading-self-link" href="#%e5%b8%83%e5%b1%80%e8%87%aa%e5%ae%9a%e4%b9%89%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>layouts/partials/ - 包含可重用的页面组件：&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>breadcrumb.html - 面包屑导航&lt;/li>
+&lt;li>footer.html - 页脚&lt;/li>
+&lt;li>head.html - 页面头部&lt;/li>
+&lt;li>navbar.html - 导航栏&lt;/li>
+&lt;li>sidebar.html - 侧边栏&lt;/li>
+&lt;li>toc.html - 目录&lt;/li>
+&lt;/ul>
+&lt;ol start="2">
+&lt;li>
+&lt;p>layouts/_default/ - 默认布局模板&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>layouts/shortcodes/ - 自定义shortcodes，用于在 Markdown 中嵌入复杂功能&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>layouts/home.html - 首页布局&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>layouts/docs/ - 文档页面布局&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>layouts/blog/ - 博客页面布局&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>layouts/community/ - 社区页面布局&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="样式自定义文件">样式自定义文件&lt;a class="td-heading-self-link" href="#%e6%a0%b7%e5%bc%8f%e8%87%aa%e5%ae%9a%e4%b9%89%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>assets/scss/ - SCSS 样式文件：&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>_variables_project.scss - 项目特定变量，用于覆盖默认主题变量&lt;/li>
+&lt;li>_styles_project.scss - 项目特定样式&lt;/li>
+&lt;li>main.scss - 主样式文件&lt;/li>
+&lt;li>blocks/ - 块级组件样式&lt;/li>
+&lt;li>shortcodes/ - shortcodes 样式&lt;/li>
+&lt;li>section-index.scss - 章节索引页样式&lt;/li>
+&lt;/ul>
+&lt;h1 id="最重要的自定义文件">最重要的自定义文件&lt;a class="td-heading-self-link" href="#%e6%9c%80%e9%87%8d%e8%a6%81%e7%9a%84%e8%87%aa%e5%ae%9a%e4%b9%89%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>如果你想自定义页面，应该重点关注：&lt;/p></description></item><item><title>网页设计和图库</title><link>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/landing-pages-design/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/landing-pages-design/</guid><description>&lt;p>&lt;a href="https://www.optimizepress.com/21-landing-page-examples-from-top-tech-companies/">21 Landing Page Examples From Top Tech Companies&lt;/a>&lt;/p>
+&lt;h1 id="landing-pages-template">landing pages template&lt;a class="td-heading-self-link" href="#landing-pages-template" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>&lt;a href="https://www.landingfolio.com/inspiration/landing-page/technology/">Landing Page Design&lt;/a>&lt;/p>
+&lt;p>最简洁原则 &lt;a href="https://www.landingfolio.com/library/all/tailwind?id=61b555829264fc4a988a211d">https://www.landingfolio.com/library/all/tailwind?id=61b555829264fc4a988a211d&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://nicepage.com/c/nature-landing-page">Nice Pages&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.templatemonster.com/">Template monster&lt;/a>&lt;/p>
+&lt;h1 id="photos-library">photos library&lt;a class="td-heading-self-link" href="#photos-library" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>&lt;a href="https://www.pinterest.com/">Pinterest&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.vectorstock.com/">Vector Images&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.istockphoto.com/">Istockphoto&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://pixabay.com/">Pixabay&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.pexels.com/">Pexels&lt;/a>&lt;/p></description></item><item><title>Github action workflow 错误报告</title><link>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/github-action-workflow-error-report/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/github-action-workflow-error-report/</guid><description>&lt;p>&lt;a href="https://coolshell-in.github.io/hugo-docsy/">github测试库&lt;/a>&lt;/p>
 &lt;p>在github pages页面中，设置“Build and deployment Source” 为“Github Actions”，然后运行workflow，发现失败，详细报告如下：&lt;/p>
 &lt;p>Annotations
 1 error&lt;/p>
