@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo 主题配置教程 on 酷壳众创</title><link>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/</link><description>Recent content in Hugo 主题配置教程 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://coolshell-in.github.io/Main/zh-cn/docs/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo-Docsy主题配置</title><link>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/hugo-theme-docsy-configuration/</link><pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/hugo-theme-docsy-configuration/</guid><description>&lt;p>本项目采纳主题&lt;a href="https://www.docsy.dev/">Hugo-Docsy&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo 主题配置教程 on 酷壳众创</title><link>https://coolshell.in/zh-cn/docs/hugo/</link><description>Recent content in Hugo 主题配置教程 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://coolshell.in/zh-cn/docs/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo-Docsy主题配置</title><link>https://coolshell.in/zh-cn/docs/hugo/hugo-theme-docsy-configuration/</link><pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/hugo-theme-docsy-configuration/</guid><description>&lt;p>本项目采纳主题&lt;a href="https://www.docsy.dev/">Hugo-Docsy&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://scp3125.github.io/hugo-docsy/zh-cn/">测试网页&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://github.com/scp3125/hugo-docsy">测试库&lt;/a>&lt;/p>
 &lt;p>作为新手，如何配置或修改主题？如何排除错误，遇到的一些问题，列举如下，已经回复的答案前加了一个“&lt;strong>A:&lt;/strong>”。&lt;/p>
@@ -32,7 +32,7 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;p>A：提交代码就自动同步了，有github action执行生成静态页面的操作，然后部署。&lt;/p>
 &lt;h1 id="i18n">[i18n]&lt;a class="td-heading-self-link" href="#i18n" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>在每篇文档或博客文章的下方，都有这样的尾巴，请问如何将其去除？是否有保留的必要？&lt;/p>
-&lt;p>[i18n] feedback_title&lt;/p></description></item><item><title>Hugo-Docsy自定义页面</title><link>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/hugo-docsy-customize-page/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/hugo-docsy-customize-page/</guid><description>&lt;p>我们在本地测试，想修改lading page 例如：&lt;/p>
+&lt;p>[i18n] feedback_title&lt;/p></description></item><item><title>Hugo-Docsy自定义页面</title><link>https://coolshell.in/zh-cn/docs/hugo/hugo-docsy-customize-page/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/hugo-docsy-customize-page/</guid><description>&lt;p>我们在本地测试，想修改lading page 例如：&lt;/p>
 &lt;ul>
 &lt;li>联系方式 http://localhost:1313/zh-cn/contact/&lt;/li>
 &lt;li>默认主页 http://localhost:1313/zh-cn/&lt;/li>
@@ -85,7 +85,7 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;li>section-index.scss - 章节索引页样式&lt;/li>
 &lt;/ul>
 &lt;h1 id="最重要的自定义文件">最重要的自定义文件&lt;a class="td-heading-self-link" href="#%e6%9c%80%e9%87%8d%e8%a6%81%e7%9a%84%e8%87%aa%e5%ae%9a%e4%b9%89%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>如果你想自定义页面，应该重点关注：&lt;/p></description></item><item><title>网页设计和图库</title><link>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/landing-pages-design/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/landing-pages-design/</guid><description>&lt;p>&lt;a href="https://www.optimizepress.com/21-landing-page-examples-from-top-tech-companies/">21 Landing Page Examples From Top Tech Companies&lt;/a>&lt;/p>
+&lt;p>如果你想自定义页面，应该重点关注：&lt;/p></description></item><item><title>网页设计和图库</title><link>https://coolshell.in/zh-cn/docs/hugo/landing-pages-design/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/landing-pages-design/</guid><description>&lt;p>&lt;a href="https://www.optimizepress.com/21-landing-page-examples-from-top-tech-companies/">21 Landing Page Examples From Top Tech Companies&lt;/a>&lt;/p>
 &lt;h1 id="landing-pages-template">landing pages template&lt;a class="td-heading-self-link" href="#landing-pages-template" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>&lt;a href="https://www.landingfolio.com/inspiration/landing-page/technology/">Landing Page Design&lt;/a>&lt;/p>
 &lt;p>最简洁原则 &lt;a href="https://www.landingfolio.com/library/all/tailwind?id=61b555829264fc4a988a211d">https://www.landingfolio.com/library/all/tailwind?id=61b555829264fc4a988a211d&lt;/a>&lt;/p>
@@ -97,7 +97,7 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;p>&lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.istockphoto.com/">Istockphoto&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://pixabay.com/">Pixabay&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.pexels.com/">Pexels&lt;/a>&lt;/p></description></item><item><title>Github action workflow 错误报告</title><link>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/github-action-workflow-error-report/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/github-action-workflow-error-report/</guid><description>&lt;p>&lt;a href="https://coolshell-in.github.io/hugo-docsy/">github测试库&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.pexels.com/">Pexels&lt;/a>&lt;/p></description></item><item><title>Github action workflow 错误报告</title><link>https://coolshell.in/zh-cn/docs/hugo/github-action-workflow-error-report/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/github-action-workflow-error-report/</guid><description>&lt;p>&lt;a href="https://coolshell-in.github.io/hugo-docsy/">github测试库&lt;/a>&lt;/p>
 &lt;p>在github pages页面中，设置“Build and deployment Source” 为“Github Actions”，然后运行workflow，发现失败，详细报告如下：&lt;/p>
 &lt;p>Annotations
 1 error&lt;/p>
@@ -194,7 +194,7 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">585&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Push the commit or tag
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>A:
-1、进入仓库中settings中的Actions下的General,将Workflow permissions修改为Read and write permissions&lt;/p></description></item><item><title>Hugo静态页面中图片配置</title><link>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/image-configuration-in-hugo/</link><pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/image-configuration-in-hugo/</guid><description>&lt;h1 id="图片尺寸和比例">图片尺寸和比例&lt;a class="td-heading-self-link" href="#%e5%9b%be%e7%89%87%e5%b0%ba%e5%af%b8%e5%92%8c%e6%af%94%e4%be%8b" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+1、进入仓库中settings中的Actions下的General,将Workflow permissions修改为Read and write permissions&lt;/p></description></item><item><title>Hugo静态页面中图片配置</title><link>https://coolshell.in/zh-cn/docs/hugo/image-configuration-in-hugo/</link><pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/image-configuration-in-hugo/</guid><description>&lt;h1 id="图片尺寸和比例">图片尺寸和比例&lt;a class="td-heading-self-link" href="#%e5%9b%be%e7%89%87%e5%b0%ba%e5%af%b8%e5%92%8c%e6%af%94%e4%be%8b" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>尺寸 &amp;gt; 2048&lt;/p>
 &lt;p>比例 = 16:9（1.78:1）宽屏&lt;/p>
 &lt;p>1920 × 1080 像素（Full HD）。&lt;/p>
@@ -236,7 +236,7 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">imports&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>- &lt;span style="color:#204a87;font-weight:bold">path&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">github.com/google/docsy&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">disable&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">false&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Font Awesome 库：Docsy 主题会自动引入 Font Awesome 图标库。&lt;/p></description></item><item><title>Hugo Modules 主题安装和管理：以 Docsy 为例</title><link>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/hugo-theme-management/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://coolshell-in.github.io/Main/zh-cn/docs/hugo/hugo-theme-management/</guid><description>&lt;h1 id="hugo主题安装方式">Hugo主题安装方式&lt;a class="td-heading-self-link" href="#hugo%e4%b8%bb%e9%a2%98%e5%ae%89%e8%a3%85%e6%96%b9%e5%bc%8f" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Font Awesome 库：Docsy 主题会自动引入 Font Awesome 图标库。&lt;/p></description></item><item><title>Hugo Modules 主题安装和管理：以 Docsy 为例</title><link>https://coolshell.in/zh-cn/docs/hugo/hugo-theme-management/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/hugo-theme-management/</guid><description>&lt;h1 id="hugo主题安装方式">Hugo主题安装方式&lt;a class="td-heading-self-link" href="#hugo%e4%b8%bb%e9%a2%98%e5%ae%89%e8%a3%85%e6%96%b9%e5%bc%8f" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>目前主题的安装方式是怎样的？例如远程主题、或类似Jekyll的gem-based，或还有其他方式。为何在本站根目录中没有发现hugo建站相关的程序文件和theme 主题目录？&lt;/p>
 &lt;p>我们寻找Hugo的配置文件的位置，为了查找静态页面所保存的文件目录&lt;code>publishDir=public&lt;/code>的配置，可能有几个文件与该配置相关：&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>config/_default/config.toml
@@ -274,4 +274,30 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>hugo-docsy % ls ~/Library/Caches/hugo_cache/
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>PaperMod	blog		hugo-paper	modules
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Hugo 从本地缓存目录加载主题，在 macOS 上，Hugo 的缓存通常位于：&lt;/p></description></item></channel></rss>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Hugo 从本地缓存目录加载主题，在 macOS 上，Hugo 的缓存通常位于：&lt;/p></description></item><item><title/><link>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</guid><description>&lt;p>如何借助AI帮我们debug ？&lt;/p>
+&lt;p>列举一个案例&lt;/p>
+&lt;h2 id="网页部署">网页部署&lt;a class="td-heading-self-link" href="#%e7%bd%91%e9%a1%b5%e9%83%a8%e7%bd%b2" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>我们在本地和远程测试，成功部署了github pages&lt;/p>
+&lt;p>仓库地址：https://coolshell-in.github.io/Main/&lt;/p>
+&lt;p>测试地址：http://localhost:52904/Main/&lt;/p>
+&lt;p>网页看起来一切都正常且完美。&lt;/p>
+&lt;p>正式上线，我们需要配置一个自定义域名 coolshell.in&lt;/p>
+&lt;h2 id="dns和网络链接">DNS和网络链接&lt;a class="td-heading-self-link" href="#dns%e5%92%8c%e7%bd%91%e7%bb%9c%e9%93%be%e6%8e%a5" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>然后，在域名管理平台配置了 DNS，使其指向Github，然后开始系列测试。&lt;/p>
+&lt;ul>
+&lt;li>DNS 查询，以获取与域名 coolshell.in 相关的详细信息。&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>% dig coolshell.in +nostats +nocomments +nocmd
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">;&lt;/span> &amp;lt;&amp;lt;&amp;gt;&amp;gt; DiG 9.10.6 &amp;lt;&amp;lt;&amp;gt;&amp;gt; coolshell.in +nostats +nocomments +nocmd
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">;;&lt;/span> global options: +cmd
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">;&lt;/span>coolshell.in.			IN	A
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>coolshell.in.		300	IN	A	185.199.110.153
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>coolshell.in.		300	IN	A	185.199.111.153
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>coolshell.in.		300	IN	A	185.199.109.153
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>coolshell.in.		300	IN	A	185.199.108.153
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>使用 &lt;a href="https://www.sslshopper.com/ssl-checker.html">SSL Checker&lt;/a> 检查 SSL 证书状态&lt;/li>
+&lt;li>使用 &lt;a href="https://httpstatus.io/">HTTP Status Code Checker&lt;/a> 检查网站响应&lt;/li>
+&lt;/ul>
+&lt;p>以上三步验证显示，域名访问和网络连接是正常的。&lt;/p></description></item></channel></rss>
