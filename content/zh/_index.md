@@ -3,14 +3,14 @@ title:  酷壳众创
 
 ---
 
-{{< blocks/cover title="世界丰富精彩！" image_url="https://media.istockphoto.com/id/1092610838/de/foto/sie-liebt-fürsorge-für-die-hühner.jpg?s=2048x2048&w=is&k=20&c=s1fbpMqiVJCcRZkdA1ZRtNPNweJiUQ_TZD3CjoopQ6c=" image_anchor="top" height="full" >}}
+{{< blocks/cover title="世界如此丰富精彩！" image_url="https://images.unsplash.com/photo-1722491203111-1c0919c9e508?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" image_anchor="top" height="full" >}}
 
 <!-- <a class="btn btn-lg btn-primary me-3 mb-4" href="/zh-CN/about/">
 了解更多 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a> -->
 
 
-<p class="lead mt-5">我们有无限的可能</p>
+<p class="lead mt-5">我们有无限多种可能</p>
 <p class="lead mt-5">或好 / 或坏 </p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
