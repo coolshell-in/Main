@@ -17,6 +17,11 @@ weight: 1
 关于南德集团、牟其中、及其三次创业的历史资料记录。
 {{% /pageinfo %}}
 
+
+![图：左耳朵耗子来访南德](https://imgur.com/7bHv90W.jpg)
+因为[左耳朵耗子（陈皓）](https://coolshell.cn/haoel)来访南德，所以南德项目相关文件也放到这里来。
+
+
 # 新闻线索
 
 ## 负面
@@ -35,7 +40,7 @@ weight: 1
 [备份](https://web.archive.org/web/20160901000000*/https://zh.wikipedia.org/wiki/%E7%89%9F%E5%85%B6%E4%B8%AD)
 
 
-# 正面
+## 正面
 
 很少
 

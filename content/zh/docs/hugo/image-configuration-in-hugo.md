@@ -33,17 +33,6 @@ weight: 10
 如何通过这一小段代码控制图片显示的尺寸或比例？
 
 
-# 图库
-
-图片外链image_url 的来源
-
-pintrest
-
-google photo 
-
-unsplush
-
-
 
 
 # 图标文件

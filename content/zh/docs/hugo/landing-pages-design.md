@@ -26,6 +26,18 @@ weight: 4
 
 
 # photos library
+
+image_url [Google photo](https://photo.google.com)图片链接有几个限制：
+1. Google Photos 的分享链接不是直接的图片 URL，而是一个预览页面
+2. 这些链接通常有访问限制和过期时间
+3. 可能会被跨域资源共享(CORS)策略阻止
+
+改用其他图床服务：
+- GitHub Issues（上传图片后复制图片链接）
+- Imgur
+- ImgBB
+- 七牛云等
+
 [Pinterest](https://www.pinterest.com/)
 
 [Vector Images](https://www.vectorstock.com/)
@@ -38,4 +50,4 @@ weight: 4
 
 [Pexels](https://www.pexels.com/)
 
-
+- 

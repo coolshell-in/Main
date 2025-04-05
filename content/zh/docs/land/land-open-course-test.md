@@ -1,5 +1,5 @@
 ---
-title: "鲨鱼苗预选、网络公开课和测验"
+title: "南德商学公开课、学员测验和预选"
 date: 2020-09-01
 description:
 categories:
