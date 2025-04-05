@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IT on 酷壳众创</title><link>https://coolshell.in/zh-cn/categories/it/</link><description>Recent content in IT on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sat, 05 Apr 2025 17:27:49 +0200</lastBuildDate><atom:link href="https://coolshell.in/zh-cn/categories/it/index.xml" rel="self" type="application/rss+xml"/><item><title>数据分析</title><link>https://coolshell.in/zh-cn/project/bi/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/project/bi/</guid><description>&lt;h1 id="商业智能">商业智能&lt;a class="td-heading-self-link" href="#%e5%95%86%e4%b8%9a%e6%99%ba%e8%83%bd" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IT on 酷壳众创</title><link>https://coolshell.in/zh-cn/categories/it/</link><description>Recent content in IT on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sat, 05 Apr 2025 20:06:29 +0200</lastBuildDate><atom:link href="https://coolshell.in/zh-cn/categories/it/index.xml" rel="self" type="application/rss+xml"/><item><title>数据分析</title><link>https://coolshell.in/zh-cn/project/bi/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/project/bi/</guid><description>&lt;h1 id="商业智能">商业智能&lt;a class="td-heading-self-link" href="#%e5%95%86%e4%b8%9a%e6%99%ba%e8%83%bd" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>商业智能（Business Intelligence，BI）通过技术和策略收集、分析和展示业务数据，帮助做出更明智的决策。BI 工具通常用于数据可视化、报表生成和数据分析，以支持业务运营和战略规划。&lt;/p>
 &lt;p>当然这门科技不是仅仅用于商业，几乎可用于所有需要数据分析和可视化的领域，目前国际主流使用商业智能BI这个概念，我们也顺应潮流，日常我们用“数据分析”的概念更多。&lt;/p>
 &lt;h2 id="应用案例">应用案例&lt;a class="td-heading-self-link" href="#%e5%ba%94%e7%94%a8%e6%a1%88%e4%be%8b" aria-label="Heading self-link">&lt;/a>&lt;/h2>
@@ -126,12 +126,28 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;p>&lt;a href="https://nicepage.com/c/nature-landing-page">Nice Pages&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.templatemonster.com/">Template monster&lt;/a>&lt;/p>
 &lt;h1 id="photos-library">photos library&lt;a class="td-heading-self-link" href="#photos-library" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>image_url &lt;a href="https://photo.google.com">Google photo&lt;/a>图片链接有几个限制：&lt;/p>
+&lt;ol>
+&lt;li>Google Photos 的分享链接不是直接的图片 URL，而是一个预览页面&lt;/li>
+&lt;li>这些链接通常有访问限制和过期时间&lt;/li>
+&lt;li>可能会被跨域资源共享(CORS)策略阻止&lt;/li>
+&lt;/ol>
+&lt;p>改用其他图床服务：&lt;/p>
+&lt;ul>
+&lt;li>GitHub Issues（上传图片后复制图片链接）&lt;/li>
+&lt;li>Imgur&lt;/li>
+&lt;li>ImgBB&lt;/li>
+&lt;li>七牛云等&lt;/li>
+&lt;/ul>
 &lt;p>&lt;a href="https://www.pinterest.com/">Pinterest&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.vectorstock.com/">Vector Images&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://unsplash.com/">Unsplash&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.istockphoto.com/">Istockphoto&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://pixabay.com/">Pixabay&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.pexels.com/">Pexels&lt;/a>&lt;/p></description></item><item><title>Github action workflow 错误报告</title><link>https://coolshell.in/zh-cn/docs/hugo/github-action-workflow-error-report/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/github-action-workflow-error-report/</guid><description>&lt;p>&lt;a href="https://coolshell-in.github.io/hugo-docsy/">github测试库&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.pexels.com/">Pexels&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul></description></item><item><title>Github action workflow 错误报告</title><link>https://coolshell.in/zh-cn/docs/hugo/github-action-workflow-error-report/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/github-action-workflow-error-report/</guid><description>&lt;p>&lt;a href="https://coolshell-in.github.io/hugo-docsy/">github测试库&lt;/a>&lt;/p>
 &lt;p>在github pages页面中，设置“Build and deployment Source” 为“Github Actions”，然后运行workflow，发现失败，详细报告如下：&lt;/p>
 &lt;p>Annotations
 1 error&lt;/p>
@@ -283,11 +299,6 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;/section>
 
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如何通过这一小段代码控制图片显示的尺寸或比例？&lt;/p>
-&lt;h1 id="图库">图库&lt;a class="td-heading-self-link" href="#%e5%9b%be%e5%ba%93" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>图片外链image_url 的来源&lt;/p>
-&lt;p>pintrest&lt;/p>
-&lt;p>google photo&lt;/p>
-&lt;p>unsplush&lt;/p>
 &lt;h1 id="图标文件">图标文件&lt;a class="td-heading-self-link" href="#%e5%9b%be%e6%a0%87%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>图标不是由单个文件定义的，而是通过以下方式引入：&lt;/p>
 &lt;p>Docsy 主题引入：在 hugo.yaml 文件中，您通过模块导入了 Docsy 主题：&lt;/p>
@@ -295,7 +306,9 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">imports&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>- &lt;span style="color:#204a87;font-weight:bold">path&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">github.com/google/docsy&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">disable&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">false&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Font Awesome 库：Docsy 主题会自动引入 Font Awesome 图标库。&lt;/p></description></item><item><title>Hugo Modules 主题安装和管理：以 Docsy 为例</title><link>https://coolshell.in/zh-cn/docs/hugo/hugo-theme-management/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/hugo-theme-management/</guid><description>&lt;h1 id="hugo主题安装方式">Hugo主题安装方式&lt;a class="td-heading-self-link" href="#hugo%e4%b8%bb%e9%a2%98%e5%ae%89%e8%a3%85%e6%96%b9%e5%bc%8f" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Font Awesome 库：Docsy 主题会自动引入 Font Awesome 图标库。&lt;/p>
+&lt;h2 id="查找可用图标">查找可用图标&lt;a class="td-heading-self-link" href="#%e6%9f%a5%e6%89%be%e5%8f%af%e7%94%a8%e5%9b%be%e6%a0%87" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>官方文档：访问&lt;a href="https://fontawesome.com/icons/">Font Awesome&lt;/a>网站&lt;/p></description></item><item><title>Hugo Modules 主题安装和管理：以 Docsy 为例</title><link>https://coolshell.in/zh-cn/docs/hugo/hugo-theme-management/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/hugo-theme-management/</guid><description>&lt;h1 id="hugo主题安装方式">Hugo主题安装方式&lt;a class="td-heading-self-link" href="#hugo%e4%b8%bb%e9%a2%98%e5%ae%89%e8%a3%85%e6%96%b9%e5%bc%8f" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>目前主题的安装方式是怎样的？例如远程主题、或类似Jekyll的gem-based，或还有其他方式。为何在本站根目录中没有发现hugo建站相关的程序文件和theme 主题目录？&lt;/p>
 &lt;p>我们寻找Hugo的配置文件的位置，为了查找静态页面所保存的文件目录&lt;code>publishDir=public&lt;/code>的配置，可能有几个文件与该配置相关：&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>config/_default/config.toml
