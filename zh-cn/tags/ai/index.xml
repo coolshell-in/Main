@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on 酷壳众创</title><link>https://coolshell.in/zh-cn/tags/ai/</link><description>Recent content in AI on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 07 Apr 2025 14:03:45 +0200</lastBuildDate><atom:link href="https://coolshell.in/zh-cn/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>数据分析</title><link>https://coolshell.in/zh-cn/project/bi/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/project/bi/</guid><description>&lt;h1 id="商业智能">商业智能&lt;a class="td-heading-self-link" href="#%e5%95%86%e4%b8%9a%e6%99%ba%e8%83%bd" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on 酷壳众创</title><link>https://coolshell.in/zh-cn/tags/ai/</link><description>Recent content in AI on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 07 Apr 2025 17:12:33 +0200</lastBuildDate><atom:link href="https://coolshell.in/zh-cn/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>数据分析</title><link>https://coolshell.in/zh-cn/project/bi/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/project/bi/</guid><description>&lt;h1 id="商业智能">商业智能&lt;a class="td-heading-self-link" href="#%e5%95%86%e4%b8%9a%e6%99%ba%e8%83%bd" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>商业智能（Business Intelligence，BI）通过技术和策略收集、分析和展示业务数据，帮助做出更明智的决策。BI 工具通常用于数据可视化、报表生成和数据分析，以支持业务运营和战略规划。&lt;/p>
 &lt;p>当然这门科技不是仅仅用于商业，几乎可用于所有需要数据分析和可视化的领域，目前国际主流使用商业智能BI这个概念，我们也顺应潮流，日常我们用“数据分析”的概念更多。&lt;/p>
 &lt;h2 id="应用案例">应用案例&lt;a class="td-heading-self-link" href="#%e5%ba%94%e7%94%a8%e6%a1%88%e4%be%8b" aria-label="Heading self-link">&lt;/a>&lt;/h2>
@@ -505,7 +505,34 @@ How to build &lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">https://ww
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>如何借助AI帮我们debug ？</title><link>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</guid><description>&lt;p>列举一个实际案例&lt;/p>
+&lt;/table></description></item><item><title>MegaEase 远程工作团队协作协议 v1.3</title><link>https://coolshell.in/zh-cn/docs/it/megaease-principle/</link><pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/it/megaease-principle/</guid><description>&lt;p>本篇节选自左耳朵耗子博客 - &lt;a href="https://coolshell.cn/articles/20765.html">MegaEase的远程工作文化&lt;/a>&lt;/p>
+&lt;p>该协议版本将不断升级和优化。。。&lt;/p>
+&lt;h1 id="principles">Principles&lt;a class="td-heading-self-link" href="#principles" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="0ownership--leadership">0）Ownership &amp;amp; Leadership&lt;a class="td-heading-self-link" href="#0ownership--leadership" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>每个人都是Owner，都是Leader， 如果看到团队或是项目有问题的时候，不要等，也不忍，请马上说出来，并给出相应的方案， 自己跳出来召集开会，及时调整。不要闷在那里，自己憋！&lt;/p>
+&lt;h2 id="1initiative">1）Initiative&lt;a class="td-heading-self-link" href="#1initiative" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>每人个都必需是主动的，都需要自己发起要做的事，或是自己要认领要做的事，如果发现自己没有事情了， 需要学会主动发现问题，主动找到可以improve的地方，创新来源于此。没有路要学会自己造路！&lt;/p>
+&lt;h2 id="2objectives-oriented">2）Objectives Oriented&lt;a class="td-heading-self-link" href="#2objectives-oriented" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>每个人都是产品经理，也都是项目经理，每个人都必需把自己的工作和我们大的目标连接在一起，知道什么是重点，重点的东西就是两件事：一）从用户的角度出发，二）从产品的角度出发。 这意味着我们要随时观察整个产品的样子，而不只是自己这一块东西 。&lt;/p>
+&lt;h2 id="3insists-on-high-standard">3）Insists on High Standard&lt;a class="td-heading-self-link" href="#3insists-on-high-standard" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>举法其上，得乎其中，举法其中，得乎其下，举法其下，法不得也。我们要坚持用高的标准要求自己，对于高标准的目标不妥协，但是在实施路径和策略上可以妥协。&lt;/p>
+&lt;h1 id="practices">Practices&lt;a class="td-heading-self-link" href="#practices" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="0online">0）Online&lt;a class="td-heading-self-link" href="#0online" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>工作的时候必需在线。如果不在线了，需要说一下不在线的时长, 目前我们工作的事宜在通讯工具采用Slack， 如果需要请假的情况，如果不是紧急情况，需要提前一天 在MegaEase的Slack #random 频道中提前说明。如果是紧急情况，也需要提前在random频道中告知大家。&lt;/p>
+&lt;h2 id="1-documentation-driven">1) Documentation Driven&lt;a class="td-heading-self-link" href="#1-documentation-driven" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>面对面交谈、电话语音、微信、Slack虽然是比较实时的反馈工具，但是只有文档是可以把重要信息给结构化的，而且写文档其实是比起前面的方式来说是更为深度的思考，因为会让你自己审视自己的想法。所以，对于一些重要 “功能”、“流程”、“业务逻辑” 、“设计”、“问题”，以及“想法”，最好都以文档化的方式进行。请使用Github的 wiki、project、issue这些工具或是使用Google Doc.&lt;/p>
+&lt;h2 id="2design-review">2）Design Review&lt;a class="td-heading-self-link" href="#2design-review" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>对于一些重要的问题或是工作（每个人都能够判断什么是关键问题和工作）， 需要先把自己的想法share出来，而不是先实现 。&lt;/p>
+&lt;p>一个好的 Design 文档需要包括如下项：&lt;/p>
+&lt;pre>&lt;code>Background。交待这个事的背景、需求和要解决问题。
+Objectives。说明这个事的目标和意义。
+Alternative Solutions。 给出多个解决方案，并能够进行 Pros/Cons 对比。
+ Reference。方案需要有权威引用支持。
+ Data。方案需要有相关数据数据支持。
+Conclusion。结论是什么。
+&lt;/code>&lt;/pre>
+&lt;h2 id="3-simplification--automation">3) Simplification &amp;amp; Automation&lt;a class="td-heading-self-link" href="#3-simplification--automation" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>简化和自动化是软件工程所追求的两大目标，简化不是简陋，简化是对事物一种抽象和归纳能力，其能够提升软件的复用能力和扩展性，自动化是工程能力的重要体现，一方面，远程工作中自动化的能力可以让整个团队更高效地协作，另一方面，自动化是规模化的提条件。所以，我们要无时无刻地思考如何简化和自动化现有的事情。&lt;/p></description></item><item><title>如何借助AI帮我们debug ？</title><link>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</guid><description>&lt;p>列举一个实际案例&lt;/p>
 &lt;h2 id="网页部署">网页部署&lt;a class="td-heading-self-link" href="#%e7%bd%91%e9%a1%b5%e9%83%a8%e7%bd%b2" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>我们在本地和远程测试，成功部署了github pages&lt;/p>
 &lt;p>仓库地址：https://coolshell-in.github.io/Main/&lt;/p>
