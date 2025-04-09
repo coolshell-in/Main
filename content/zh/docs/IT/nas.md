@@ -15,31 +15,25 @@ weight: 2
 
 可选方案
 
-方案一： 本地搭建黑群晖 NAS
+# 方案一： 本地搭建[黑群晖 NAS](https://www.synology.com/)
 
-https://www.synology.com/zh-tw/support
-https://www.howtogeek.com/346744/how-to-remotely-access-your-synology-nas-using-quickconnect/
-How to improve your video editing with Synology DS1618+ NAS https://www.youtube.com/watch?v=4jgEHyx3Kp0
-How to build https://www.youtube.com/watch?v=RGVPeB98zWI
+[How to Remotely Access Your Synology NAS Using QuickConnect](https://www.howtogeek.com/346744/how-to-remotely-access-your-synology-nas-using-quickconnect/)
 
+[How to improve your video editing with Synology DS1618+ NAS](https://www.youtube.com/watch?v=4jgEHyx3Kp0)
 
-
-
-方案二：云搭建 Nextcloud
-
-https://www.linode.com/marketplace/apps/linode/nextcloud/
-
-https://www.linode.com/docs/platform/one-click/how-to-deploy-nextcloud-with-one-click-apps/
-
-测试账号
-http://snowy-summer-bqvz1h97wc.ploi.link/
+[How To Build A 10Gb/s Network/Server](https://www.youtube.com/watch?v=RGVPeB98zWI)
 
 
 
+# 方案二：云搭建 [Nextcloud](https://www.linode.com/marketplace/apps/linode/nextcloud/)
 
-方案三：企业级服务器系统 SAN
+[Deploy Nextcloud through the Linode Marketplace](https://www.linode.com/docs/platform/one-click/how-to-deploy-nextcloud-with-one-click-apps/)
+
+eg. [测试账号](http://snowy-summer-bqvz1h97wc.ploi.link/)
 
 
+
+# 方案三：企业级服务器系统 SAN
 
 
 计划
@@ -52,26 +46,21 @@ http://snowy-summer-bqvz1h97wc.ploi.link/
 
 
 
-采购方案
+# 采购方案
 
-* 硬件总预算 1.4～1.8W¥ 小匡 Atom X Jiawei Yin
+硬件总预算 1.4～1.8W ¥
 
-* 网件 R7000 AC1900M 双频 （带 USB 3.0 端口，建 NAS 局域网）800¥
-* NAS, 6～8 Raid, https://www.amazon.com/gp/product/B07CR8RZYY/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=saradiet0d-20&creative=9325&linkCode=as2&creativeASIN=B07CR8RZYY&linkId=e0b59bc0eb55bb971fc15060bb75e841 6000～7000¥
-* 在安全措施严密的情况下连接到互联网 D-Link WIFI Adapter: https://vtudio.com/a/?a=d-link+ac1200... 300¥
-* 硬盘6 TB Seagate IronWolf Pro Hard Drives *6～8，6000～8000¥
-* 以太网适配器和链接线  1000¥
-    *  Intel Ethernet Converged Network Adapter X540T1 
-    * https://www.amazon.com/gp/product/B071CJV1C1/ref=oh_aui_detailpage_o04_s02?ie=UTF8&psc=1&tag=fstoppers-20&pldnSite=1 
+* 网件 R7000 AC1900M 双频 （带 USB 3.0 端口，建 NAS 局域网），800 ¥
 
-* 云服务器预算
+* [NAS, 6～8 Raid](https://www.amazon.com/gp/product/B07CR8RZYY/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=saradiet0d-20&creative=9325&linkCode=as2&creativeASIN=B07CR8RZYY&linkId=e0b59bc0eb55bb971fc15060bb75e841)，6000～7000 ¥
 
-* 云服务器 2000¥/年
+* 在安全措施严密的情况下连接到互联网 [D-Link WIFI Adapter](https://vtudio.com/a/?a=d-link+ac1200), 300 ¥
 
+* 硬盘6 TB Seagate IronWolf Pro Hard Drives *6～8，6000～8000 ¥
 
+* 以太网适配器和链接线，1000 ¥
+  - [Intel Ethernet Converged Network Adapter X540T1](https://www.intel.com/content/www/us/en/products/sku/58953/intel-ethernet-converged-network-adapter-x540t1/specifications.html) 
+  - [SNANSHI Outdoor Ethernet Cable](https://www.amazon.com/gp/product/B071CJV1C1/ref=oh_aui_detailpage_o04_s02?ie=UTF8&psc=1&tag=fstoppers-20&pldnSite=1) 
 
+* 云服务器预算 ～ 2000¥/年
 
-
-总预算
-
-1.8+0.2=2万

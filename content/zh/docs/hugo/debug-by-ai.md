@@ -1,5 +1,5 @@
 ---
-title: 如何借助AI帮我们debug ？
+title: 如何借助AI debug ？
 description: 
 date: 2025-04-05
 categories:
