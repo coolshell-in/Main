@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数学&amp;计算机 on 酷壳众创</title><link>https://coolshell.in/zh-cn/tags/%E6%95%B0%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA/</link><description>Recent content in 数学&amp;计算机 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 07 Apr 2025 17:12:33 +0200</lastBuildDate><atom:link href="https://coolshell.in/zh-cn/tags/%E6%95%B0%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA/index.xml" rel="self" type="application/rss+xml"/><item><title>数据分析</title><link>https://coolshell.in/zh-cn/project/bi/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/project/bi/</guid><description>&lt;h1 id="商业智能">商业智能&lt;a class="td-heading-self-link" href="#%e5%95%86%e4%b8%9a%e6%99%ba%e8%83%bd" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数学&amp;计算机 on 酷壳众创</title><link>https://coolshell.in/zh-cn/tags/%E6%95%B0%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA/</link><description>Recent content in 数学&amp;计算机 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 09 Apr 2025 16:48:07 +0200</lastBuildDate><atom:link href="https://coolshell.in/zh-cn/tags/%E6%95%B0%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA/index.xml" rel="self" type="application/rss+xml"/><item><title>数据分析</title><link>https://coolshell.in/zh-cn/project/bi/</link><pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/project/bi/</guid><description>&lt;h1 id="商业智能">商业智能&lt;a class="td-heading-self-link" href="#%e5%95%86%e4%b8%9a%e6%99%ba%e8%83%bd" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>商业智能（Business Intelligence，BI）通过技术和策略收集、分析和展示业务数据，帮助做出更明智的决策。BI 工具通常用于数据可视化、报表生成和数据分析，以支持业务运营和战略规划。&lt;/p>
 &lt;p>当然这门科技不是仅仅用于商业，几乎可用于所有需要数据分析和可视化的领域，目前国际主流使用商业智能BI这个概念，我们也顺应潮流，日常我们用“数据分析”的概念更多。&lt;/p>
 &lt;h2 id="应用案例">应用案例&lt;a class="td-heading-self-link" href="#%e5%ba%94%e7%94%a8%e6%a1%88%e4%be%8b" aria-label="Heading self-link">&lt;/a>&lt;/h2>
@@ -67,17 +67,14 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;h1 id="i18n">[i18n]&lt;a class="td-heading-self-link" href="#i18n" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>在每篇文档或博客文章的下方，都有这样的尾巴，请问如何将其去除？是否有保留的必要？&lt;/p>
 &lt;p>[i18n] feedback_title&lt;/p></description></item><item><title>文件存储与共享设施搭建方案</title><link>https://coolshell.in/zh-cn/docs/it/nas/</link><pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/it/nas/</guid><description>&lt;p>可选方案&lt;/p>
-&lt;p>方案一： 本地搭建黑群晖 NAS&lt;/p>
-&lt;p>&lt;a href="https://www.synology.com/zh-tw/support">https://www.synology.com/zh-tw/support&lt;/a>
-&lt;a href="https://www.howtogeek.com/346744/how-to-remotely-access-your-synology-nas-using-quickconnect/">https://www.howtogeek.com/346744/how-to-remotely-access-your-synology-nas-using-quickconnect/&lt;/a>
-How to improve your video editing with Synology DS1618+ NAS &lt;a href="https://www.youtube.com/watch?v=4jgEHyx3Kp0">https://www.youtube.com/watch?v=4jgEHyx3Kp0&lt;/a>
-How to build &lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">https://www.youtube.com/watch?v=RGVPeB98zWI&lt;/a>&lt;/p>
-&lt;p>方案二：云搭建 Nextcloud&lt;/p>
-&lt;p>&lt;a href="https://www.linode.com/marketplace/apps/linode/nextcloud/">https://www.linode.com/marketplace/apps/linode/nextcloud/&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.linode.com/docs/platform/one-click/how-to-deploy-nextcloud-with-one-click-apps/">https://www.linode.com/docs/platform/one-click/how-to-deploy-nextcloud-with-one-click-apps/&lt;/a>&lt;/p>
-&lt;p>测试账号
-&lt;a href="http://snowy-summer-bqvz1h97wc.ploi.link/">http://snowy-summer-bqvz1h97wc.ploi.link/&lt;/a>&lt;/p>
-&lt;p>方案三：企业级服务器系统 SAN&lt;/p>
+&lt;h1 id="方案一-本地搭建黑群晖-nashttpswwwsynologycom">方案一： 本地搭建&lt;a href="https://www.synology.com/">黑群晖 NAS&lt;/a>&lt;a class="td-heading-self-link" href="#%e6%96%b9%e6%a1%88%e4%b8%80-%e6%9c%ac%e5%9c%b0%e6%90%ad%e5%bb%ba%e9%bb%91%e7%be%a4%e6%99%96-nashttpswwwsynologycom" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>&lt;a href="https://www.howtogeek.com/346744/how-to-remotely-access-your-synology-nas-using-quickconnect/">How to Remotely Access Your Synology NAS Using QuickConnect&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=4jgEHyx3Kp0">How to improve your video editing with Synology DS1618+ NAS&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">How To Build A 10Gb/s Network/Server&lt;/a>&lt;/p>
+&lt;h1 id="方案二云搭建-nextcloudhttpswwwlinodecommarketplaceappslinodenextcloud">方案二：云搭建 &lt;a href="https://www.linode.com/marketplace/apps/linode/nextcloud/">Nextcloud&lt;/a>&lt;a class="td-heading-self-link" href="#%e6%96%b9%e6%a1%88%e4%ba%8c%e4%ba%91%e6%90%ad%e5%bb%ba-nextcloudhttpswwwlinodecommarketplaceappslinodenextcloud" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>&lt;a href="https://www.linode.com/docs/platform/one-click/how-to-deploy-nextcloud-with-one-click-apps/">Deploy Nextcloud through the Linode Marketplace&lt;/a>&lt;/p>
+&lt;p>eg. &lt;a href="http://snowy-summer-bqvz1h97wc.ploi.link/">测试账号&lt;/a>&lt;/p>
+&lt;h1 id="方案三企业级服务器系统-san">方案三：企业级服务器系统 SAN&lt;a class="td-heading-self-link" href="#%e6%96%b9%e6%a1%88%e4%b8%89%e4%bc%81%e4%b8%9a%e7%ba%a7%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%b3%bb%e7%bb%9f-san" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>计划&lt;/p>
 &lt;p>采用轻资产、低运维费用的方案一+方案二 （NAS + 云服务器），按需扩展。实现需求：&lt;/p>
 &lt;ul>
@@ -85,25 +82,14 @@ How to build &lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">https://ww
 &lt;li>传媒教育团队的云协作。&lt;/li>
 &lt;li>内部加密交流。&lt;/li>
 &lt;/ul>
-&lt;p>采购方案&lt;/p>
+&lt;h1 id="采购方案">采购方案&lt;a class="td-heading-self-link" href="#%e9%87%87%e8%b4%ad%e6%96%b9%e6%a1%88" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>硬件总预算 1.4～1.8W ¥&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;p>硬件总预算 1.4～1.8W¥ 小匡 Atom X Jiawei Yin&lt;/p>
+&lt;p>网件 R7000 AC1900M 双频 （带 USB 3.0 端口，建 NAS 局域网），800 ¥&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>网件 R7000 AC1900M 双频 （带 USB 3.0 端口，建 NAS 局域网）800¥&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>NAS, 6～8 Raid, &lt;a href="https://www.amazon.com/gp/product/B07CR8RZYY/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;amp;tag=saradiet0d-20&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=B07CR8RZYY&amp;amp;linkId=e0b59bc0eb55bb971fc15060bb75e841">https://www.amazon.com/gp/product/B07CR8RZYY/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=saradiet0d-20&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=B07CR8RZYY&amp;linkId=e0b59bc0eb55bb971fc15060bb75e841&lt;/a> 6000～7000¥&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>在安全措施严密的情况下连接到互联网 D-Link WIFI Adapter: &lt;a href="https://vtudio.com/a/?a=d-link&amp;#43;ac1200">https://vtudio.com/a/?a=d-link+ac1200&lt;/a>&amp;hellip; 300¥&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>硬盘6 TB Seagate IronWolf Pro Hard Drives *6～8，6000～8000¥&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>以太网适配器和链接线 1000¥&lt;/p></description></item><item><title>Hugo-Docsy自定义页面</title><link>https://coolshell.in/zh-cn/docs/hugo/hugo-docsy-customize-page/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/hugo-docsy-customize-page/</guid><description>&lt;p>我们在本地测试，想修改lading page 例如：&lt;/p>
+&lt;p>&lt;a href="https://www.amazon.com/gp/product/B07CR8RZYY/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;amp;tag=saradiet0d-20&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=B07CR8RZYY&amp;amp;linkId=e0b59bc0eb55bb971fc15060bb75e841">NAS, 6～8 Raid&lt;/a>，6000～7000 ¥&lt;/p></description></item><item><title>Hugo-Docsy自定义页面</title><link>https://coolshell.in/zh-cn/docs/hugo/hugo-docsy-customize-page/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/hugo-docsy-customize-page/</guid><description>&lt;p>我们在本地测试，想修改lading page 例如：&lt;/p>
 &lt;ul>
 &lt;li>联系方式 http://localhost:1313/zh-cn/contact/&lt;/li>
 &lt;li>默认主页 http://localhost:1313/zh-cn/&lt;/li>
@@ -156,7 +142,7 @@ How to build &lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">https://ww
 &lt;li>section-index.scss - 章节索引页样式&lt;/li>
 &lt;/ul>
 &lt;h1 id="最重要的自定义文件">最重要的自定义文件&lt;a class="td-heading-self-link" href="#%e6%9c%80%e9%87%8d%e8%a6%81%e7%9a%84%e8%87%aa%e5%ae%9a%e4%b9%89%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>如果你想自定义页面，应该重点关注：&lt;/p></description></item><item><title>呼叫中心Call center</title><link>https://coolshell.in/zh-cn/docs/it/call-center/</link><pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/it/call-center/</guid><description>&lt;h1 id="语音机器人工作语言">语音机器人工作语言&lt;a class="td-heading-self-link" href="#%e8%af%ad%e9%9f%b3%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%b7%a5%e4%bd%9c%e8%af%ad%e8%a8%80" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>如果你想自定义页面，应该重点关注：&lt;/p></description></item><item><title>呼叫中心Call center</title><link>https://coolshell.in/zh-cn/docs/it/call-center/</link><pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/it/call-center/</guid><description>&lt;h2 id="语音机器人工作语言">语音机器人工作语言&lt;a class="td-heading-self-link" href="#%e8%af%ad%e9%9f%b3%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%b7%a5%e4%bd%9c%e8%af%ad%e8%a8%80" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>你好，请问什么事？找谁？&lt;/p>
 &lt;p>访客类型：&lt;/p>
 &lt;ol>
@@ -165,7 +151,7 @@ How to build &lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">https://ww
 &lt;li>工作求职；&lt;/li>
 &lt;li>其他咨询&lt;/li>
 &lt;/ol>
-&lt;p>请在必应或百度搜索“公司名”，第一页能找到我们的网站，网址是拼音 coolshell.in，上面有全部相关业务部门的联系方式，可以找对应的邮箱、电话等联系方式，我们收到信息会酌情回复。&lt;/p></description></item><item><title>网页设计和图库</title><link>https://coolshell.in/zh-cn/docs/hugo/landing-pages-design/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/landing-pages-design/</guid><description>&lt;p>&lt;a href="https://www.optimizepress.com/21-landing-page-examples-from-top-tech-companies/">21 Landing Page Examples From Top Tech Companies&lt;/a>&lt;/p>
+&lt;p>请在必应或百度搜索“公司名”，第一页能找到我们的网站，网址拼音 chzion.land，上面有全部相关业务部门的联系方式，可以找对应的邮箱、电话等联系方式，我们收到信息会酌情回复。&lt;/p></description></item><item><title>网页设计和图库</title><link>https://coolshell.in/zh-cn/docs/hugo/landing-pages-design/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/landing-pages-design/</guid><description>&lt;p>&lt;a href="https://www.optimizepress.com/21-landing-page-examples-from-top-tech-companies/">21 Landing Page Examples From Top Tech Companies&lt;/a>&lt;/p>
 &lt;h1 id="landing-pages-template">landing pages template&lt;a class="td-heading-self-link" href="#landing-pages-template" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>&lt;a href="https://www.landingfolio.com/inspiration/landing-page/technology/">Landing Page Design&lt;/a>&lt;/p>
 &lt;p>最简洁原则 &lt;a href="https://www.landingfolio.com/library/all/tailwind?id=61b555829264fc4a988a211d">https://www.landingfolio.com/library/all/tailwind?id=61b555829264fc4a988a211d&lt;/a>&lt;/p>
@@ -290,7 +276,7 @@ How to build &lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">https://ww
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">585&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Push the commit or tag
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>A:
-1、进入仓库中settings中的Actions下的General,将Workflow permissions修改为Read and write permissions&lt;/p></description></item><item><title>IT项目设备清单及采购成本</title><link>https://coolshell.in/zh-cn/docs/it/equip/</link><pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/it/equip/</guid><description>&lt;p>Tips：项目需要的各种设备、软硬件、及采购的成本等&lt;/p>
+1、进入仓库中settings中的Actions下的General,将Workflow permissions修改为Read and write permissions&lt;/p></description></item><item><title>IT设备清单及采购成本</title><link>https://coolshell.in/zh-cn/docs/it/equip/</link><pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/it/equip/</guid><description>&lt;p>Tips：项目需要的各种设备、软硬件、及采购的成本等&lt;/p>
 &lt;h2 id="开发工程师">开发工程师&lt;a class="td-heading-self-link" href="#%e5%bc%80%e5%8f%91%e5%b7%a5%e7%a8%8b%e5%b8%88" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;table>
  &lt;thead>
@@ -305,31 +291,33 @@ How to build &lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">https://ww
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
+ &lt;td>计算机设备&lt;/td>
  &lt;td>电脑Mac, 1台&lt;/td>
- &lt;td>MacBook Pro (i7, 16-Inch, 16GB RAM, 512GB Storage) &lt;a href="https://www.amazon.com/Apple-MacBook-16-Inch-512GB-Storage/dp/B081FZV45H/ref=sr_1_1?dchild=1&amp;amp;keywords=Macbook&amp;amp;qid=1594898355&amp;amp;sr=8-1&amp;amp;th=1">https://www.amazon.com/Apple-MacBook-16-Inch-512GB-Storage/dp/B081FZV45H/ref=sr_1_1?dchild=1&amp;keywords=Macbook&amp;qid=1594898355&amp;sr=8-1&amp;th=1&lt;/a>&lt;/td>
  &lt;td>1.5W（二手7000～1W）&lt;/td>
- &lt;td>开发环境配置&lt;/td>
- &lt;td>推荐&lt;/td>
- &lt;td>Sheldon Lee&lt;/td>
+ &lt;td>MacBook Pro [i7, 16-Inch, 16GB RAM, 512GB Storage]置&lt;/td>
+ &lt;td>开发环境配&lt;/td>
+ &lt;td>Sheldon&lt;/td>
  &lt;/tr>
  &lt;tr>
+ &lt;td>&lt;/td>
  &lt;td>电脑Linux, 1台&lt;/td>
- &lt;td>Acer Swift 3 Thin &amp;amp; Light 13.5&amp;quot; IPS Display &lt;a href="https://www.amazon.com/dp/B087792YYP/ref=cm_sw_em_r_mt_dp_U_ZkVeFb9SHTYQR">https://www.amazon.com/dp/B087792YYP/ref=cm_sw_em_r_mt_dp_U_ZkVeFb9SHTYQR&lt;/a>&lt;/td>
  &lt;td>8500（二手4000～5000）&lt;/td>
- &lt;td>10th Gen Intel Core i7-1065G7, 16GB LPDDR4X, 1TB NVMe SSD&lt;/td>
+ &lt;td>Acer [10th Gen Intel Core i7-1065G7, 16GB LPDDR4X, 1TB NVMe]SSD&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>横屏、竖屏显示器+支架&lt;/td>
- &lt;td>各1台，可升降支架&lt;/td>
- &lt;td>800×3（二手）&lt;/td>
- &lt;td>开发用双屏幕及其支架&lt;/td>
  &lt;td>&lt;/td>
+ &lt;td>横屏、竖屏显示器各1台+可升降支架&lt;/td>
+ &lt;td>800×3（二手）&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>开发用双屏幕及其支架&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
+&lt;p>MacBook Pro &lt;a href="https://www.amazon.com/Apple-MacBook-16-Inch-512GB-Storage/dp/B081FZV45H/ref=sr_1_1?dchild=1&amp;amp;keywords=Macbook&amp;amp;qid=1594898355&amp;amp;sr=8-1&amp;amp;th=1">i7, 16-Inch, 16GB RAM, 512GB Storage&lt;/a>&lt;/p>
+&lt;p>Acer &lt;a href="https://www.amazon.com/dp/B087792YYP/ref=cm_sw_em_r_mt_dp_U_ZkVeFb9SHTYQR">10th Gen Intel Core i7-1065G7, 16GB LPDDR4X, 1TB NVMe&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="网络运维工程师">网络/运维工程师&lt;a class="td-heading-self-link" href="#%e7%bd%91%e7%bb%9c%e8%bf%90%e7%bb%b4%e5%b7%a5%e7%a8%8b%e5%b8%88" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;table>
@@ -346,11 +334,11 @@ How to build &lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">https://ww
  &lt;tbody>
  &lt;tr>
  &lt;td>服务器&lt;/td>
- &lt;td>NAS &lt;a href="https://xen-orchestra.com/#!/xo-home">https://xen-orchestra.com/#!/xo-home&lt;/a>&lt;/td>
+ &lt;td>NAS&lt;/td>
  &lt;td>1W（二手）&lt;/td>
  &lt;td>Linux操作系统 + 管理平台&lt;/td>
- &lt;td>搭建 NextCloud 私有云存储服务器，和云方案二选一&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>搭建 NextCloud 私有云存储服务器，和云方案二选一, 对于公司网络系统的运维有要求&lt;/td>
+ &lt;td>Atom&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>云服务器&lt;/td>
@@ -361,7 +349,7 @@ How to build &lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">https://ww
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>云服务器&lt;/td>
+ &lt;td>&lt;/td>
  &lt;td>Linode&lt;/td>
  &lt;td>约850/年&lt;/td>
  &lt;td>（1GB 内存，1CPU，20GB SSD）*2&lt;/td>
@@ -369,7 +357,7 @@ How to build &lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">https://ww
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>云服务器&lt;/td>
+ &lt;td>&lt;/td>
  &lt;td>Linode&lt;/td>
  &lt;td>约850/年&lt;/td>
  &lt;td>2GB 内存，1CPU，50GB SSD&lt;/td>
@@ -378,161 +366,43 @@ How to build &lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">https://ww
  &lt;/tr>
  &lt;tr>
  &lt;td>网络设备&lt;/td>
- &lt;td>当前的ISP和套餐、办公室网速实测等&lt;/td>
+ &lt;td>当前的ISP和套餐、办公室网速实测等?&lt;/td>
  &lt;td>N/A&lt;/td>
- &lt;td>网络拓扑、路由器交换机等设备的供应商建议采用思科的网络方案&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h2 id="美术设计师">美术设计师&lt;a class="td-heading-self-link" href="#%e7%be%8e%e6%9c%af%e8%ae%be%e8%ae%a1%e5%b8%88" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>设备&lt;/th>
- &lt;th>品牌型号/数量&lt;/th>
- &lt;th>价格≈&lt;/th>
- &lt;th>配置要求&lt;/th>
- &lt;th>备注&lt;/th>
- &lt;th>使用者&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>电脑Mac, 1台&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>显示器&lt;/td>
- &lt;td>横屏、竖屏各1台&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>网络拓扑、路由器交换机等设备的供应商?&lt;/td>
+ &lt;td>建议采用思科的网络方案&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;hr>
-&lt;h2 id="影像编导">影像编导&lt;a class="td-heading-self-link" href="#%e5%bd%b1%e5%83%8f%e7%bc%96%e5%af%bc" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>设备&lt;/th>
- &lt;th>品牌型号/数量&lt;/th>
- &lt;th>价格≈&lt;/th>
- &lt;th>配置要求&lt;/th>
- &lt;th>备注&lt;/th>
- &lt;th>使用者&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>摄影设备&lt;/td>
- &lt;td>摄影机、摄像机、镜头、三脚架、灯光等&lt;/td>
- &lt;td>N/A&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>已经有一台CCTV摄像机（不可用）&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>办公桌&lt;/td>
- &lt;td>可升降式&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>参考黄勇刚方案 &lt;a href="http://blog.sina.com.cn/s/blog_591ac3040102wioj.html">http://blog.sina.com.cn/s/blog_591ac3040102wioj.html&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>电源插排&lt;/td>
- &lt;td>Philip，四套&lt;/td>
- &lt;td>80*4&lt;/td>
- &lt;td>USB+防雷电款 &lt;a href="https://item.jd.com/4940768.html">https://item.jd.com/4940768.html&lt;/a>, &lt;a href="https://item.jd.com/100006050388.html">https://item.jd.com/100006050388.html&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h2 id="秘书助理">秘书助理&lt;a class="td-heading-self-link" href="#%e7%a7%98%e4%b9%a6%e5%8a%a9%e7%90%86" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>设备&lt;/th>
- &lt;th>品牌型号/数量&lt;/th>
- &lt;th>价格≈&lt;/th>
- &lt;th>配置要求&lt;/th>
- &lt;th>备注&lt;/th>
- &lt;th>使用者&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>录音笔&lt;/td>
- &lt;td>搜狗录音笔C1款 &lt;a href="https://detail.tmall.com/item.htm?spm=a220o.1000855.0.da321h.7108f8cdwMeqii&amp;amp;id=611122161413&amp;amp;sku_properties=20105:6630567;5919063:6536025">https://detail.tmall.com/item.htm?spm=a220o.1000855.0.da321h.7108f8cdwMeqii&amp;id=611122161413&amp;sku_properties=20105:6630567;5919063:6536025&lt;/a>&lt;/td>
- &lt;td>400¥&lt;/td>
- &lt;td>背夹式，非常便携，可做一般的录音&lt;/td>
- &lt;td>匡正&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>录音笔&lt;/td>
- &lt;td>Sony索尼录音笔PCM-D100专业高清&lt;/td>
- &lt;td>4000¥&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>录音笔&lt;/td>
- &lt;td>aiworth录音笔 &lt;a href="https://www.amazon.com/-/zh/Digital-Voice-Activated-Recorder-Lectures/dp/B07KBWN8L1/ref=sr_1_4?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&amp;amp;dchild=1&amp;amp;keywords=%E5%BD%95%E9%9F%B3%E7%AC%94&amp;amp;qid=1597319582&amp;amp;sr=8-4">https://www.amazon.com/-/zh/Digital-Voice-Activated-Recorder-Lectures/dp/B07KBWN8L1/ref=sr_1_4?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&amp;dchild=1&amp;keywords=%E5%BD%95%E9%9F%B3%E7%AC%94&amp;qid=1597319582&amp;sr=8-4&lt;/a>&lt;/td>
- &lt;td>40美金&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>语音转换文字软件&lt;/td>
- &lt;td>&lt;a href="https://cloud.google.com/speech-to-text?hl=zh-cn">https://cloud.google.com/speech-to-text?hl=zh-cn&lt;/a>&lt;/td>
- &lt;td>不上网，不传送到云端，防止泄密，隐私保护&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table></description></item><item><title>MegaEase 远程工作团队协作协议 v1.3</title><link>https://coolshell.in/zh-cn/docs/it/megaease-principle/</link><pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/it/megaease-principle/</guid><description>&lt;p>本篇节选自左耳朵耗子博客 - &lt;a href="https://coolshell.cn/articles/20765.html">MegaEase的远程工作文化&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://xen-orchestra.com/#!/xo-home">Linux操作系统 + 管理平台&lt;/a>&lt;/p></description></item><item><title>MegaEase 远程团队工作协议 v1.3</title><link>https://coolshell.in/zh-cn/docs/it/megaease-principle/</link><pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/it/megaease-principle/</guid><description>&lt;p>本篇节选自左耳朵耗子博客 - &lt;a href="https://coolshell.cn/articles/20765.html">MegaEase的远程工作文化&lt;/a>&lt;/p>
 &lt;p>该协议版本将不断升级和优化。。。&lt;/p>
-&lt;h1 id="principles">Principles&lt;a class="td-heading-self-link" href="#principles" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="0ownership--leadership">0）Ownership &amp;amp; Leadership&lt;a class="td-heading-self-link" href="#0ownership--leadership" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h1 id="原则">原则&lt;a class="td-heading-self-link" href="#%e5%8e%9f%e5%88%99" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="0所有权和领导力">0）所有权和领导力&lt;a class="td-heading-self-link" href="#0%e6%89%80%e6%9c%89%e6%9d%83%e5%92%8c%e9%a2%86%e5%af%bc%e5%8a%9b" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>每个人都是Owner，都是Leader， 如果看到团队或是项目有问题的时候，不要等，也不忍，请马上说出来，并给出相应的方案， 自己跳出来召集开会，及时调整。不要闷在那里，自己憋！&lt;/p>
-&lt;h2 id="1initiative">1）Initiative&lt;a class="td-heading-self-link" href="#1initiative" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h2 id="1主动性">1）主动性&lt;a class="td-heading-self-link" href="#1%e4%b8%bb%e5%8a%a8%e6%80%a7" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>每人个都必需是主动的，都需要自己发起要做的事，或是自己要认领要做的事，如果发现自己没有事情了， 需要学会主动发现问题，主动找到可以improve的地方，创新来源于此。没有路要学会自己造路！&lt;/p>
-&lt;h2 id="2objectives-oriented">2）Objectives Oriented&lt;a class="td-heading-self-link" href="#2objectives-oriented" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h2 id="2目标导向">2）目标导向&lt;a class="td-heading-self-link" href="#2%e7%9b%ae%e6%a0%87%e5%af%bc%e5%90%91" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>每个人都是产品经理，也都是项目经理，每个人都必需把自己的工作和我们大的目标连接在一起，知道什么是重点，重点的东西就是两件事：一）从用户的角度出发，二）从产品的角度出发。 这意味着我们要随时观察整个产品的样子，而不只是自己这一块东西 。&lt;/p>
-&lt;h2 id="3insists-on-high-standard">3）Insists on High Standard&lt;a class="td-heading-self-link" href="#3insists-on-high-standard" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h2 id="3坚持高标准">3）坚持高标准&lt;a class="td-heading-self-link" href="#3%e5%9d%9a%e6%8c%81%e9%ab%98%e6%a0%87%e5%87%86" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>举法其上，得乎其中，举法其中，得乎其下，举法其下，法不得也。我们要坚持用高的标准要求自己，对于高标准的目标不妥协，但是在实施路径和策略上可以妥协。&lt;/p>
-&lt;h1 id="practices">Practices&lt;a class="td-heading-self-link" href="#practices" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="0online">0）Online&lt;a class="td-heading-self-link" href="#0online" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h1 id="实践">实践&lt;a class="td-heading-self-link" href="#%e5%ae%9e%e8%b7%b5" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="0在线状态">0）在线状态&lt;a class="td-heading-self-link" href="#0%e5%9c%a8%e7%ba%bf%e7%8a%b6%e6%80%81" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>工作的时候必需在线。如果不在线了，需要说一下不在线的时长, 目前我们工作的事宜在通讯工具采用Slack， 如果需要请假的情况，如果不是紧急情况，需要提前一天 在MegaEase的Slack #random 频道中提前说明。如果是紧急情况，也需要提前在random频道中告知大家。&lt;/p>
-&lt;h2 id="1-documentation-driven">1) Documentation Driven&lt;a class="td-heading-self-link" href="#1-documentation-driven" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h2 id="1-文档驱动">1) 文档驱动&lt;a class="td-heading-self-link" href="#1-%e6%96%87%e6%a1%a3%e9%a9%b1%e5%8a%a8" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>面对面交谈、电话语音、微信、Slack虽然是比较实时的反馈工具，但是只有文档是可以把重要信息给结构化的，而且写文档其实是比起前面的方式来说是更为深度的思考，因为会让你自己审视自己的想法。所以，对于一些重要 “功能”、“流程”、“业务逻辑” 、“设计”、“问题”，以及“想法”，最好都以文档化的方式进行。请使用Github的 wiki、project、issue这些工具或是使用Google Doc.&lt;/p>
-&lt;h2 id="2design-review">2）Design Review&lt;a class="td-heading-self-link" href="#2design-review" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h2 id="2设计审查">2）设计审查&lt;a class="td-heading-self-link" href="#2%e8%ae%be%e8%ae%a1%e5%ae%a1%e6%9f%a5" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>对于一些重要的问题或是工作（每个人都能够判断什么是关键问题和工作）， 需要先把自己的想法share出来，而不是先实现 。&lt;/p>
 &lt;p>一个好的 Design 文档需要包括如下项：&lt;/p>
-&lt;pre>&lt;code>Background。交待这个事的背景、需求和要解决问题。
-Objectives。说明这个事的目标和意义。
-Alternative Solutions。 给出多个解决方案，并能够进行 Pros/Cons 对比。
- Reference。方案需要有权威引用支持。
- Data。方案需要有相关数据数据支持。
-Conclusion。结论是什么。
-&lt;/code>&lt;/pre>
-&lt;h2 id="3-simplification--automation">3) Simplification &amp;amp; Automation&lt;a class="td-heading-self-link" href="#3-simplification--automation" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>简化和自动化是软件工程所追求的两大目标，简化不是简陋，简化是对事物一种抽象和归纳能力，其能够提升软件的复用能力和扩展性，自动化是工程能力的重要体现，一方面，远程工作中自动化的能力可以让整个团队更高效地协作，另一方面，自动化是规模化的提条件。所以，我们要无时无刻地思考如何简化和自动化现有的事情。&lt;/p></description></item><item><title>如何借助AI帮我们debug ？</title><link>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</guid><description>&lt;p>列举一个实际案例&lt;/p>
+&lt;ul>
+&lt;li>Background。交待这个事的背景、需求和要解决问题。&lt;/li>
+&lt;li>Objectives。说明这个事的目标和意义。&lt;/li>
+&lt;li>Alternative Solutions。 给出多个解决方案，并能够进行 Pros/Cons 对比。&lt;/li>
+&lt;li>Reference。方案需要有权威引用支持。&lt;/li>
+&lt;li>Data。方案需要有相关数据数据支持。&lt;/li>
+&lt;li>Conclusion。结论是什么。&lt;/li>
+&lt;/ul>
+&lt;h2 id="3-简化与自动化">3) 简化与自动化&lt;a class="td-heading-self-link" href="#3-%e7%ae%80%e5%8c%96%e4%b8%8e%e8%87%aa%e5%8a%a8%e5%8c%96" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>简化和自动化是软件工程所追求的两大目标，简化不是简陋，简化是对事物一种抽象和归纳能力，其能够提升软件的复用能力和扩展性，自动化是工程能力的重要体现，一方面，远程工作中自动化的能力可以让整个团队更高效地协作，另一方面，自动化是规模化的提条件。所以，我们要无时无刻地思考如何简化和自动化现有的事情。&lt;/p></description></item><item><title>如何借助AI debug ？</title><link>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</guid><description>&lt;p>列举一个实际案例&lt;/p>
 &lt;h2 id="网页部署">网页部署&lt;a class="td-heading-self-link" href="#%e7%bd%91%e9%a1%b5%e9%83%a8%e7%bd%b2" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>我们在本地和远程测试，成功部署了github pages&lt;/p>
 &lt;p>仓库地址：https://coolshell-in.github.io/Main/&lt;/p>

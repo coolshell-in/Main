@@ -210,7 +210,7 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">585&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Push the commit or tag
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>A:
-1、进入仓库中settings中的Actions下的General,将Workflow permissions修改为Read and write permissions&lt;/p></description></item><item><title>如何借助AI帮我们debug ？</title><link>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</guid><description>&lt;p>列举一个实际案例&lt;/p>
+1、进入仓库中settings中的Actions下的General,将Workflow permissions修改为Read and write permissions&lt;/p></description></item><item><title>如何借助AI debug ？</title><link>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/zh-cn/docs/hugo/debug-by-ai/</guid><description>&lt;p>列举一个实际案例&lt;/p>
 &lt;h2 id="网页部署">网页部署&lt;a class="td-heading-self-link" href="#%e7%bd%91%e9%a1%b5%e9%83%a8%e7%bd%b2" aria-label="Heading self-link">&lt;/a>&lt;/h2>
 &lt;p>我们在本地和远程测试，成功部署了github pages&lt;/p>
 &lt;p>仓库地址：https://coolshell-in.github.io/Main/&lt;/p>
