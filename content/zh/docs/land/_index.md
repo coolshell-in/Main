@@ -19,13 +19,15 @@ weight: 1
 
 
 ![图：左耳朵耗子来访南德](https://imgur.com/7bHv90W.jpg)
-因为[左耳朵耗子（陈皓）](https://coolshell.cn/haoel)来访南德，所以南德项目相关文件也放到这里来。
+2020.8.2 下午1:30-3:00，[左耳朵耗子（陈皓）](https://coolshell.cn/haoel)来访南德，所以南德项目也和他有关，相关文件也放到这里来。
 
+类似[Megaease](https://megaease.cn/)网络和计算机科技创业者们，掌握的主要是虚拟层面的技术，需要与实体资源型行业结合的应用场景，才会爆发科技的巨大功能和效益。从事实体行业的资源调度和处理政商关系是南德的能力强项，这是南德与科技创业者能够合作的基础，也是我们在南德与耗子访谈的兴趣所在。
+
+此次在南德办公室的访谈记录在博文：[与左耳朵耗子聊远程工作](https://atomx.cc/zh/posts/it/talk-about-remote-work-with-megaease-founder/)
 
 # 新闻线索
 
-## 负面
-很多
+## 负面 - 很多
 
 [新浪专题：武汉公审牟其中，数十篇 1999-11-01,2000-09-15](http://news.sina.com.cn/china/mou/index.shtml)
 [备份](https://web.archive.org/web/20010801000000*/http://news.sina.com.cn/china/mou/index.shtml)
@@ -40,9 +42,7 @@ weight: 1
 [备份](https://web.archive.org/web/20160901000000*/https://zh.wikipedia.org/wiki/%E7%89%9F%E5%85%B6%E4%B8%AD)
 
 
-## 正面
-
-很少
+## 正面 - 很少
 
 持续更新 。。。
 
