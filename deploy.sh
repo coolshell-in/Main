@@ -12,6 +12,3 @@ git commit -m "Update content" || true
 git push origin "$CURRENT_BRANCH"
 
 echo "Deployment complete!"
-
-# test local webpage
-# hugo serve -D
