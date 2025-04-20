@@ -1,7 +1,7 @@
 ---
 title: 关于我们
 linkTitle: 关于
-menu: {main: {weight: 10}}
+menu: {main: {weight: 1}}
 ---
 
 {{% blocks/cover title="关于“酷壳众创”" image_anchor="bottom" height="auto" %}}

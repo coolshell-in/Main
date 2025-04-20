@@ -1,6 +1,6 @@
 ---
 title: 项目
-menu: {main: {weight: 30}}
+menu: {main: {weight: 3}}
 cascade:
     type: docs
 ---

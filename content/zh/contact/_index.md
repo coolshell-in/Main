@@ -1,6 +1,7 @@
 ---
 title: 联系
-menu: {main: {weight: 40}}
+linkTitle: 联系
+menu: {main: {weight: 5}}
 type: community
 ---
 

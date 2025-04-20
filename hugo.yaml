@@ -4,7 +4,7 @@ title: Coolshell.in
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
-defaultContentLanguage: en
+defaultContentLanguage: zh-cn
 defaultContentLanguageInSubdir: false
 # Useful when translating.
 enableMissingTranslationPlaceholders: true
@@ -15,7 +15,7 @@ enableRobotsTXT: true
 enableGitInfo: true
 
 # Comment out to enable taxonomies in Docsy
-# disableKinds: [taxonomy, taxonomyTerm]
+disableKinds: [taxonomyTerm]
 
 # You can add your own taxonomies
 taxonomies:
@@ -44,24 +44,27 @@ imaging:
 
 # Language configuration
 languages:
-  en:
-    languageName: English
-    contentDir: content/en
-    title: Coolshell
-    params:
-      description: Crowd Source
+  #en:
+    # languageName: English
+    # contentDir: content/en
+    # title: Coolshell
+    # params:
+    #   description: Crowd Source
 
   zh-cn:
     languageName: 中文简体
     contentDir: content/zh
     title: 酷壳众创
+    menu:
+        main:
+          - name: 博客
+            weight: 4
+            url:  "https://blog.coolshell.in"
+            external: true 
     params:
       description: 酷壳博客的下一代版本
-    # menu:
-      main:
-        - name: 博客
-          weight: 50
-          url:  "https://blog.coolshell.in"
+      
+      
       taxonomy:
         taxonomyCloudTitle: [标签, 分类, 作者]
         #taxonomyCloud: [标签, 分类]
@@ -71,16 +74,16 @@ languages:
         categories: "分类"
         authors: "作者"
 
-  ru:
-    languageName: Русский
-    contentDir: content/ru
-    title: Coolshell
-    params:
-      description: Источник информации Coolshell
-      time_format_default: 02.01.2006
-      time_format_blog: 02.01.2006
-      taxonomy:
-        taxonomyCloudTitle: [Теги, Категории]
+  #ru:
+    # languageName: Русский
+    # contentDir: content/ru
+    # title: Coolshell
+    # params:
+    #   description: Источник информации Coolshell
+    #   time_format_default: 02.01.2006
+    #   time_format_blog: 02.01.2006
+    #   taxonomy:
+    #     taxonomyCloudTitle: [Теги, Категории]
 markup:
   tableOfContents:
     endLevel: 3
