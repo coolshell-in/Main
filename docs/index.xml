@@ -1,28 +1,159 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Documentation on Coolshell</title><link>https://coolshell.in/docs/</link><description>Recent content in Documentation on Coolshell</description><generator>Hugo</generator><language>en</language><atom:link href="https://coolshell.in/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Overview</title><link>https://coolshell.in/docs/overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/overview/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page that shows you how to use this template site.&lt;/p>
-
-&lt;/div>
-
-&lt;p>The Overview is where your users find out about your project. Depending on the
-size of your docset, you can have a separate overview page (like this one) or
-put your overview contents in the Documentation landing page (like in the Docsy
-User Guide).&lt;/p>
-&lt;p>Try answering these questions for your user in this page:&lt;/p>
-&lt;h2 id="what-is-it">What is it?&lt;a class="td-heading-self-link" href="#what-is-it" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Introduce your project, including what it does or lets you do, why you would use
-it, and its primary goal (and how it achieves it). This should be similar to
-your README description, though you can go into a little more detail here if you
-want.&lt;/p></description></item><item><title>Examples</title><link>https://coolshell.in/docs/examples/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/examples/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page that shows you how to use this template site.&lt;/p>
-
-&lt;/div>
-
-&lt;p>Do you have any example &lt;strong>applications&lt;/strong> or &lt;strong>code&lt;/strong> for your users in your repo
-or elsewhere? Link to your examples here.&lt;/p></description></item><item><title>Concepts</title><link>https://coolshell.in/docs/concepts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/concepts/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>This is a placeholder page that shows you how to use this template site.&lt;/p>
-
-&lt;/div>
-
-&lt;p>For many projects, users may not need much information beyond the information in the &lt;a href="https://coolshell.in/docs/overview/">Overview&lt;/a>, so this section is &lt;strong>optional&lt;/strong>. However if there are areas where your users will need a more detailed understanding of a given term or feature in order to do anything useful with your project (or to not make mistakes when using it) put that information in this section. For example, you may want to add some conceptual pages if you have a large project with many components and a complex architecture.&lt;/p></description></item><item><title>Contribution Guidelines</title><link>https://coolshell.in/docs/contribution-guidelines/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/contribution-guidelines/</guid><description>&lt;div class="pageinfo pageinfo-primary">
-&lt;p>These basic sample guidelines assume that your Docsy site is deployed using Netlify and your files are stored in GitHub. You can use the guidelines &amp;ldquo;as is&amp;rdquo; or adapt them with your own instructions: for example, other deployment options, information about your doc project&amp;rsquo;s file structure, project-specific review guidelines, versioning guidelines, or any other information your users might find useful when updating your site. &lt;a href="https://github.com/kubeflow/website/blob/master/README.md">Kubeflow&lt;/a> has a great example.&lt;/p>
-&lt;p>Don&amp;rsquo;t forget to link to your own doc repo rather than our example site! Also make sure users can find these guidelines from your doc repo README: either add them there and link to them from this page, add them here and link to them from the README, or include them in both locations.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>项目文档 on 酷壳众创</title><link>https://coolshell.in/docs/</link><description>Recent content in 项目文档 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://coolshell.in/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>文件存储与共享设施搭建方案</title><link>https://coolshell.in/docs/it/nas/</link><pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/it/nas/</guid><description>&lt;p>可选方案&lt;/p>
+&lt;h1 id="方案一-本地搭建黑群晖-nashttpswwwsynologycom">方案一： 本地搭建&lt;a href="https://www.synology.com/">黑群晖 NAS&lt;/a>&lt;a class="td-heading-self-link" href="#%e6%96%b9%e6%a1%88%e4%b8%80-%e6%9c%ac%e5%9c%b0%e6%90%ad%e5%bb%ba%e9%bb%91%e7%be%a4%e6%99%96-nashttpswwwsynologycom" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>&lt;a href="https://www.howtogeek.com/346744/how-to-remotely-access-your-synology-nas-using-quickconnect/">How to Remotely Access Your Synology NAS Using QuickConnect&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=4jgEHyx3Kp0">How to improve your video editing with Synology DS1618+ NAS&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=RGVPeB98zWI">How To Build A 10Gb/s Network/Server&lt;/a>&lt;/p>
+&lt;h1 id="方案二云搭建-nextcloudhttpswwwlinodecommarketplaceappslinodenextcloud">方案二：云搭建 &lt;a href="https://www.linode.com/marketplace/apps/linode/nextcloud/">Nextcloud&lt;/a>&lt;a class="td-heading-self-link" href="#%e6%96%b9%e6%a1%88%e4%ba%8c%e4%ba%91%e6%90%ad%e5%bb%ba-nextcloudhttpswwwlinodecommarketplaceappslinodenextcloud" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>&lt;a href="https://www.linode.com/docs/platform/one-click/how-to-deploy-nextcloud-with-one-click-apps/">Deploy Nextcloud through the Linode Marketplace&lt;/a>&lt;/p>
+&lt;p>eg. &lt;a href="http://snowy-summer-bqvz1h97wc.ploi.link/">测试账号&lt;/a>&lt;/p>
+&lt;h1 id="方案三企业级服务器系统-san">方案三：企业级服务器系统 SAN&lt;a class="td-heading-self-link" href="#%e6%96%b9%e6%a1%88%e4%b8%89%e4%bc%81%e4%b8%9a%e7%ba%a7%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%b3%bb%e7%bb%9f-san" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>计划&lt;/p>
+&lt;p>采用轻资产、低运维费用的方案一+方案二 （NAS + 云服务器），按需扩展。实现需求：&lt;/p>
+&lt;ul>
+&lt;li>主要的需求是内部文件存储，备份，共享&lt;/li>
+&lt;li>传媒教育团队的云协作。&lt;/li>
+&lt;li>内部加密交流。&lt;/li>
+&lt;/ul>
+&lt;h1 id="采购方案">采购方案&lt;a class="td-heading-self-link" href="#%e9%87%87%e8%b4%ad%e6%96%b9%e6%a1%88" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>硬件总预算 1.4～1.8W ¥&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>网件 R7000 AC1900M 双频 （带 USB 3.0 端口，建 NAS 局域网），800 ¥&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.amazon.com/gp/product/B07CR8RZYY/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;amp;tag=saradiet0d-20&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=B07CR8RZYY&amp;amp;linkId=e0b59bc0eb55bb971fc15060bb75e841">NAS, 6～8 Raid&lt;/a>，6000～7000 ¥&lt;/p></description></item><item><title>呼叫中心Call center</title><link>https://coolshell.in/docs/it/call-center/</link><pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/it/call-center/</guid><description>&lt;h2 id="语音机器人工作语言">语音机器人工作语言&lt;a class="td-heading-self-link" href="#%e8%af%ad%e9%9f%b3%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%b7%a5%e4%bd%9c%e8%af%ad%e8%a8%80" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>你好，请问什么事？找谁？&lt;/p>
+&lt;p>访客类型：&lt;/p>
+&lt;ol>
+&lt;li>项目合作；&lt;/li>
+&lt;li>媒体采访；&lt;/li>
+&lt;li>工作求职；&lt;/li>
+&lt;li>其他咨询&lt;/li>
+&lt;/ol>
+&lt;p>请在必应或百度搜索“公司名”，第一页能找到我们的网站，网址拼音 chzion.land，上面有全部相关业务部门的联系方式，可以找对应的邮箱、电话等联系方式，我们收到信息会酌情回复。&lt;/p></description></item><item><title>IT设备清单及采购成本</title><link>https://coolshell.in/docs/it/equip/</link><pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/it/equip/</guid><description>&lt;p>Tips：项目需要的各种设备、软硬件、及采购的成本等&lt;/p>
+&lt;h2 id="开发工程师">开发工程师&lt;a class="td-heading-self-link" href="#%e5%bc%80%e5%8f%91%e5%b7%a5%e7%a8%8b%e5%b8%88" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>设备&lt;/th>
+ &lt;th>品牌型号/数量&lt;/th>
+ &lt;th>价格≈&lt;/th>
+ &lt;th>配置要求&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;th>使用者&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>计算机设备&lt;/td>
+ &lt;td>电脑Mac, 1台&lt;/td>
+ &lt;td>1.5W（二手7000～1W）&lt;/td>
+ &lt;td>MacBook Pro [i7, 16-Inch, 16GB RAM, 512GB Storage]置&lt;/td>
+ &lt;td>开发环境配&lt;/td>
+ &lt;td>Sheldon&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>电脑Linux, 1台&lt;/td>
+ &lt;td>8500（二手4000～5000）&lt;/td>
+ &lt;td>Acer [10th Gen Intel Core i7-1065G7, 16GB LPDDR4X, 1TB NVMe]SSD&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>横屏、竖屏显示器各1台+可升降支架&lt;/td>
+ &lt;td>800×3（二手）&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>开发用双屏幕及其支架&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>MacBook Pro &lt;a href="https://www.amazon.com/Apple-MacBook-16-Inch-512GB-Storage/dp/B081FZV45H/ref=sr_1_1?dchild=1&amp;amp;keywords=Macbook&amp;amp;qid=1594898355&amp;amp;sr=8-1&amp;amp;th=1">i7, 16-Inch, 16GB RAM, 512GB Storage&lt;/a>&lt;/p>
+&lt;p>Acer &lt;a href="https://www.amazon.com/dp/B087792YYP/ref=cm_sw_em_r_mt_dp_U_ZkVeFb9SHTYQR">10th Gen Intel Core i7-1065G7, 16GB LPDDR4X, 1TB NVMe&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="网络运维工程师">网络/运维工程师&lt;a class="td-heading-self-link" href="#%e7%bd%91%e7%bb%9c%e8%bf%90%e7%bb%b4%e5%b7%a5%e7%a8%8b%e5%b8%88" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>设备&lt;/th>
+ &lt;th>品牌型号/数量&lt;/th>
+ &lt;th>价格≈&lt;/th>
+ &lt;th>配置要求&lt;/th>
+ &lt;th>备注&lt;/th>
+ &lt;th>使用者&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>服务器&lt;/td>
+ &lt;td>NAS&lt;/td>
+ &lt;td>1W（二手）&lt;/td>
+ &lt;td>Linux操作系统 + 管理平台&lt;/td>
+ &lt;td>搭建 NextCloud 私有云存储服务器，和云方案二选一, 对于公司网络系统的运维有要求&lt;/td>
+ &lt;td>Atom&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>云服务器&lt;/td>
+ &lt;td>腾讯云/Linode&lt;/td>
+ &lt;td>腾讯云约1600/年, Linode 约850/年&lt;/td>
+ &lt;td>2GB 内存，1CPU，50GB SSD&lt;/td>
+ &lt;td>搭建 NextCloud 私有云存储服务器，和NAS方案二选一，弹性计费，适合起步阶段的尝试&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>Linode&lt;/td>
+ &lt;td>约850/年&lt;/td>
+ &lt;td>（1GB 内存，1CPU，20GB SSD）*2&lt;/td>
+ &lt;td>VPN&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>Linode&lt;/td>
+ &lt;td>约850/年&lt;/td>
+ &lt;td>2GB 内存，1CPU，50GB SSD&lt;/td>
+ &lt;td>测试环境&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>网络设备&lt;/td>
+ &lt;td>当前的ISP和套餐、办公室网速实测等?&lt;/td>
+ &lt;td>N/A&lt;/td>
+ &lt;td>网络拓扑、路由器交换机等设备的供应商?&lt;/td>
+ &lt;td>建议采用思科的网络方案&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;a href="https://xen-orchestra.com/#!/xo-home">Linux操作系统 + 管理平台&lt;/a>&lt;/p></description></item><item><title>MegaEase 远程团队工作协议 v1.3</title><link>https://coolshell.in/docs/it/megaease-principle/</link><pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/it/megaease-principle/</guid><description>&lt;p>本篇节选自左耳朵耗子博客 - &lt;a href="https://coolshell.cn/articles/20765.html">MegaEase的远程工作文化&lt;/a>&lt;/p>
+&lt;p>该协议版本将不断升级和优化。。。&lt;/p>
+&lt;h1 id="原则">原则&lt;a class="td-heading-self-link" href="#%e5%8e%9f%e5%88%99" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="0所有权和领导力">0）所有权和领导力&lt;a class="td-heading-self-link" href="#0%e6%89%80%e6%9c%89%e6%9d%83%e5%92%8c%e9%a2%86%e5%af%bc%e5%8a%9b" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>每个人都是Owner，都是Leader， 如果看到团队或是项目有问题的时候，不要等，也不忍，请马上说出来，并给出相应的方案， 自己跳出来召集开会，及时调整。不要闷在那里，自己憋！&lt;/p>
+&lt;h2 id="1主动性">1）主动性&lt;a class="td-heading-self-link" href="#1%e4%b8%bb%e5%8a%a8%e6%80%a7" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>每人个都必需是主动的，都需要自己发起要做的事，或是自己要认领要做的事，如果发现自己没有事情了， 需要学会主动发现问题，主动找到可以improve的地方，创新来源于此。没有路要学会自己造路！&lt;/p>
+&lt;h2 id="2目标导向">2）目标导向&lt;a class="td-heading-self-link" href="#2%e7%9b%ae%e6%a0%87%e5%af%bc%e5%90%91" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>每个人都是产品经理，也都是项目经理，每个人都必需把自己的工作和我们大的目标连接在一起，知道什么是重点，重点的东西就是两件事：一）从用户的角度出发，二）从产品的角度出发。 这意味着我们要随时观察整个产品的样子，而不只是自己这一块东西 。&lt;/p>
+&lt;h2 id="3坚持高标准">3）坚持高标准&lt;a class="td-heading-self-link" href="#3%e5%9d%9a%e6%8c%81%e9%ab%98%e6%a0%87%e5%87%86" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>举法其上，得乎其中，举法其中，得乎其下，举法其下，法不得也。我们要坚持用高的标准要求自己，对于高标准的目标不妥协，但是在实施路径和策略上可以妥协。&lt;/p>
+&lt;h1 id="实践">实践&lt;a class="td-heading-self-link" href="#%e5%ae%9e%e8%b7%b5" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="0在线状态">0）在线状态&lt;a class="td-heading-self-link" href="#0%e5%9c%a8%e7%ba%bf%e7%8a%b6%e6%80%81" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>工作的时候必需在线。如果不在线了，需要说一下不在线的时长, 目前我们工作的事宜在通讯工具采用Slack， 如果需要请假的情况，如果不是紧急情况，需要提前一天 在MegaEase的Slack #random 频道中提前说明。如果是紧急情况，也需要提前在random频道中告知大家。&lt;/p>
+&lt;h2 id="1-文档驱动">1) 文档驱动&lt;a class="td-heading-self-link" href="#1-%e6%96%87%e6%a1%a3%e9%a9%b1%e5%8a%a8" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>面对面交谈、电话语音、微信、Slack虽然是比较实时的反馈工具，但是只有文档是可以把重要信息给结构化的，而且写文档其实是比起前面的方式来说是更为深度的思考，因为会让你自己审视自己的想法。所以，对于一些重要 “功能”、“流程”、“业务逻辑” 、“设计”、“问题”，以及“想法”，最好都以文档化的方式进行。请使用Github的 wiki、project、issue这些工具或是使用Google Doc.&lt;/p>
+&lt;h2 id="2设计审查">2）设计审查&lt;a class="td-heading-self-link" href="#2%e8%ae%be%e8%ae%a1%e5%ae%a1%e6%9f%a5" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>对于一些重要的问题或是工作（每个人都能够判断什么是关键问题和工作）， 需要先把自己的想法share出来，而不是先实现 。&lt;/p>
+&lt;p>一个好的 Design 文档需要包括如下项：&lt;/p>
+&lt;ul>
+&lt;li>Background。交待这个事的背景、需求和要解决问题。&lt;/li>
+&lt;li>Objectives。说明这个事的目标和意义。&lt;/li>
+&lt;li>Alternative Solutions。 给出多个解决方案，并能够进行 Pros/Cons 对比。&lt;/li>
+&lt;li>Reference。方案需要有权威引用支持。&lt;/li>
+&lt;li>Data。方案需要有相关数据数据支持。&lt;/li>
+&lt;li>Conclusion。结论是什么。&lt;/li>
+&lt;/ul>
+&lt;h2 id="3-简化与自动化">3) 简化与自动化&lt;a class="td-heading-self-link" href="#3-%e7%ae%80%e5%8c%96%e4%b8%8e%e8%87%aa%e5%8a%a8%e5%8c%96" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>简化和自动化是软件工程所追求的两大目标，简化不是简陋，简化是对事物一种抽象和归纳能力，其能够提升软件的复用能力和扩展性，自动化是工程能力的重要体现，一方面，远程工作中自动化的能力可以让整个团队更高效地协作，另一方面，自动化是规模化的提条件。所以，我们要无时无刻地思考如何简化和自动化现有的事情。&lt;/p></description></item></channel></rss>
