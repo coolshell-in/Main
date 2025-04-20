@@ -45,13 +45,13 @@ AI将解放人类的创造力</br></br>
 {{% blocks/feature icon="fa-lightbulb" title="愿景" %}}</br>
 用科技履行社会责任</br></br>
 以创新赋能人类福祉</br></br>
-做数字文明时代灯塔
+造数字文明时代灯塔
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-bullseye" title="使命" %}}</br>
-用熵减算法优化世界</br></br>
-以拓扑思维连接鸿沟</br></br>
-让量子跃迁普惠众生
+熵减算法优化世界</br></br>
+拓扑思维连接鸿沟</br></br>
+量子跃迁普惠众生
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-heart-circle-check" title="价值观" %}}</br>
