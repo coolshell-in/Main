@@ -1,6 +1,6 @@
 ---
 title: 新疆投资
-weight: 3
+weight: 5
 ---
 
 

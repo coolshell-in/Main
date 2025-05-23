@@ -3,6 +3,7 @@ title: 项目
 menu: {main: {weight: 3}}
 cascade:
     type: docs
+    no_list: true
 ---
 
 发布系列文档，持续更新 ……

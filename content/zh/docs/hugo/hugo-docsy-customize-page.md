@@ -17,6 +17,36 @@ weight: 3
 - 默认主页 http://localhost:1313/zh-cn/
 - 简介 http://localhost:1313/zh-cn/about/
 
+# 如何去除默认首页下方的文章列表
+
+1. 在 _index.md 文件中添加 no_list: true 参数：
+
+```md
+---
+title: 项目
+menu: {main: {weight: 3}}
+cascade:
+    type: docs
+no_list: true
+---
+```
+当前默认首页面将实现去除文章列表的效果。
+
+2. 给当前默认首页面，以及子菜单的首页面都实现去除文章列表的效果。
+
+```md
+---
+title: 项目
+menu: {main: {weight: 3}}
+cascade:
+    type: docs
+    no_list: true
+---
+```
+这样修改后， no_list: true 设置将通过 cascade 机制传递到所有子菜单页面。
+
+
+
 # 基于Docsy主题的自定义页面的方法
 
 基于主题源文件包docsy@v0.11.0，你可以完全自定义基于Docsy 主题的外观和功能，以下是重点需要修改的关键文件：
