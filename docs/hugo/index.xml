@@ -38,6 +38,29 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;li>默认主页 http://localhost:1313/zh-cn/&lt;/li>
 &lt;li>简介 http://localhost:1313/zh-cn/about/&lt;/li>
 &lt;/ul>
+&lt;h1 id="如何去除默认首页下方的文章列表">如何去除默认首页下方的文章列表&lt;a class="td-heading-self-link" href="#%e5%a6%82%e4%bd%95%e5%8e%bb%e9%99%a4%e9%bb%98%e8%ae%a4%e9%a6%96%e9%a1%b5%e4%b8%8b%e6%96%b9%e7%9a%84%e6%96%87%e7%ab%a0%e5%88%97%e8%a1%a8" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;ol>
+&lt;li>在 _index.md 文件中添加 no_list: true 参数：&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-md" data-lang="md">&lt;span style="display:flex;">&lt;span>---
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>title: 项目
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>menu: {main: {weight: 3}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cascade:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> type: docs
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>no_list: true
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>---
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>当前默认首页面将实现去除文章列表的效果。&lt;/p>
+&lt;ol start="2">
+&lt;li>给当前默认首页面，以及子菜单的首页面都实现去除文章列表的效果。&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-md" data-lang="md">&lt;span style="display:flex;">&lt;span>---
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>title: 项目
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>menu: {main: {weight: 3}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cascade:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> type: docs
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> no_list: true
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>---
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>这样修改后， no_list: true 设置将通过 cascade 机制传递到所有子菜单页面。&lt;/p>
 &lt;h1 id="基于docsy主题的自定义页面的方法">基于Docsy主题的自定义页面的方法&lt;a class="td-heading-self-link" href="#%e5%9f%ba%e4%ba%8edocsy%e4%b8%bb%e9%a2%98%e7%9a%84%e8%87%aa%e5%ae%9a%e4%b9%89%e9%a1%b5%e9%9d%a2%e7%9a%84%e6%96%b9%e6%b3%95" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>基于主题源文件包docsy@v0.11.0，你可以完全自定义基于Docsy 主题的外观和功能，以下是重点需要修改的关键文件：&lt;/p>
 &lt;h2 id="布局自定义文件">布局自定义文件&lt;a class="td-heading-self-link" href="#%e5%b8%83%e5%b1%80%e8%87%aa%e5%ae%9a%e4%b9%89%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h2>
@@ -54,38 +77,7 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;/ul>
 &lt;ol start="2">
 &lt;li>
-&lt;p>layouts/_default/ - 默认布局模板&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>layouts/shortcodes/ - 自定义shortcodes，用于在 Markdown 中嵌入复杂功能&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>layouts/home.html - 首页布局&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>layouts/docs/ - 文档页面布局&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>layouts/blog/ - 博客页面布局&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>layouts/community/ - 社区页面布局&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;h2 id="样式自定义文件">样式自定义文件&lt;a class="td-heading-self-link" href="#%e6%a0%b7%e5%bc%8f%e8%87%aa%e5%ae%9a%e4%b9%89%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;ol>
-&lt;li>assets/scss/ - SCSS 样式文件：&lt;/li>
-&lt;/ol>
-&lt;ul>
-&lt;li>_variables_project.scss - 项目特定变量，用于覆盖默认主题变量&lt;/li>
-&lt;li>_styles_project.scss - 项目特定样式&lt;/li>
-&lt;li>main.scss - 主样式文件&lt;/li>
-&lt;li>blocks/ - 块级组件样式&lt;/li>
-&lt;li>shortcodes/ - shortcodes 样式&lt;/li>
-&lt;li>section-index.scss - 章节索引页样式&lt;/li>
-&lt;/ul>
-&lt;h1 id="最重要的自定义文件">最重要的自定义文件&lt;a class="td-heading-self-link" href="#%e6%9c%80%e9%87%8d%e8%a6%81%e7%9a%84%e8%87%aa%e5%ae%9a%e4%b9%89%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>如果你想自定义页面，应该重点关注：&lt;/p></description></item><item><title>网页设计和图库</title><link>https://coolshell.in/docs/hugo/landing-pages-design/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/hugo/landing-pages-design/</guid><description>&lt;p>&lt;a href="https://www.optimizepress.com/21-landing-page-examples-from-top-tech-companies/">21 Landing Page Examples From Top Tech Companies&lt;/a>&lt;/p>
+&lt;p>layouts/_default/ - 默认布局模板&lt;/p></description></item><item><title>网页设计和图库</title><link>https://coolshell.in/docs/hugo/landing-pages-design/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/hugo/landing-pages-design/</guid><description>&lt;p>&lt;a href="https://www.optimizepress.com/21-landing-page-examples-from-top-tech-companies/">21 Landing Page Examples From Top Tech Companies&lt;/a>&lt;/p>
 &lt;h1 id="landing-pages-template">landing pages template&lt;a class="td-heading-self-link" href="#landing-pages-template" aria-label="Heading self-link">&lt;/a>&lt;/h1>
 &lt;p>&lt;a href="https://www.landingfolio.com/inspiration/landing-page/technology/">Landing Page Design&lt;/a>&lt;/p>
 &lt;p>最简洁原则 &lt;a href="https://www.landingfolio.com/library/all/tailwind?id=61b555829264fc4a988a211d">https://www.landingfolio.com/library/all/tailwind?id=61b555829264fc4a988a211d&lt;/a>&lt;/p>
