@@ -2,8 +2,12 @@
 &lt;p>&lt;a href="https://scp3125.github.io/hugo-docsy/zh-cn/">测试网页&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://github.com/scp3125/hugo-docsy">测试库&lt;/a>&lt;/p>
 &lt;p>作为新手，如何配置或修改主题？如何排除错误，遇到的一些问题，列举如下，已经回复的答案前加了一个“&lt;strong>A:&lt;/strong>”。&lt;/p>
-&lt;h1 id="tagcategory-翻译">tag，category 翻译&lt;a class="td-heading-self-link" href="#tagcategory-%e7%bf%bb%e8%af%91" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>./18n/中，将各种语言版本中的文件增加翻译，例如zh-cn.toml&lt;/p>
+&lt;h1 id="tagcategory-翻译">
+ tag，category 翻译
+ &lt;a class="td-heading-self-link" href="#tagcategory-%e7%bf%bb%e8%af%91">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;p>./18n/中，将各种语言版本中的文件增加翻译，例如zh-cn.toml&lt;/p>
 &lt;p>[tags]
 other = &amp;ldquo;标签云&amp;rdquo;
 [categories]
@@ -26,20 +30,32 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> params:
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> taxonomy:
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> taxonomyCloudTitle: &lt;span style="color:#ce5c00;font-weight:bold">[&lt;/span>标签, 分类&lt;span style="color:#ce5c00;font-weight:bold">]&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="静态页面文件同步">静态页面文件同步&lt;a class="td-heading-self-link" href="#%e9%9d%99%e6%80%81%e9%a1%b5%e9%9d%a2%e6%96%87%e4%bb%b6%e5%90%8c%e6%ad%a5" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>每次更新content文章，public目录中生成了新的静态页面，需要将新的静态页面文件同步到gh-pages分支。&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="静态页面文件同步">
+ 静态页面文件同步
+ &lt;a class="td-heading-self-link" href="#%e9%9d%99%e6%80%81%e9%a1%b5%e9%9d%a2%e6%96%87%e4%bb%b6%e5%90%8c%e6%ad%a5">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;p>每次更新content文章，public目录中生成了新的静态页面，需要将新的静态页面文件同步到gh-pages分支。&lt;/p>
 &lt;p>通过bash脚本同步？还是别的什么方案？&lt;/p>
 &lt;p>A：提交代码就自动同步了，有github action执行生成静态页面的操作，然后部署。&lt;/p>
-&lt;h1 id="i18n">[i18n]&lt;a class="td-heading-self-link" href="#i18n" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>在每篇文档或博客文章的下方，都有这样的尾巴，请问如何将其去除？是否有保留的必要？&lt;/p>
+&lt;h1 id="i18n">
+ [i18n]
+ &lt;a class="td-heading-self-link" href="#i18n">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;p>在每篇文档或博客文章的下方，都有这样的尾巴，请问如何将其去除？是否有保留的必要？&lt;/p>
 &lt;p>[i18n] feedback_title&lt;/p></description></item><item><title>Hugo-Docsy自定义页面</title><link>https://coolshell.in/docs/hugo/hugo-docsy-customize-page/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/hugo/hugo-docsy-customize-page/</guid><description>&lt;p>我们在本地测试，想修改lading page 例如：&lt;/p>
 &lt;ul>
 &lt;li>联系方式 http://localhost:1313/zh-cn/contact/&lt;/li>
 &lt;li>默认主页 http://localhost:1313/zh-cn/&lt;/li>
 &lt;li>简介 http://localhost:1313/zh-cn/about/&lt;/li>
 &lt;/ul>
-&lt;h1 id="如何去除默认首页下方的文章列表">如何去除默认首页下方的文章列表&lt;a class="td-heading-self-link" href="#%e5%a6%82%e4%bd%95%e5%8e%bb%e9%99%a4%e9%bb%98%e8%ae%a4%e9%a6%96%e9%a1%b5%e4%b8%8b%e6%96%b9%e7%9a%84%e6%96%87%e7%ab%a0%e5%88%97%e8%a1%a8" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;ol>
+&lt;h1 id="如何去除默认首页下方的文章列表">
+ 如何去除默认首页下方的文章列表
+ &lt;a class="td-heading-self-link" href="#%e5%a6%82%e4%bd%95%e5%8e%bb%e9%99%a4%e9%bb%98%e8%ae%a4%e9%a6%96%e9%a1%b5%e4%b8%8b%e6%96%b9%e7%9a%84%e6%96%87%e7%ab%a0%e5%88%97%e8%a1%a8">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;ol>
 &lt;li>在 _index.md 文件中添加 no_list: true 参数：&lt;/li>
 &lt;/ol>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-md" data-lang="md">&lt;span style="display:flex;">&lt;span>---
@@ -61,10 +77,18 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> no_list: true
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>---
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>这样修改后， no_list: true 设置将通过 cascade 机制传递到所有子菜单页面。&lt;/p>
-&lt;h1 id="基于docsy主题的自定义页面的方法">基于Docsy主题的自定义页面的方法&lt;a class="td-heading-self-link" href="#%e5%9f%ba%e4%ba%8edocsy%e4%b8%bb%e9%a2%98%e7%9a%84%e8%87%aa%e5%ae%9a%e4%b9%89%e9%a1%b5%e9%9d%a2%e7%9a%84%e6%96%b9%e6%b3%95" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>基于主题源文件包docsy@v0.11.0，你可以完全自定义基于Docsy 主题的外观和功能，以下是重点需要修改的关键文件：&lt;/p>
-&lt;h2 id="布局自定义文件">布局自定义文件&lt;a class="td-heading-self-link" href="#%e5%b8%83%e5%b1%80%e8%87%aa%e5%ae%9a%e4%b9%89%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;ol>
+&lt;h1 id="基于docsy主题的自定义页面的方法">
+ 基于Docsy主题的自定义页面的方法
+ &lt;a class="td-heading-self-link" href="#%e5%9f%ba%e4%ba%8edocsy%e4%b8%bb%e9%a2%98%e7%9a%84%e8%87%aa%e5%ae%9a%e4%b9%89%e9%a1%b5%e9%9d%a2%e7%9a%84%e6%96%b9%e6%b3%95">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;p>基于主题源文件包docsy@v0.11.0，你可以完全自定义基于Docsy 主题的外观和功能，以下是重点需要修改的关键文件：&lt;/p>
+&lt;h2 id="布局自定义文件">
+ 布局自定义文件
+ &lt;a class="td-heading-self-link" href="#%e5%b8%83%e5%b1%80%e8%87%aa%e5%ae%9a%e4%b9%89%e6%96%87%e4%bb%b6">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h2>&lt;ol>
 &lt;li>layouts/partials/ - 包含可重用的页面组件：&lt;/li>
 &lt;/ol>
 &lt;ul>
@@ -78,13 +102,21 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;ol start="2">
 &lt;li>
 &lt;p>layouts/_default/ - 默认布局模板&lt;/p></description></item><item><title>网页设计和图库</title><link>https://coolshell.in/docs/hugo/landing-pages-design/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/hugo/landing-pages-design/</guid><description>&lt;p>&lt;a href="https://www.optimizepress.com/21-landing-page-examples-from-top-tech-companies/">21 Landing Page Examples From Top Tech Companies&lt;/a>&lt;/p>
-&lt;h1 id="landing-pages-template">landing pages template&lt;a class="td-heading-self-link" href="#landing-pages-template" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>&lt;a href="https://www.landingfolio.com/inspiration/landing-page/technology/">Landing Page Design&lt;/a>&lt;/p>
+&lt;h1 id="landing-pages-template">
+ landing pages template
+ &lt;a class="td-heading-self-link" href="#landing-pages-template">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;p>&lt;a href="https://www.landingfolio.com/inspiration/landing-page/technology/">Landing Page Design&lt;/a>&lt;/p>
 &lt;p>最简洁原则 &lt;a href="https://www.landingfolio.com/library/all/tailwind?id=61b555829264fc4a988a211d">https://www.landingfolio.com/library/all/tailwind?id=61b555829264fc4a988a211d&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://nicepage.com/c/nature-landing-page">Nice Pages&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.templatemonster.com/">Template monster&lt;/a>&lt;/p>
-&lt;h1 id="photos-library">photos library&lt;a class="td-heading-self-link" href="#photos-library" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>image_url &lt;a href="https://photo.google.com">Google photo&lt;/a>图片链接有几个限制：&lt;/p>
+&lt;h1 id="photos-library">
+ photos library
+ &lt;a class="td-heading-self-link" href="#photos-library">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;p>image_url &lt;a href="https://photo.google.com">Google photo&lt;/a>图片链接有几个限制：&lt;/p>
 &lt;ol>
 &lt;li>Google Photos 的分享链接不是直接的图片 URL，而是一个预览页面&lt;/li>
 &lt;li>这些链接通常有访问限制和过期时间&lt;/li>
@@ -111,8 +143,12 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 1 error&lt;/p>
 &lt;p>deploy&lt;/p>
 &lt;p>Action failed with &amp;ldquo;The process &amp;lsquo;/usr/bin/git&amp;rsquo; failed with exit code 128&amp;rdquo;&lt;/p>
-&lt;h1 id="deploy">Deploy&lt;a class="td-heading-self-link" href="#deploy" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Evaluating condition for step: &amp;#39;Deploy&amp;#39;&lt;/span>
+&lt;h1 id="deploy">
+ Deploy
+ &lt;a class="td-heading-self-link" href="#deploy">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Evaluating condition for step: &amp;#39;Deploy&amp;#39;&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">2&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">##[debug]Evaluating: (success() &amp;amp;&amp;amp; (github.ref == &amp;#39;refs/heads/main&amp;#39;))&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#0000cf;font-weight:bold">3&lt;/span>
@@ -203,14 +239,22 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Push the commit or tag
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>A:
 1、进入仓库中settings中的Actions下的General,将Workflow permissions修改为Read and write permissions&lt;/p></description></item><item><title>如何借助AI debug ？</title><link>https://coolshell.in/docs/hugo/debug-by-ai/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/hugo/debug-by-ai/</guid><description>&lt;p>列举一个实际案例&lt;/p>
-&lt;h2 id="网页部署">网页部署&lt;a class="td-heading-self-link" href="#%e7%bd%91%e9%a1%b5%e9%83%a8%e7%bd%b2" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>我们在本地和远程测试，成功部署了github pages&lt;/p>
+&lt;h2 id="网页部署">
+ 网页部署
+ &lt;a class="td-heading-self-link" href="#%e7%bd%91%e9%a1%b5%e9%83%a8%e7%bd%b2">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h2>&lt;p>我们在本地和远程测试，成功部署了github pages&lt;/p>
 &lt;p>仓库地址：https://coolshell-in.github.io/Main/&lt;/p>
 &lt;p>测试地址：http://localhost:52904/Main/&lt;/p>
 &lt;p>网页看起来一切都正常且完美。&lt;/p>
 &lt;p>正式上线，我们需要配置一个自定义域名 coolshell.in&lt;/p>
-&lt;h2 id="dns和网络链接">DNS和网络链接&lt;a class="td-heading-self-link" href="#dns%e5%92%8c%e7%bd%91%e7%bb%9c%e9%93%be%e6%8e%a5" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>然后，在域名管理平台配置了 DNS，使其指向Github，然后开始系列测试。&lt;/p>
+&lt;h2 id="dns和网络链接">
+ DNS和网络链接
+ &lt;a class="td-heading-self-link" href="#dns%e5%92%8c%e7%bd%91%e7%bb%9c%e9%93%be%e6%8e%a5">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h2>&lt;p>然后，在域名管理平台配置了 DNS，使其指向Github，然后开始系列测试。&lt;/p>
 &lt;ul>
 &lt;li>DNS 查询，以获取与域名 coolshell.in 相关的详细信息。&lt;/li>
 &lt;/ul>
@@ -227,14 +271,22 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;li>使用 &lt;a href="https://www.sslshopper.com/ssl-checker.html">SSL Checker&lt;/a> 检查 SSL 证书状态&lt;/li>
 &lt;li>使用 &lt;a href="https://httpstatus.io/">HTTP Status Code Checker&lt;/a> 检查网站响应&lt;/li>
 &lt;/ul>
-&lt;p>以上三步验证显示，域名访问和网络连接是正常的。&lt;/p></description></item><item><title>Hugo静态页面中图片配置</title><link>https://coolshell.in/docs/hugo/image-configuration-in-hugo/</link><pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/hugo/image-configuration-in-hugo/</guid><description>&lt;h1 id="图片尺寸和比例">图片尺寸和比例&lt;a class="td-heading-self-link" href="#%e5%9b%be%e7%89%87%e5%b0%ba%e5%af%b8%e5%92%8c%e6%af%94%e4%be%8b" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>尺寸 &amp;gt; 2048&lt;/p>
+&lt;p>以上三步验证显示，域名访问和网络连接是正常的。&lt;/p></description></item><item><title>Hugo静态页面中图片配置</title><link>https://coolshell.in/docs/hugo/image-configuration-in-hugo/</link><pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/hugo/image-configuration-in-hugo/</guid><description>&lt;h1 id="图片尺寸和比例">
+ 图片尺寸和比例
+ &lt;a class="td-heading-self-link" href="#%e5%9b%be%e7%89%87%e5%b0%ba%e5%af%b8%e5%92%8c%e6%af%94%e4%be%8b">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;p>尺寸 &amp;gt; 2048&lt;/p>
 &lt;p>比例 = 16:9（1.78:1）宽屏&lt;/p>
 &lt;p>1920 × 1080 像素（Full HD）。&lt;/p>
 &lt;p>3840 × 2160 像素（4K UHD）。&lt;/p>
 &lt;p>适合现代设备和多媒体内容。&lt;/p>
-&lt;h1 id="短代码">短代码&lt;a class="td-heading-self-link" href="#%e7%9f%ad%e4%bb%a3%e7%a0%81" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&lt;style>
+&lt;h1 id="短代码">
+ 短代码
+ &lt;a class="td-heading-self-link" href="#%e7%9f%ad%e4%bb%a3%e7%a0%81">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&lt;style>
  #td-cover-block-0 {
  background-image: url(https://media.istockphoto.com/id/1092610838/de/foto/sie-liebt-f%c3%bcrsorge-f%c3%bcr-die-h%c3%bchner.jpg?s=2048x2048&amp;w=is&amp;k=20&amp;c=s1fbpMqiVJCcRZkdA1ZRtNPNweJiUQ_TZD3CjoopQ6c=);
  }
@@ -257,17 +309,29 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;/section>
 
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如何通过这一小段代码控制图片显示的尺寸或比例？&lt;/p>
-&lt;h1 id="图标文件">图标文件&lt;a class="td-heading-self-link" href="#%e5%9b%be%e6%a0%87%e6%96%87%e4%bb%b6" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>图标不是由单个文件定义的，而是通过以下方式引入：&lt;/p>
+&lt;h1 id="图标文件">
+ 图标文件
+ &lt;a class="td-heading-self-link" href="#%e5%9b%be%e6%a0%87%e6%96%87%e4%bb%b6">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;p>图标不是由单个文件定义的，而是通过以下方式引入：&lt;/p>
 &lt;p>Docsy 主题引入：在 hugo.yaml 文件中，您通过模块导入了 Docsy 主题：&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">module&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">imports&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>- &lt;span style="color:#204a87;font-weight:bold">path&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">github.com/google/docsy&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">disable&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">false&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Font Awesome 库：Docsy 主题会自动引入 Font Awesome 图标库。&lt;/p>
-&lt;h2 id="查找可用图标">查找可用图标&lt;a class="td-heading-self-link" href="#%e6%9f%a5%e6%89%be%e5%8f%af%e7%94%a8%e5%9b%be%e6%a0%87" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>官方文档：访问&lt;a href="https://fontawesome.com/icons/">Font Awesome&lt;/a>网站&lt;/p></description></item><item><title>Hugo Modules 主题安装和管理：以 Docsy 为例</title><link>https://coolshell.in/docs/hugo/hugo-theme-management/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/hugo/hugo-theme-management/</guid><description>&lt;h1 id="hugo主题安装方式">Hugo主题安装方式&lt;a class="td-heading-self-link" href="#hugo%e4%b8%bb%e9%a2%98%e5%ae%89%e8%a3%85%e6%96%b9%e5%bc%8f" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>目前主题的安装方式是怎样的？例如远程主题、或类似Jekyll的gem-based，或还有其他方式。为何在本站根目录中没有发现hugo建站相关的程序文件和theme 主题目录？&lt;/p>
+&lt;h2 id="查找可用图标">
+ 查找可用图标
+ &lt;a class="td-heading-self-link" href="#%e6%9f%a5%e6%89%be%e5%8f%af%e7%94%a8%e5%9b%be%e6%a0%87">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h2>&lt;p>官方文档：访问&lt;a href="https://fontawesome.com/icons/">Font Awesome&lt;/a>网站&lt;/p></description></item><item><title>Hugo Modules 主题安装和管理：以 Docsy 为例</title><link>https://coolshell.in/docs/hugo/hugo-theme-management/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/docs/hugo/hugo-theme-management/</guid><description>&lt;h1 id="hugo主题安装方式">
+ Hugo主题安装方式
+ &lt;a class="td-heading-self-link" href="#hugo%e4%b8%bb%e9%a2%98%e5%ae%89%e8%a3%85%e6%96%b9%e5%bc%8f">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;p>目前主题的安装方式是怎样的？例如远程主题、或类似Jekyll的gem-based，或还有其他方式。为何在本站根目录中没有发现hugo建站相关的程序文件和theme 主题目录？&lt;/p>
 &lt;p>我们寻找Hugo的配置文件的位置，为了查找静态页面所保存的文件目录&lt;code>publishDir=public&lt;/code>的配置，可能有几个文件与该配置相关：&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>config/_default/config.toml
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>config/_default/config.yaml
@@ -278,8 +342,12 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>如果不采用docker方法安装，需要删除docker相关文件吧，包括哪些文件清单？&lt;/p>
 &lt;p>&lt;strong>A&lt;/strong>: 通过Hugo Modules的方式安装的，配置文件就是hugo.yaml，没必要去改静态页面所保存的文件目录,部署是自动的，不需要手动操作，docker文件可以删除，不影响使用。&lt;/p>
 &lt;p>从go.mod 和 hugo.yaml 文件可以看出来，通过 Hugo Modules 引入了 Docsy 主题（版本 v0.11.0）。由于主题文件并未直接放在项目目录中，而是通过模块系统加载，因此无法直接在项目目录中看到 themes/docsy 文件夹。&lt;/p>
-&lt;h1 id="go-module-安装和管理">go module 安装和管理&lt;a class="td-heading-self-link" href="#go-module-%e5%ae%89%e8%a3%85%e5%92%8c%e7%ae%a1%e7%90%86" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>Hugo Modules 使用了 Go 的模块系统来管理主题依赖。从配置文件可以看到:&lt;/p>
+&lt;h1 id="go-module-安装和管理">
+ go module 安装和管理
+ &lt;a class="td-heading-self-link" href="#go-module-%e5%ae%89%e8%a3%85%e5%92%8c%e7%ae%a1%e7%90%86">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h1>&lt;p>Hugo Modules 使用了 Go 的模块系统来管理主题依赖。从配置文件可以看到:&lt;/p>
 &lt;ol>
 &lt;li>hugo.yaml 中声明了主题模块:&lt;/li>
 &lt;/ol>
@@ -292,8 +360,12 @@ other = &amp;ldquo;分类&amp;rdquo;&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000">require&lt;/span> &lt;span style="color:#000">github&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">com&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">/&lt;/span>&lt;span style="color:#000">google&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">/&lt;/span>&lt;span style="color:#000">docsy&lt;/span> &lt;span style="color:#000">v0&lt;/span>&lt;span style="color:#0000cf;font-weight:bold">.11.0&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>go.mod 是用于 Go 编程语言的模块依赖管理文件。它指定了模块的名称和依赖项的版本，确保在构建时使用正确的库版本。&lt;/p>
 &lt;p>请注意，在 Markdown 中的代码块标记里，你应该使用语言代码来高亮代码。对于 &lt;code>go.mod&lt;/code> 文件，使用 &lt;code>go&lt;/code> 作为代码块的标记是适当的。&lt;/p>
-&lt;h2 id="go-module-目录">go module 目录&lt;a class="td-heading-self-link" href="#go-module-%e7%9b%ae%e5%bd%95" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>通过以上方式安装的主题，我们可以找到主题实际被存储的缓存目录，显示 Hugo 存储其缓存（包括模块）的完整路径。&lt;/p>
+&lt;h2 id="go-module-目录">
+ go module 目录
+ &lt;a class="td-heading-self-link" href="#go-module-%e7%9b%ae%e5%bd%95">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h2>&lt;p>通过以上方式安装的主题，我们可以找到主题实际被存储的缓存目录，显示 Hugo 存储其缓存（包括模块）的完整路径。&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>hugo-docsy % hugo config &lt;span style="color:#000;font-weight:bold">|&lt;/span> grep cacheDir
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">dir&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">=&lt;/span> &lt;span style="color:#4e9a06">&amp;#39;:cacheDir/:project&amp;#39;&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">dir&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">=&lt;/span> &lt;span style="color:#4e9a06">&amp;#39;:cacheDir/:project&amp;#39;&lt;/span>

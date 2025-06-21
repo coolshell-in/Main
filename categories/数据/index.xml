@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数据 on 酷壳众创</title><link>https://coolshell.in/categories/%E6%95%B0%E6%8D%AE/</link><description>Recent content in 数据 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sat, 21 Jun 2025 11:12:38 +0200</lastBuildDate><atom:link href="https://coolshell.in/categories/%E6%95%B0%E6%8D%AE/index.xml" rel="self" type="application/rss+xml"/><item><title>农业和初级农产品数据平台</title><link>https://coolshell.in/project/agri/agri-data/</link><pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/project/agri/agri-data/</guid><description>&lt;p>如果需要系统、权威地追踪中国牛肉、羊肉等大宗农产品价格，以下是结合行业实践和公开数据源整理的核心推荐，以数据权威性、时效性和实用性作为评估标准：&lt;/p>
+&lt;hr>
+&lt;h3 id="-首选平台农业农村部全国农产品批发市场价格信息系统">
+ 🏆 &lt;strong>首选平台：农业农村部“全国农产品批发市场价格信息系统”&lt;/strong>
+ &lt;a class="td-heading-self-link" href="#-%e9%a6%96%e9%80%89%e5%b9%b3%e5%8f%b0%e5%86%9c%e4%b8%9a%e5%86%9c%e6%9d%91%e9%83%a8%e5%85%a8%e5%9b%bd%e5%86%9c%e4%ba%a7%e5%93%81%e6%89%b9%e5%8f%91%e5%b8%82%e5%9c%ba%e4%bb%b7%e6%a0%bc%e4%bf%a1%e6%81%af%e7%b3%bb%e7%bb%9f">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h3>&lt;p>&lt;strong>权威性&lt;/strong>：⭐⭐⭐⭐⭐（国家部委直属发布）&lt;br>
+&lt;strong>更新频率&lt;/strong>：每周更新（含周均价、环比/同比变化）&lt;br>
+&lt;strong>数据类型&lt;/strong>：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>批发市场价格&lt;/strong>：牛肉、羊肉、猪肉、禽蛋、蔬菜、水果、水产品等全品类批发价（如2025年第22周牛肉63.29元/公斤、羊肉59.53元/公斤）；&lt;/li>
+&lt;li>&lt;strong>趋势分析&lt;/strong>：连续多周价格波动追踪（如牛肉连续9周累计涨幅10.2%）；&lt;/li>
+&lt;li>&lt;strong>产区价格&lt;/strong>：主产省活畜交易价（如2025年4月活牛26.31元/公斤）；&lt;/li>
+&lt;li>&lt;strong>国际联动数据&lt;/strong>：玉米、大豆等关联大宗商品国际价格。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>访问方式&lt;/strong>：&lt;/p>
+&lt;ul>
+&lt;li>官网入口：&lt;a href="http://www.moa.gov.cn/ztzl/nybrl/">农业农村部市场信息司专栏&lt;/a>&lt;/li>
+&lt;li>路径：农业农村部官网 → “市场信息”或“数据服务” → “批发市场价格行情”&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="-辅助平台按需求场景补充">
+ 📊 &lt;strong>辅助平台（按需求场景补充）&lt;/strong>
+ &lt;a class="td-heading-self-link" href="#-%e8%be%85%e5%8a%a9%e5%b9%b3%e5%8f%b0%e6%8c%89%e9%9c%80%e6%b1%82%e5%9c%ba%e6%99%af%e8%a1%a5%e5%85%85">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://www.boyar.cn/">博亚和讯&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>适用场景&lt;/strong>：产业逻辑分析、价格波动归因（如产能、进口、政策影响）&lt;/li>
+&lt;li>&lt;strong>数据示例&lt;/strong>：发布《肉牛产业分析报告》，解读存栏下降（2025Q1全国牛存栏降3.5%）对价格的传导机制。&lt;/li>
+&lt;li>&lt;strong>限制&lt;/strong>：部分深度报告需订阅。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="http://stats.customs.gov.cn">海关总署进出口数据平台&lt;/a>&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>适用场景&lt;/strong>：进口价格与贸易动态（如牛肉进口量价、关税影响）&lt;/li>
+&lt;li>&lt;strong>数据示例&lt;/strong>：2025年3月牛肉进口均价4,992美元/吨（同比跌9.1%），来源国占比（巴西45.3%）。&lt;br>
+2025.4月进口价格显示，鲜或冷的整头及半头羔，4万公斤成交价206万人民币，均价为51元/公斤；&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>大宗商品B2B平台（&lt;a href="https://www.roujiaosuo.com">肉交所&lt;/a>）&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>适用场景&lt;/strong>：实时进口牛肉报价、贸易商决策参考&lt;/li>
+&lt;li>&lt;strong>数据示例&lt;/strong>：巴西JBS冻品牛肉到岸价、关税调整预警。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h3 id="-平台对比与选择建议">
+ 💎 &lt;strong>平台对比与选择建议&lt;/strong>
+ &lt;a class="td-heading-self-link" href="#-%e5%b9%b3%e5%8f%b0%e5%af%b9%e6%af%94%e4%b8%8e%e9%80%89%e6%8b%a9%e5%bb%ba%e8%ae%ae">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;strong>平台类型&lt;/strong>&lt;/th>
+ &lt;th>代表平台&lt;/th>
+ &lt;th>核心优势&lt;/th>
+ &lt;th>适用需求&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>官方监测&lt;/strong>&lt;/td>
+ &lt;td>农业农村部批发市场价格系统&lt;/td>
+ &lt;td>权威、免费、高频更新&lt;/td>
+ &lt;td>基础价格查询、趋势跟踪&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>行业分析&lt;/strong>&lt;/td>
+ &lt;td>博亚和讯&lt;/td>
+ &lt;td>产业链深度解读、预警模型&lt;/td>
+ &lt;td>投资决策、产能规划&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>贸易数据&lt;/strong>&lt;/td>
+ &lt;td>海关总署&lt;/td>
+ &lt;td>进口量价、国别分布&lt;/td>
+ &lt;td>进口成本测算、供应链优化&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>实时交易&lt;/strong>&lt;/td>
+ &lt;td>肉交所等B2B平台&lt;/td>
+ &lt;td>现货报价、成交动态&lt;/td>
+ &lt;td>采购/销售定价参考&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="-当前价格趋势2025年6月最新">
+ 📈 &lt;strong>当前价格趋势（2025年6月最新）&lt;/strong>
+ &lt;a class="td-heading-self-link" href="#-%e5%bd%93%e5%89%8d%e4%bb%b7%e6%a0%bc%e8%b6%8b%e5%8a%bf2025%e5%b9%b46%e6%9c%88%e6%9c%80%e6%96%b0">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>牛肉&lt;/strong>：批发价63.29元/公斤（第22周），&lt;strong>连续9周上涨&lt;/strong>，主因国内存栏下降（-3.5%）+南美出口缩量。&lt;/li>
+&lt;li>&lt;strong>羊肉&lt;/strong>：批发价59.53元/公斤（第22周），受牛肉替代效应支撑，&lt;strong>跌幅收窄&lt;/strong>。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="-注意事项">
+ ⚠️ &lt;strong>注意事项&lt;/strong>
+ &lt;a class="td-heading-self-link" href="#-%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a1%b9">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h3>&lt;ol>
+&lt;li>农业农村部数据可能存在1-3天延迟，紧急决策需交叉验证多个平台；&lt;/li>
+&lt;li>批发价通常指&lt;strong>带骨胴体&lt;/strong>，非净肉（净肉价需额外计算分割损耗）；&lt;/li>
+&lt;li>集贸市场价与批发价存在价差（如2025年4月牛肉集市均价68.18元/公斤 vs 批发价63.05元/公斤）。&lt;/li>
+&lt;/ol>
+&lt;p>建议优先以农业农村部系统为核心数据源，再根据具体场景（如贸易、投资）搭配行业平台做深度分析。若需实时进口报价或政策解读，可进一步定向查询海关或B2B平台数据。&lt;/p></description></item><item><title>畜牧种质资源与生产性能评估表 - 云南/云上黑山羊（2025）</title><link>https://coolshell.in/project/agri/sheep/animal-performance-yn-sheep/</link><pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/project/agri/sheep/animal-performance-yn-sheep/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;strong>大类&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>一级指标&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>二级指标&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>指标说明&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>指标量（云上黑山羊）&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>数据来源/备注&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>种质资源&lt;/strong>&lt;/td>
+ &lt;td>原产地&lt;/td>
+ &lt;td>地理标志保护区&lt;/td>
+ &lt;td>列入保护的区域范围&lt;/td>
+ &lt;td>云南红河州&lt;/td>
+ &lt;td>云南省畜禽遗传资源志&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>物种名称&lt;/td>
+ &lt;td>审定名称&lt;/td>
+ &lt;td>国家审定品种名称&lt;/td>
+ &lt;td>&lt;strong>云上黑山羊&lt;/strong>&lt;/td>
+ &lt;td>&lt;strong>国家畜禽新品种（农03新品种证字第18号）&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>审定机构&lt;/td>
+ &lt;td>认证管理机构&lt;/td>
+ &lt;td>国家畜禽遗传资源委员会&lt;/td>
+ &lt;td>农业农村部公告第168号（2019年）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>育种单位&lt;/td>
+ &lt;td>研发机构&lt;/td>
+ &lt;td>主导育种单位&lt;/td>
+ &lt;td>云南省畜牧兽医科学院&lt;/td>
+ &lt;td>联合云南省种羊繁育推广中心等机构&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>亲本血缘&lt;/td>
+ &lt;td>杂交谱系&lt;/td>
+ &lt;td>核心亲本来源&lt;/td>
+ &lt;td>努比山羊（父系）×云岭黑山羊（母系）&lt;/td>
+ &lt;td>杂交选育历时22年（1997-2019）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>饲养方式&lt;/td>
+ &lt;td>适应性&lt;/td>
+ &lt;td>主要养殖模式&lt;/td>
+ &lt;td>舍饲/放牧+补饲&lt;/td>
+ &lt;td>山地适应性突出&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>适应环境&lt;/td>
+ &lt;td>海拔范围&lt;/td>
+ &lt;td>适宜养殖海拔&lt;/td>
+ &lt;td>1000-2000m&lt;/td>
+ &lt;td>从低热河谷到冷凉山区&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>育种能力&lt;/strong>&lt;/td>
+ &lt;td>繁殖性能&lt;/td>
+ &lt;td>产羔率（初产母羊）&lt;/td>
+ &lt;td>初产母羊断奶羔羊/配种母羊比&lt;/td>
+ &lt;td>181.73%&lt;/td>
+ &lt;td>每胎平均1.82只羔羊&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>产羔率（经产母羊）&lt;/td>
+ &lt;td>经产母羊断奶羔羊/配种母羊比&lt;/td>
+ &lt;td>226.06%&lt;/td>
+ &lt;td>每胎平均2.26只羔羊&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>繁殖效率&lt;/td>
+ &lt;td>年产胎数&lt;/td>
+ &lt;td>两年三产&lt;/td>
+ &lt;td>年均1.5胎&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>羔羊成活率（%）&lt;/td>
+ &lt;td>断奶前存活率&lt;/td>
+ &lt;td>&amp;gt;90%&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>生长性能&lt;/td>
+ &lt;td>成年公羊体重（kg）&lt;/td>
+ &lt;td>24月龄体重&lt;/td>
+ &lt;td>&lt;strong>75.79+&lt;/strong>&lt;/td>
+ &lt;td>&lt;strong>核心群基础数据（优化饲喂可达100kg+）&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>成年母羊体重（kg）&lt;/td>
+ &lt;td>24月龄体重&lt;/td>
+ &lt;td>&lt;strong>56.49&lt;/strong>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>周岁公羊体重（kg）&lt;/td>
+ &lt;td>12月龄体重（粗饲）&lt;/td>
+ &lt;td>53.17&lt;/td>
+ &lt;td>传统放牧条件&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>周岁母羊体重（kg）&lt;/td>
+ &lt;td>12月龄体重（粗饲）&lt;/td>
+ &lt;td>41.47&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>6月龄公羊体重（kg）&lt;/td>
+ &lt;td>精饲条件下体重&lt;/td>
+ &lt;td>&lt;strong>50&lt;/strong>&lt;/td>
+ &lt;td>&lt;strong>高能精料+舍饲（HEHP方案）&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>抗逆性&lt;/td>
+ &lt;td>耐粗饲性&lt;/td>
+ &lt;td>粗饲料&amp;gt;70%时日增重保持率&lt;/td>
+ &lt;td>≥85%&lt;/td>
+ &lt;td>山地放牧适应性突出&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>疫病抵抗力&lt;/td>
+ &lt;td>主要疫病发病率&lt;/td>
+ &lt;td>&amp;lt;5%&lt;/td>
+ &lt;td>口蹄疫、羔羊痢疾等&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>育肥表现&lt;/strong>&lt;/td>
+ &lt;td>屠宰性能&lt;/td>
+ &lt;td>胴体重（kg）&lt;/td>
+ &lt;td>12月龄屠宰重（粗饲）&lt;/td>
+ &lt;td>21-30&lt;/td>
+ &lt;td>精饲条件下可达25-32kg&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>屠宰率（%）&lt;/td>
+ &lt;td>胴体重/活体重×100%&lt;/td>
+ &lt;td>52-58%&lt;/td>
+ &lt;td>6月龄以上均&amp;gt;53%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>净肉率（%）&lt;/td>
+ &lt;td>胴体去骨后纯肉占比&lt;/td>
+ &lt;td>78-82%&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>生长效率&lt;/td>
+ &lt;td>公羊月均增重（kg）&lt;/td>
+ &lt;td>育肥期（3-12月龄）平均增重&lt;/td>
+ &lt;td>6.0-8.0&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>公羊日增重（g）&lt;/td>
+ &lt;td>育肥期日均增重&lt;/td>
+ &lt;td>257.78&lt;/td>
+ &lt;td>高能饲喂组数据&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>料肉比&lt;/td>
+ &lt;td>增重1kg消耗饲料量&lt;/td>
+ &lt;td>&lt;strong>精饲：3.5-4.0&lt;/strong>&lt;br>&lt;strong>粗饲：5.8-7.0&lt;/strong>&lt;/td>
+ &lt;td>全株青贮玉米+牧草&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>生长周期&lt;/td>
+ &lt;td>出栏时间（月）&lt;/td>
+ &lt;td>达50kg体重时长&lt;/td>
+ &lt;td>6-7&lt;/td>
+ &lt;td>较传统品种缩短30%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>补充指标&lt;/strong>&lt;/td>
+ &lt;td>肉质特性&lt;/td>
+ &lt;td>肌内脂肪含量（%）&lt;/td>
+ &lt;td>雪花纹理关键指标&lt;/td>
+ &lt;td>3.5-4.2%&lt;/td>
+ &lt;td>云南农大检测&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>氨基酸总量（g/100g）&lt;/td>
+ &lt;td>鲜味物质基础&lt;/td>
+ &lt;td>≥18.5&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>可持续性&lt;/td>
+ &lt;td>碳排放强度（kg CO₂e/kg）&lt;/td>
+ &lt;td>每公斤羊肉生产碳排放&lt;/td>
+ &lt;td>8.2&lt;/td>
+ &lt;td>放牧补饲模式（中国农科院畜牧所）&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="数据审核说明">
+ 数据审核说明
+ &lt;a class="td-heading-self-link" href="#%e6%95%b0%e6%8d%ae%e5%ae%a1%e6%a0%b8%e8%af%b4%e6%98%8e">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>关键数据修订&lt;/strong>：&lt;/p></description></item><item><title>畜牧种质资源与生产性能评估表 - 地名/品种名（年份）</title><link>https://coolshell.in/project/agri/sheep/animal-performance/</link><pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/project/agri/sheep/animal-performance/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;strong>大类&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>一级指标&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>二级指标&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>指标说明&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>指标量&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>备注&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>种质资源&lt;/strong>&lt;/td>
+ &lt;td>原产地&lt;/td>
+ &lt;td>地理标志保护区&lt;/td>
+ &lt;td>列入保护的区域范围&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>物种名称&lt;/td>
+ &lt;td>审定名称&lt;/td>
+ &lt;td>国家审定品种名称&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>审定机构&lt;/td>
+ &lt;td>认证管理机构&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>品种证书号&lt;/td>
+ &lt;td>国家级审定证书编号&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>育种单位&lt;/td>
+ &lt;td>研发机构&lt;/td>
+ &lt;td>主导育种单位&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>亲本血缘&lt;/td>
+ &lt;td>杂交谱系&lt;/td>
+ &lt;td>核心亲本来源（父系/母系）&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>饲养方式&lt;/td>
+ &lt;td>适应性&lt;/td>
+ &lt;td>主要养殖模式&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>适应环境&lt;/td>
+ &lt;td>海拔范围&lt;/td>
+ &lt;td>适宜养殖海拔区间&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>育种能力&lt;/strong>&lt;/td>
+ &lt;td>繁殖性能&lt;/td>
+ &lt;td>产羔率（初产母畜）&lt;/td>
+ &lt;td>初产母畜断奶幼崽/配种母畜比&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>产羔率（经产母畜）&lt;/td>
+ &lt;td>经产母畜断奶幼崽/配种母畜比&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>产羔模式&lt;/td>
+ &lt;td>繁殖效率特征&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>幼崽成活率（%）&lt;/td>
+ &lt;td>断奶前存活率&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>生长性能&lt;/td>
+ &lt;td>成年公畜体重（kg）&lt;/td>
+ &lt;td>24月龄体重&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>成年母畜体重（kg）&lt;/td>
+ &lt;td>24月龄体重&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>周岁公畜体重（kg）&lt;/td>
+ &lt;td>12月龄体重（常规饲养）&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>周岁母畜体重（kg）&lt;/td>
+ &lt;td>12月龄体重（常规饲养）&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>幼龄公畜体重（kg）&lt;/td>
+ &lt;td>优化饲喂条件下体重&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>抗逆性&lt;/td>
+ &lt;td>耐粗饲性&lt;/td>
+ &lt;td>粗饲料&amp;gt;70%时日增重保持率&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>疫病抵抗力&lt;/td>
+ &lt;td>主要疫病发病率&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>育肥表现&lt;/strong>&lt;/td>
+ &lt;td>屠宰性能&lt;/td>
+ &lt;td>胴体重（kg）&lt;/td>
+ &lt;td>标准月龄屠宰重量&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>屠宰率（%）&lt;/td>
+ &lt;td>胴体重/活体重×100%&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>净肉率（%）&lt;/td>
+ &lt;td>胴体去骨后纯肉占比&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>生长效率&lt;/td>
+ &lt;td>公畜月均增重（kg）&lt;/td>
+ &lt;td>育肥期平均增重&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>公畜日增重（g）&lt;/td>
+ &lt;td>育肥期日均增重&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>料肉比&lt;/td>
+ &lt;td>增重1kg消耗饲料量&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>生长周期&lt;/td>
+ &lt;td>出栏时间（月）&lt;/td>
+ &lt;td>达标准体重时长&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>补充指标&lt;/strong>&lt;/td>
+ &lt;td>肉质特性&lt;/td>
+ &lt;td>肌内脂肪含量（%）&lt;/td>
+ &lt;td>雪花纹理关键指标&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>氨基酸总量（g/100g）&lt;/td>
+ &lt;td>鲜味物质基础&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>可持续性&lt;/td>
+ &lt;td>碳排放强度（kg CO₂e/kg）&lt;/td>
+ &lt;td>每公斤肉品生产碳排放&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="通用化说明">
+ 通用化说明
+ &lt;a class="td-heading-self-link" href="#%e9%80%9a%e7%94%a8%e5%8c%96%e8%af%b4%e6%98%8e">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>命名规范&lt;/strong>&lt;/p></description></item><item><title>养殖产业综合能力评估表 - 云南/云上黑山羊（2025）</title><link>https://coolshell.in/project/agri/sheep/husbandry-index-yn-sheep/</link><pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/project/agri/sheep/husbandry-index-yn-sheep/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;strong>大类&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>一级指标&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>二级指标&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>指标说明&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>指标量（云南）&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>备注&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>产业生态圈&lt;/strong>&lt;/td>
+ &lt;td>基础设施&lt;/td>
+ &lt;td>规模化现代养殖率（%）&lt;/td>
+ &lt;td>存栏＞500只养殖场占比&lt;/td>
+ &lt;td>40%&lt;/td>
+ &lt;td>低于全国平均水平&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>养殖场总数量（个）&lt;/td>
+ &lt;td>个体散户+大型养殖场总数&lt;/td>
+ &lt;td>≈5.2万&lt;/td>
+ &lt;td>含散养户&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>智能化设备覆盖率（%）&lt;/td>
+ &lt;td>自动饲喂、环控系统应用比例&lt;/td>
+ &lt;td>＜15%&lt;/td>
+ &lt;td>技术应用滞后&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>饲料工厂数/年产能&lt;/td>
+ &lt;td>饲料厂数量及年供应能力&lt;/td>
+ &lt;td>62家/180万吨&lt;/td>
+ &lt;td>产能利用率不足&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;strong>当地农机站和农资商店数量（个）&lt;/strong>&lt;/td>
+ &lt;td>农机服务站点及农资销售点数量&lt;/td>
+ &lt;td>——&lt;/td>
+ &lt;td>需县级调研补充&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;strong>农机农资年销售总额（万元/年）&lt;/strong>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>——&lt;/td>
+ &lt;td>需县级调研补充&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>屠宰分割厂/年加工能力&lt;/td>
+ &lt;td>屠宰场数量及胴体加工能力&lt;/td>
+ &lt;td>38家/15万吨&lt;/td>
+ &lt;td>仅满足省内部分需求&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>专业肉类食品加工厂总数量（个）&lt;/td>
+ &lt;td>深加工厂数量&lt;/td>
+ &lt;td>12家&lt;/td>
+ &lt;td>精深加工率低&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;strong>年加工能力（吨）&lt;/strong>&lt;/td>
+ &lt;td>预制菜等商品年产能&lt;/td>
+ &lt;td>3.5万吨&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>技术支持&lt;/td>
+ &lt;td>专业院校/研究机构数量（个）&lt;/td>
+ &lt;td>省级以上畜牧研究单位&lt;/td>
+ &lt;td>1家&lt;/td>
+ &lt;td>主导育种工作&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;strong>防疫站、兽药店数量（个）&lt;/strong>&lt;/td>
+ &lt;td>基层动物疫病防控网点数&lt;/td>
+ &lt;td>——&lt;/td>
+ &lt;td>需县级调研补充&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>兽医/技术员配比（人/万只）&lt;/td>
+ &lt;td>每万只羊配备技术人员数&lt;/td>
+ &lt;td>1.2人&lt;/td>
+ &lt;td>服务密度不足&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>政策体系&lt;/td>
+ &lt;td>良种补贴力度（元/只）&lt;/td>
+ &lt;td>政府种羊采购补贴&lt;/td>
+ &lt;td>1000元/只&lt;/td>
+ &lt;td>补贴力度领先&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>粪污资源化利用率（%）&lt;/td>
+ &lt;td>粪便处理成有机肥的比例&lt;/td>
+ &lt;td>80%&lt;/td>
+ &lt;td>规模化场达标率高&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>屠宰加工&lt;/strong>&lt;/td>
+ &lt;td>加工深度&lt;/td>
+ &lt;td>屠宰和精细分割品类数量&lt;/td>
+ &lt;td>冷鲜肉、法式羊排等商品种类&lt;/td>
+ &lt;td>＜10种&lt;/td>
+ &lt;td>以初级分割为主&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>熟食品类的精深加工率（%）&lt;/td>
+ &lt;td>预制菜、熟食等高附加值产品占比&lt;/td>
+ &lt;td>＜20%&lt;/td>
+ &lt;td>远低于全国平均&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>仓储物流&lt;/td>
+ &lt;td>冷库仓储量&lt;/td>
+ &lt;td>冷链仓储总能力&lt;/td>
+ &lt;td>2.1万吨&lt;/td>
+ &lt;td>覆盖品类有限&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;strong>物流能力（吨/年）&lt;/strong>&lt;/td>
+ &lt;td>年货运处理能力&lt;/td>
+ &lt;td>——&lt;/td>
+ &lt;td>需企业调研补充&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>冷链覆盖率（%）&lt;/td>
+ &lt;td>屠宰至零售全程冷链比例&lt;/td>
+ &lt;td>＜30%&lt;/td>
+ &lt;td>物流短板突出&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>生产能力&lt;/strong>&lt;/td>
+ &lt;td>全部品类&lt;/td>
+ &lt;td>存栏量(万只)&lt;/td>
+ &lt;td>全省羊只存栏总数&lt;/td>
+ &lt;td>1290万只&lt;/td>
+ &lt;td>全国重要产区&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>出栏量(万只)&lt;/td>
+ &lt;td>全省羊只年出栏总数&lt;/td>
+ &lt;td>1100万只&lt;/td>
+ &lt;td>出栏效率待提升&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>胴体总产量(万吨)&lt;/td>
+ &lt;td>全省羊肉胴体年产量&lt;/td>
+ &lt;td>19.5万吨&lt;/td>
+ &lt;td>基于标准胴体重计算&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>云上黑山羊&lt;/td>
+ &lt;td>存栏量(万只)&lt;/td>
+ &lt;td>云上黑山羊品种存栏数&lt;/td>
+ &lt;td>123万只&lt;/td>
+ &lt;td>主导品种&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>出栏量(万只)&lt;/td>
+ &lt;td>云上黑山羊年出栏数&lt;/td>
+ &lt;td>98万只&lt;/td>
+ &lt;td>高效品种代表&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>胴体产量(万吨)&lt;/td>
+ &lt;td>云上黑山羊胴体年产量&lt;/td>
+ &lt;td>2.8万吨&lt;/td>
+ &lt;td>高端肉源主力&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>商品化能力&lt;/strong>&lt;/td>
+ &lt;td>价格(元/公斤)&lt;/td>
+ &lt;td>活体收购价&lt;/td>
+ &lt;td>农户活羊销售均价&lt;/td>
+ &lt;td>40-45&lt;/td>
+ &lt;td>价格竞争力强&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>胴体批发价&lt;/td>
+ &lt;td>屠宰场批发均价&lt;/td>
+ &lt;td>≈60&lt;/td>
+ &lt;td>存在价格洼地&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>终端零售价&lt;/td>
+ &lt;td>市场消费者购买均价&lt;/td>
+ &lt;td>94&lt;/td>
+ &lt;td>溢价能力弱&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>市场化能力&lt;/strong>&lt;/td>
+ &lt;td>品牌建设&lt;/td>
+ &lt;td>地理标志认证数量&lt;/td>
+ &lt;td>国家认证的区域品牌数&lt;/td>
+ &lt;td>0个&lt;/td>
+ &lt;td>显著短板&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>媒体曝光指数&lt;/td>
+ &lt;td>主流媒体/社交媒体年提及量&lt;/td>
+ &lt;td>＜50篇（10万+热文）&lt;/td>
+ &lt;td>传播力度不足&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;strong>媒体从业者数量&lt;/strong>&lt;/td>
+ &lt;td>专业媒体人员规模&lt;/td>
+ &lt;td>——&lt;/td>
+ &lt;td>需文化产业统计&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>销售渠道&lt;/td>
+ &lt;td>省外销售占比（%）&lt;/td>
+ &lt;td>销往省外的商品比例&lt;/td>
+ &lt;td>＜15%&lt;/td>
+ &lt;td>外销结构单一&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;strong>省外销售总量（吨）&lt;/strong>&lt;/td>
+ &lt;td>销往省外的商品总量&lt;/td>
+ &lt;td>——&lt;/td>
+ &lt;td>需海关数据支持&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>电商渗透率（%）&lt;/td>
+ &lt;td>线上销售额占比&lt;/td>
+ &lt;td>＜10%&lt;/td>
+ &lt;td>渠道建设滞后&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;strong>当地行业商家数量&lt;/strong>&lt;/td>
+ &lt;td>批发零售从业主体数量&lt;/td>
+ &lt;td>——&lt;/td>
+ &lt;td>需工商登记数据&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>消费者认知&lt;/td>
+ &lt;td>品牌辨识度（%）&lt;/td>
+ &lt;td>消费者对区域品牌认知率&lt;/td>
+ &lt;td>＜20%&lt;/td>
+ &lt;td>认知度偏低&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>消费市场&lt;/td>
+ &lt;td>本地人均消费量（kg/年）&lt;/td>
+ &lt;td>省内居民年人均羊肉消费量&lt;/td>
+ &lt;td>3.2&lt;/td>
+ &lt;td>消费潜力待释放&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;strong>本地总消费量（kg/年）&lt;/strong>&lt;/td>
+ &lt;td>全省羊肉年消费总量&lt;/td>
+ &lt;td>≈16,500万kg&lt;/td>
+ &lt;td>基于人口规模推算&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>注释：该数据部分为虚拟&lt;/p></description></item><item><title>养殖产业综合能力评估表 - 地名/品种名（年份）</title><link>https://coolshell.in/project/agri/sheep/husbandry-index/</link><pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/project/agri/sheep/husbandry-index/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;strong>大类&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>一级指标&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>二级指标&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>指标说明&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>指标量&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>备注&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>产业生态圈&lt;/strong>&lt;/td>
+ &lt;td>基础设施&lt;/td>
+ &lt;td>规模化现代养殖率（%）&lt;/td>
+ &lt;td>存栏＞500只养殖场占比&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>养殖场总数量（个）&lt;/td>
+ &lt;td>个体散户+大型养殖场总数&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>智能化设备覆盖率（%）&lt;/td>
+ &lt;td>自动饲喂、环控系统应用比例&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>饲料工厂数/年产能&lt;/td>
+ &lt;td>饲料厂数量及年供应能力&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>当地农机站和农资商店数量（个）&lt;/td>
+ &lt;td>农机服务站点及农资销售点数量&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>年销售额（万元）&lt;/td>
+ &lt;td>农机农资年销售总额&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>屠宰分割厂/年加工能力&lt;/td>
+ &lt;td>屠宰场数量及胴体加工能力&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>专业肉类食品加工厂总数量（个）&lt;/td>
+ &lt;td>深加工厂数量&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>年加工能力（吨）&lt;/td>
+ &lt;td>预制菜等商品年产能&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>技术支持&lt;/td>
+ &lt;td>专业院校/研究机构数量（个）&lt;/td>
+ &lt;td>省级以上畜牧研究单位&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>防疫站、兽药店数量（个）&lt;/td>
+ &lt;td>基层动物疫病防控网点数&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>兽医/技术员配比（人/万头）&lt;/td>
+ &lt;td>每万头物种配备技术人员数&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>政策体系&lt;/td>
+ &lt;td>良种补贴力度（元/头）&lt;/td>
+ &lt;td>政府种畜采购补贴&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>粪污资源化利用率（%）&lt;/td>
+ &lt;td>粪便处理成有机肥的比例&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>屠宰加工&lt;/strong>&lt;/td>
+ &lt;td>加工深度&lt;/td>
+ &lt;td>屠宰和精细分割品类数量&lt;/td>
+ &lt;td>冷鲜肉、精细分割等商品种类&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>熟食品类的精深加工率（%）&lt;/td>
+ &lt;td>预制菜、熟食等高附加值产品占比&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>仓储物流&lt;/td>
+ &lt;td>冷库仓储量&lt;/td>
+ &lt;td>冷链仓储总能力&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>物流能力（吨/年）&lt;/td>
+ &lt;td>年货运处理能力&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>冷链覆盖率（%）&lt;/td>
+ &lt;td>屠宰至零售全程冷链比例&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>生产能力&lt;/strong>&lt;/td>
+ &lt;td>全部品类&lt;/td>
+ &lt;td>存栏量(万头)&lt;/td>
+ &lt;td>全区域物种存栏总数&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>出栏量(万头)&lt;/td>
+ &lt;td>全区域物种年出栏总数&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>胴体总产量(万吨)&lt;/td>
+ &lt;td>全区域肉品胴体年产量&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>品种名&lt;/td>
+ &lt;td>存栏量(万头)&lt;/td>
+ &lt;td>特定品种存栏数&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>出栏量(万头)&lt;/td>
+ &lt;td>特定品种年出栏数&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>胴体产量(万吨)&lt;/td>
+ &lt;td>特定品种胴体年产量&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>商品化能力&lt;/strong>&lt;/td>
+ &lt;td>价格(元/公斤)&lt;/td>
+ &lt;td>活体收购价&lt;/td>
+ &lt;td>农户活畜销售均价&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>胴体批发价&lt;/td>
+ &lt;td>屠宰场批发均价&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>终端零售价&lt;/td>
+ &lt;td>市场消费者购买均价&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>市场化能力&lt;/strong>&lt;/td>
+ &lt;td>品牌建设&lt;/td>
+ &lt;td>地理标志认证数量&lt;/td>
+ &lt;td>国家认证的区域品牌数&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>媒体曝光指数&lt;/td>
+ &lt;td>主流媒体/社交媒体年提及量&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>媒体从业者数量&lt;/td>
+ &lt;td>专业媒体人员规模&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>销售渠道&lt;/td>
+ &lt;td>省外销售占比（%）&lt;/td>
+ &lt;td>销往外省的商品比例&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>省外销售总量（吨）&lt;/td>
+ &lt;td>销往外省的商品总量&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>电商渗透率（%）&lt;/td>
+ &lt;td>线上销售额占比&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>当地行业商家数量&lt;/td>
+ &lt;td>批发零售从业主体数量&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>消费者认知&lt;/td>
+ &lt;td>品牌辨识度（%）&lt;/td>
+ &lt;td>消费者对区域品牌认知率&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>消费市场&lt;/td>
+ &lt;td>本地人均消费量（kg/年）&lt;/td>
+ &lt;td>区域内居民年人均肉品消费量&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>本地总消费量（kg/年）&lt;/td>
+ &lt;td>区域肉品年消费总量&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="使用指南">
+ &lt;strong>使用指南&lt;/strong>
+ &lt;a class="td-heading-self-link" href="#%e4%bd%bf%e7%94%a8%e6%8c%87%e5%8d%97">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>填写说明&lt;/strong>&lt;/p></description></item></channel></rss>
