@@ -56,7 +56,7 @@ jobs:
       # Build Hugo site
       - run: |
           hugo version
-          hugo --minify --debug --logLevel debug        # Builds and minifies the site
+          hugo --minify --logLevel debug        # Builds and minifies the site
         env:
             HUGO_ENV: production
       # Deploy to GitHub Pages
