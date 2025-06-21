@@ -1,5 +1,5 @@
 ---
-title: 云上黑山羊种质资源与生产性能审核表（修订版）
+title: 畜牧种质资源与生产性能评估表 - 云南/云上黑山羊
 date: 2025-06-10
 description:
 categories:

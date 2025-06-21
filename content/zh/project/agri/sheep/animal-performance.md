@@ -1,5 +1,5 @@
 ---
-title: 畜牧种质资源与生产性能通用评估表
+title: 畜牧种质资源与生产性能评估表 - 地名/品种名
 date: 2025-06-10
 description:
 categories:
@@ -9,7 +9,7 @@ tags:
   - 创业
   - 有机食品
   - 养殖业
-weight: 2
+weight: 3
 ---
 
 

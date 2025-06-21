@@ -1,5 +1,5 @@
 ---
-title: 养殖业综合能力评估表 - 地名
+title: 养殖产业综合能力评估表 - 地名
 date: 2025-06-10
 description:
 categories:
