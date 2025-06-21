@@ -1,5 +1,5 @@
 ---
-title: 畜牧种质资源与生产性能评估表 - 地名/品种名
+title: 畜牧种质资源与生产性能评估表 - 地名/品种名（年份）
 date: 2025-06-10
 description:
 categories:
