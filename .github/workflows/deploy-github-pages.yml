@@ -31,7 +31,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.141.0'    # Specifies Hugo version
+          hugo-version: '0.147.8'    # Specifies Hugo version
           extended: true             # Uses Hugo extended version
 
       # Sets up Node.js environment
@@ -41,11 +41,20 @@ jobs:
           node-version: '23'         # Specifies Node.js version
           cache: 'npm'               # Enables npm dependency caching
           cache-dependency-path: '**/package-lock.json'
+ 
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.19'
 
+      - name: Setup Hugo Modules
+        run: |
+          hugo mod get -u
+          hugo mod verify
       # Install npm dependencies
       - run: npm ci
       # Build Hugo site
-      - run: hugo --minify          # Builds and minifies the site
+      - run: hugo --minify --debug         # Builds and minifies the site
       
       # Deploy to GitHub Pages
       - name: Deploy
