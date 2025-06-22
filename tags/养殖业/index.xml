@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>养殖业 on 酷壳众创</title><link>https://coolshell.in/tags/%E5%85%BB%E6%AE%96%E4%B8%9A/</link><description>Recent content in 养殖业 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sat, 21 Jun 2025 16:12:44 +0200</lastBuildDate><atom:link href="https://coolshell.in/tags/%E5%85%BB%E6%AE%96%E4%B8%9A/index.xml" rel="self" type="application/rss+xml"/><item><title>畜牧种质资源与生产性能评估表 - 地名/品种名（年份）</title><link>https://coolshell.in/project/agri/sheep/animal-performance/</link><pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/project/agri/sheep/animal-performance/</guid><description>&lt;table>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>养殖业 on 酷壳众创</title><link>https://coolshell.in/tags/%E5%85%BB%E6%AE%96%E4%B8%9A/</link><description>Recent content in 养殖业 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 22 Jun 2025 10:23:15 +0200</lastBuildDate><atom:link href="https://coolshell.in/tags/%E5%85%BB%E6%AE%96%E4%B8%9A/index.xml" rel="self" type="application/rss+xml"/><item><title>畜牧种质资源与生产性能评估表 - 地名/品种名（年份）</title><link>https://coolshell.in/project/agri/sheep/animal-performance/</link><pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/project/agri/sheep/animal-performance/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th>&lt;strong>大类&lt;/strong>&lt;/th>
@@ -6,7 +6,7 @@
  &lt;th>&lt;strong>二级指标&lt;/strong>&lt;/th>
  &lt;th>&lt;strong>指标说明&lt;/strong>&lt;/th>
  &lt;th>&lt;strong>指标量&lt;/strong>&lt;/th>
- &lt;th>&lt;strong>备注&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>备注/数据来源&lt;/strong>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
@@ -69,8 +69,8 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>适应环境&lt;/td>
- &lt;td>海拔范围&lt;/td>
- &lt;td>适宜养殖海拔区间&lt;/td>
+ &lt;td>气候区域&lt;/td>
+ &lt;td>适宜养殖的地区和地理气候间&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
@@ -93,8 +93,8 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>产羔模式&lt;/td>
- &lt;td>繁殖效率特征&lt;/td>
+ &lt;td>繁殖效率（胎/年）&lt;/td>
+ &lt;td>年产胎数&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
@@ -141,10 +141,10 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>幼龄公畜体重（kg）&lt;/td>
- &lt;td>优化饲喂条件下体重&lt;/td>
+ &lt;td>半岁公畜体重（kg）&lt;/td>
+ &lt;td>6月龄优化饲喂条件下体重&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>高能精料+舍饲（HEHP方案）&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;/td>
@@ -160,13 +160,13 @@
  &lt;td>疫病抵抗力&lt;/td>
  &lt;td>主要疫病发病率&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>口蹄疫、痢疾等&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;strong>育肥表现&lt;/strong>&lt;/td>
  &lt;td>屠宰性能&lt;/td>
  &lt;td>胴体重（kg）&lt;/td>
- &lt;td>标准月龄屠宰重量&lt;/td>
+ &lt;td>标准6/12月龄屠宰重量&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
@@ -214,7 +214,7 @@
  &lt;td>&lt;/td>
  &lt;td>生长周期&lt;/td>
  &lt;td>出栏时间（月）&lt;/td>
- &lt;td>达标准体重时长&lt;/td>
+ &lt;td>达最优化标准育肥体重的时长&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
@@ -255,12 +255,12 @@
 &lt;p>&lt;strong>命名规范&lt;/strong>&lt;/p></description></item><item><title>养殖产业综合能力评估表 - 地名/品种名（年份）</title><link>https://coolshell.in/project/agri/sheep/husbandry-index/</link><pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/project/agri/sheep/husbandry-index/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th>&lt;strong>大类&lt;/strong>&lt;/th>
- &lt;th>&lt;strong>一级指标&lt;/strong>&lt;/th>
- &lt;th>&lt;strong>二级指标&lt;/strong>&lt;/th>
- &lt;th>&lt;strong>指标说明&lt;/strong>&lt;/th>
- &lt;th>&lt;strong>指标量&lt;/strong>&lt;/th>
- &lt;th>&lt;strong>备注&lt;/strong>&lt;/th>
+ &lt;th>大类&lt;/th>
+ &lt;th>一级指标&lt;/th>
+ &lt;th>二级指标&lt;/th>
+ &lt;th>指标说明&lt;/th>
+ &lt;th>指标量（地名）&lt;/th>
+ &lt;th>备注/数据来源&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
@@ -291,7 +291,7 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>饲料工厂数/年产能&lt;/td>
+ &lt;td>饲料工厂数量/年产能&lt;/td>
  &lt;td>饲料厂数量及年供应能力&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -299,40 +299,8 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>当地农机站和农资商店数量（个）&lt;/td>
+ &lt;td>农机站和农资店数量（个）/销售额（万元/年）&lt;/td>
  &lt;td>农机服务站点及农资销售点数量&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>年销售额（万元）&lt;/td>
- &lt;td>农机农资年销售总额&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>屠宰分割厂/年加工能力&lt;/td>
- &lt;td>屠宰场数量及胴体加工能力&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>专业肉类食品加工厂总数量（个）&lt;/td>
- &lt;td>深加工厂数量&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>年加工能力（吨）&lt;/td>
- &lt;td>预制菜等商品年产能&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
@@ -370,7 +338,7 @@
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>环境资源&lt;/td>
  &lt;td>粪污资源化利用率（%）&lt;/td>
  &lt;td>粪便处理成有机肥的比例&lt;/td>
  &lt;td>&lt;/td>
@@ -379,8 +347,8 @@
  &lt;tr>
  &lt;td>&lt;strong>屠宰加工&lt;/strong>&lt;/td>
  &lt;td>加工深度&lt;/td>
- &lt;td>屠宰和精细分割品类数量&lt;/td>
- &lt;td>冷鲜肉、精细分割等商品种类&lt;/td>
+ &lt;td>屠宰和精细分割品类数量（个）&lt;/td>
+ &lt;td>冷鲜肉、排骨等精细分割等商品种类&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
@@ -394,8 +362,24 @@
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>屠宰分割厂数量（个）/加工能力（吨/年）&lt;/td>
+ &lt;td>屠宰场数量及胴体加工能力&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>肉类食品加工厂数量（个）/加工能力（吨/年）&lt;/td>
+ &lt;td>深加工厂数量/高附加值商品年产能&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
  &lt;td>仓储物流&lt;/td>
- &lt;td>冷库仓储量&lt;/td>
+ &lt;td>冷库仓储量（吨）&lt;/td>
  &lt;td>冷链仓储总能力&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -418,32 +402,8 @@
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;strong>生产能力&lt;/strong>&lt;/td>
- &lt;td>全部品类&lt;/td>
- &lt;td>存栏量(万头)&lt;/td>
- &lt;td>全区域物种存栏总数&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>出栏量(万头)&lt;/td>
- &lt;td>全区域物种年出栏总数&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>胴体总产量(万吨)&lt;/td>
- &lt;td>全区域肉品胴体年产量&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;/td>
  &lt;td>品种名&lt;/td>
- &lt;td>存栏量(万头)&lt;/td>
+ &lt;td>存栏量(万头/年)&lt;/td>
  &lt;td>特定品种存栏数&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -451,7 +411,7 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>出栏量(万头)&lt;/td>
+ &lt;td>出栏量(万头/年)&lt;/td>
  &lt;td>特定品种年出栏数&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -459,15 +419,15 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>胴体产量(万吨)&lt;/td>
+ &lt;td>胴体产量(万吨/年)&lt;/td>
  &lt;td>特定品种胴体年产量&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;strong>商品化能力&lt;/strong>&lt;/td>
- &lt;td>价格(元/公斤)&lt;/td>
- &lt;td>活体收购价&lt;/td>
+ &lt;td>价格&lt;/td>
+ &lt;td>活体收购价（元/头）&lt;/td>
  &lt;td>农户活畜销售均价&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -475,7 +435,7 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>胴体批发价&lt;/td>
+ &lt;td>胴体批发价（元/kg）&lt;/td>
  &lt;td>屠宰场批发均价&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -483,7 +443,7 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>终端零售价&lt;/td>
+ &lt;td>终端零售价（元/kg）&lt;/td>
  &lt;td>市场消费者购买均价&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -491,15 +451,15 @@
  &lt;tr>
  &lt;td>&lt;strong>市场化能力&lt;/strong>&lt;/td>
  &lt;td>品牌建设&lt;/td>
- &lt;td>地理标志认证数量&lt;/td>
- &lt;td>国家认证的区域品牌数&lt;/td>
+ &lt;td>地理标志认证（是/否）&lt;/td>
+ &lt;td>是否国家认证区域地理标志&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>媒体曝光指数&lt;/td>
+ &lt;td>媒体曝光指数（篇）&lt;/td>
  &lt;td>主流媒体/社交媒体年提及量&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -507,7 +467,7 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>媒体从业者数量&lt;/td>
+ &lt;td>媒体从业者数量（个）&lt;/td>
  &lt;td>专业媒体人员规模&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -523,7 +483,7 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>省外销售总量（吨）&lt;/td>
+ &lt;td>省外销售总量（吨/年）&lt;/td>
  &lt;td>销往外省的商品总量&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -539,7 +499,7 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>当地行业商家数量&lt;/td>
+ &lt;td>当地行业商家数量（个）&lt;/td>
  &lt;td>批发零售从业主体数量&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -563,7 +523,7 @@
  &lt;tr>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>本地总消费量（kg/年）&lt;/td>
+ &lt;td>本地总消费量（吨/年）&lt;/td>
  &lt;td>区域肉品年消费总量&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>

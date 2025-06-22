@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>市场 on 酷壳众创</title><link>https://coolshell.in/tags/%E5%B8%82%E5%9C%BA/</link><description>Recent content in 市场 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 20 Jun 2025 21:41:28 +0200</lastBuildDate><atom:link href="https://coolshell.in/tags/%E5%B8%82%E5%9C%BA/index.xml" rel="self" type="application/rss+xml"/><item><title>农业和初级农产品数据平台</title><link>https://coolshell.in/project/agri/agri-data/</link><pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/project/agri/agri-data/</guid><description>&lt;p>如果需要系统、权威地追踪中国牛肉、羊肉等大宗农产品价格，以下是结合行业实践和公开数据源整理的核心推荐，以数据权威性、时效性和实用性作为评估标准：&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>市场 on 酷壳众创</title><link>https://coolshell.in/tags/%E5%B8%82%E5%9C%BA/</link><description>Recent content in 市场 on 酷壳众创</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 22 Jun 2025 10:23:15 +0200</lastBuildDate><atom:link href="https://coolshell.in/tags/%E5%B8%82%E5%9C%BA/index.xml" rel="self" type="application/rss+xml"/><item><title>农业和初级农产品数据平台</title><link>https://coolshell.in/project/agri/agri-data/</link><pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/project/agri/agri-data/</guid><description>&lt;p>如果需要系统、权威地追踪中国牛肉、羊肉等大宗农产品价格，以下是结合行业实践和公开数据源整理的核心推荐，以数据权威性、时效性和实用性作为评估标准：&lt;/p>
 &lt;hr>
 &lt;h3 id="-首选平台农业农村部全国农产品批发市场价格信息系统">
  🏆 &lt;strong>首选平台：农业农村部“全国农产品批发市场价格信息系统”&lt;/strong>
@@ -113,4 +113,97 @@
 &lt;li>批发价通常指&lt;strong>带骨胴体&lt;/strong>，非净肉（净肉价需额外计算分割损耗）；&lt;/li>
 &lt;li>集贸市场价与批发价存在价差（如2025年4月牛肉集市均价68.18元/公斤 vs 批发价63.05元/公斤）。&lt;/li>
 &lt;/ol>
-&lt;p>建议优先以农业农村部系统为核心数据源，再根据具体场景（如贸易、投资）搭配行业平台做深度分析。若需实时进口报价或政策解读，可进一步定向查询海关或B2B平台数据。&lt;/p></description></item></channel></rss>
+&lt;p>建议优先以农业农村部系统为核心数据源，再根据具体场景（如贸易、投资）搭配行业平台做深度分析。若需实时进口报价或政策解读，可进一步定向查询海关或B2B平台数据。&lt;/p></description></item><item><title>养殖业数据评估工具</title><link>https://coolshell.in/project/agri/data-analysis-tools/</link><pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate><guid>https://coolshell.in/project/agri/data-analysis-tools/</guid><description>&lt;p>推荐两款支持数据自动计算分值和指数的养殖业专业评估工具，结合其核心功能、数据自动化能力和应用场景进行对比分析：&lt;/p>
+&lt;hr>
+&lt;h3 id="-1-简道云零代码养殖管理系统">
+ 🧮 &lt;strong>1. 简道云（零代码养殖管理系统）&lt;/strong>
+ &lt;a class="td-heading-self-link" href="#-1-%e7%ae%80%e9%81%93%e4%ba%91%e9%9b%b6%e4%bb%a3%e7%a0%81%e5%85%bb%e6%ae%96%e7%ae%a1%e7%90%86%e7%b3%bb%e7%bb%9f">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h3>&lt;p>&lt;strong>核心功能&lt;/strong>：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>自定义评估表设计&lt;/strong>：通过拖拉拽组件搭建养殖生产记录表（如存栏量、饲料消耗、疫病记录），支持公式嵌入自动计算指标（如料肉比 = 饲料用量/增重 × 100%）。&lt;/li>
+&lt;li>&lt;strong>动态指数生成&lt;/strong>：根据预设规则（如环境参数超标触发预警指数），实时生成养殖健康指数、成本效益指数等。&lt;/li>
+&lt;li>&lt;strong>自动化报表&lt;/strong>：连接传感器数据（温湿度、氨气浓度）后，自动生成趋势图表及综合评分报告。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>典型应用场景&lt;/strong>：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>生产效益评估&lt;/strong>：输入每日饲料投喂量、增重数据 → 自动计算&lt;strong>饲料转化率&lt;/strong>并对比行业基准值。&lt;/li>
+&lt;li>&lt;strong>风险预警&lt;/strong>：当病死率超过阈值时，系统自动提升&lt;strong>风险指数&lt;/strong>并推送告警。&lt;br>
+&lt;strong>优势&lt;/strong>：&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>✅ 零代码灵活适配各类养殖场（禽畜、水产）&lt;br>
+✅ 移动端实时填报数据，多角色协作（技术员、兽医）&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>适用对象&lt;/strong>：中小型养殖场、合作社（需快速定制化评估体系）。&lt;/p>
+&lt;hr>
+&lt;h3 id="-2-finebi智能数据分析平台">
+ 📊 &lt;strong>2. FineBI（智能数据分析平台）&lt;/strong>
+ &lt;a class="td-heading-self-link" href="#-2-finebi%e6%99%ba%e8%83%bd%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90%e5%b9%b3%e5%8f%b0">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h3>&lt;p>&lt;strong>核心功能&lt;/strong>：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>多源数据整合&lt;/strong>：支持导入Excel、数据库及物联网设备数据，自动清洗冗余信息。&lt;/li>
+&lt;li>&lt;strong>高级计算引擎&lt;/strong>：内置统计函数（相关性分析、回归预测），可计算&lt;strong>生长趋势指数&lt;/strong>、&lt;strong>成本收益指数&lt;/strong>。&lt;/li>
+&lt;li>&lt;strong>可视化看板&lt;/strong>：一键生成驾驶舱视图，如“笼养鸭健康评估矩阵”（横轴：疫病发生率，纵轴：日均增重）。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>典型应用场景&lt;/strong>：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>种群性能分析&lt;/strong>：关联种鸭产蛋率与饲料配方 → 自动输出&lt;strong>繁殖效能指数&lt;/strong>。&lt;/li>
+&lt;li>&lt;strong>环保合规评估&lt;/strong>：输入粪污处理量、能源消耗 → 生成&lt;strong>可持续性评分&lt;/strong>（如碳排放强度 kgCO₂e/kg肉）。&lt;br>
+&lt;strong>优势&lt;/strong>：&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>✅ 支持复杂模型（如遗传算法优化养殖周期）&lt;br>
+✅ 与政府监管平台对接，符合绿色养殖认证数据要求&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>适用对象&lt;/strong>：大型养殖企业、集团化生产链（需深度数据挖掘）。&lt;/p>
+&lt;hr>
+&lt;h3 id="-选型对比与建议">
+ 📌 &lt;strong>选型对比与建议&lt;/strong>
+ &lt;a class="td-heading-self-link" href="#-%e9%80%89%e5%9e%8b%e5%af%b9%e6%af%94%e4%b8%8e%e5%bb%ba%e8%ae%ae">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;strong>维度&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>简道云&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>FineBI&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>上手难度&lt;/strong>&lt;/td>
+ &lt;td>低（零代码）✅&lt;/td>
+ &lt;td>中（需基础SQL/统计知识）⚠️&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>自动化程度&lt;/strong>&lt;/td>
+ &lt;td>实时计算+预警推送 ✅&lt;/td>
+ &lt;td>批量分析+预测建模 ✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>成本&lt;/strong>&lt;/td>
+ &lt;td>年费制（¥2000起）&lt;/td>
+ &lt;td>按模块订阅（¥5000起）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>最佳场景&lt;/strong>&lt;/td>
+ &lt;td>日常生产指标监控&lt;/td>
+ &lt;td>战略决策支持、政策合规性评估&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="-实操建议">
+ 💎 &lt;strong>实操建议&lt;/strong>
+ &lt;a class="td-heading-self-link" href="#-%e5%ae%9e%e6%93%8d%e5%bb%ba%e8%ae%ae">
+ &lt;i class="fa fa-link">&lt;/i>
+ &lt;/a>
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>优先简道云&lt;/strong>：若需快速搭建成活率、饲料成本等基础评估表，且团队无技术背景。&lt;/li>
+&lt;li>&lt;strong>选择FineBI&lt;/strong>：若涉及遗传育种分析、碳足迹核算等复杂指数，或需对接省级监管平台数据。&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>💡 &lt;strong>扩展方案&lt;/strong>：对财务专项评估（如资金流预测），可叠加“好会计”软件（自动生成利润率、ROI指数）。&lt;/p></description></item></channel></rss>
