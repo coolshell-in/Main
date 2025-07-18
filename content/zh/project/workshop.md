@@ -1,5 +1,6 @@
 ---
 title: "白牌奢侈品合作社"
+linkTitle: 白牌奢品
 date: 2025-01-01
 description: 让人人都用得起奢侈大牌品质一样的产品
 categories:
